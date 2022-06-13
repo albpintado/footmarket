@@ -6,7 +6,7 @@ import App from "./App";
 describe("App", () => {
   it("renders Betisdiario h1", () => {
     render(<App />);
-    const h1 = screen.getByRole("heading", { name: /betisdiario/i });
+    const h1 = screen.getByRole("heading", { name: /transfootmarket/i });
 
     expect(h1).toBeInTheDocument();
   });

@@ -1,37 +1,50 @@
 * {
   margin: 0;
   box-sizing: border-box;
-  font-family: "Raleway", sans-serif;
+  font-family: "Noto Sans", sans-serif;
   font-weight: 400;
 }
 
-nav {
-  background-color: #11422b;
+body {
+  background-color: #dad7cd;
+}
+
+header nav {
+  box-shadow: 0px -15px 50px 0px rgba(0, 0, 0, 0.75);
+  background-color: #344e41;
+  text-align: center;
 }
 
 article {
-  margin: 1rem 0.5rem;
-  padding: 1rem 0;
-  background-color: rgb(95, 146, 122);
-  border-radius: 1rem;
-  border: 0.0625rem #496f5d solid;
+  margin: 0.5rem;
+  background-color: #a3b18a;
+  border-radius: 0.75rem;
 }
 
-article:nth-child(2n) {
-  background-color: #4c9f70;
+article:last-child {
+  margin-bottom: 0;
+}
+
+nav a {
+  text-decoration: none;
 }
 
 h1 {
-  color: #ecebe4;
-  text-align: center;
-  padding: 0.5rem 0;
-  font-weight: 900;
+  padding: 0.75rem 1rem;
+  font-weight: 600;
+  font-size: 1.375rem;
+  color: #dad7cd;
 }
 
 h2 {
   text-align: center;
   padding: 0.25rem;
-  font-weight: 500;
+  font-weight: 400;
+  color: white;
+  background-color: #588157;
+  border: 0.0625rem #588157 solid;
+  border-top-left-radius: 0.7rem;
+  border-top-right-radius: 0.7rem;
 }
 
 ul {
@@ -60,7 +73,7 @@ footer {
 }
 
 header p {
-  font-weight: 500;
+  font-weight: 400;
   padding: 0.25rem 0;
 }
 
@@ -74,4 +87,22 @@ header p {
 
 footer {
   padding: 0.25rem 0;
+  margin-top: 0.5rem;
+  background-color: #344e41;
+  text-align: center;
+  color: white;
+}
+
+@media only screen and (min-width: 768px) {
+  div.container {
+    width: 75%;
+    margin: 0 auto;
+  }
+}
+
+@media only screen and (min-width: 900px) {
+  div.container {
+    width: 50%;
+    margin: 0 auto;
+  }
 }
