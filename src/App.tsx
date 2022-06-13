@@ -47,7 +47,9 @@ function App() {
     <main className="App">
       <header>
         <nav>
-          <h1>Betisdiario</h1>
+          <a href="/">
+            <h1>Transfootmarket</h1>
+          </a>
         </nav>
       </header>
       {transfers.map((transfer: ClientTransfer) => {
@@ -74,6 +76,7 @@ function App() {
                 </header>
                 <footer>{transfer.teams.out.name}</footer>
               </div>
+              <i className="fa-solid fa-right-long"></i>
               <div className="team-info">
                 <header>
                   <p>Alta</p>
