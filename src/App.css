@@ -84,3 +84,17 @@ header p {
 footer {
   padding: 0.25rem 0;
 }
+
+@media only screen and (min-width: 768px) {
+  div.container {
+    width: 75%;
+    margin: 0 auto;
+  }
+}
+
+@media only screen and (min-width: 900px) {
+  div.container {
+    width: 50%;
+    margin: 0 auto;
+  }
+}
