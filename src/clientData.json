@@ -1,0 +1,8012 @@
+[
+  {
+    "date": "2022-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 42,
+        "name": "Arsenal",
+        "logo": "https://media.api-sports.io/football/teams/42.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Héctor Bellerín Moruno",
+    "playerId": 1439
+  },
+  {
+    "date": "2022-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 548,
+        "name": "Real Sociedad",
+        "logo": "https://media.api-sports.io/football/teams/548.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Willian José da Silva",
+    "playerId": 47319
+  },
+  {
+    "date": "2022-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 540,
+        "name": "Espanyol",
+        "logo": "https://media.api-sports.io/football/teams/540.png"
+      }
+    },
+    "playerName": "Lorenzo Jesús Morón García",
+    "playerId": 1584
+  },
+  {
+    "date": "2022-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 534,
+        "name": "Las Palmas",
+        "logo": "https://media.api-sports.io/football/teams/534.png"
+      }
+    },
+    "playerName": "Rober",
+    "playerId": 1582
+  },
+  {
+    "date": "2022-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 535,
+        "name": "Malaga",
+        "logo": "https://media.api-sports.io/football/teams/535.png"
+      }
+    },
+    "playerName": "Dani Martín",
+    "playerId": 46871
+  },
+  {
+    "date": "2021-11-23",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 9600,
+        "name": "San Fernando CD",
+        "logo": "https://media.api-sports.io/football/teams/9600.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "José Manuel Calderón Portillo",
+    "playerId": 185599
+  },
+  {
+    "date": "2021-08-31",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 42,
+        "name": "Arsenal",
+        "logo": "https://media.api-sports.io/football/teams/42.png"
+      }
+    },
+    "playerName": "Héctor Bellerín Moruno",
+    "playerId": 1439
+  },
+  {
+    "date": "2021-08-26",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 548,
+        "name": "Real Sociedad",
+        "logo": "https://media.api-sports.io/football/teams/548.png"
+      }
+    },
+    "playerName": "Willian José da Silva",
+    "playerId": 47319
+  },
+  {
+    "date": "2021-08-25",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 540,
+        "name": "Espanyol",
+        "logo": "https://media.api-sports.io/football/teams/540.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Lorenzo Jesús Morón García",
+    "playerId": 1584
+  },
+  {
+    "date": "2021-08-20",
+    "type": "€ 4M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 502,
+        "name": "Fiorentina",
+        "logo": "https://media.api-sports.io/football/teams/502.png"
+      }
+    },
+    "playerName": "G. Pezzella",
+    "playerId": 2469
+  },
+  {
+    "date": "2021-07-30",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 535,
+        "name": "Malaga",
+        "logo": "https://media.api-sports.io/football/teams/535.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Dani Martín",
+    "playerId": 46871
+  },
+  {
+    "date": "2021-07-27",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 713,
+        "name": "Cordoba",
+        "logo": "https://media.api-sports.io/football/teams/713.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Carlos Marín Tomás",
+    "playerId": 116438
+  },
+  {
+    "date": "2021-07-25",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 5280,
+        "name": "UD Logroñés",
+        "logo": "https://media.api-sports.io/football/teams/5280.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "David Ramos Guillén",
+    "playerId": 116441
+  },
+  {
+    "date": "2021-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 529,
+        "name": "Barcelona",
+        "logo": "https://media.api-sports.io/football/teams/529.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Emerson",
+    "playerId": 1566
+  },
+  {
+    "date": "2021-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 718,
+        "name": "Oviedo",
+        "logo": "https://media.api-sports.io/football/teams/718.png"
+      }
+    },
+    "playerName": "Edgar González Estrada",
+    "playerId": 1565
+  },
+  {
+    "date": "2021-07-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 529,
+        "name": "Barcelona",
+        "logo": "https://media.api-sports.io/football/teams/529.png"
+      }
+    },
+    "playerName": "Juan Miranda",
+    "playerId": 134
+  },
+  {
+    "date": "2021-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 722,
+        "name": "Albacete",
+        "logo": "https://media.api-sports.io/football/teams/722.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Julio Alonso Sosa",
+    "playerId": 1559
+  },
+  {
+    "date": "2021-07-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 715,
+        "name": "Granada CF",
+        "logo": "https://media.api-sports.io/football/teams/715.png"
+      }
+    },
+    "playerName": "Rui Silva",
+    "playerId": 46672
+  },
+  {
+    "date": "2021-07-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 78,
+        "name": "Bordeaux",
+        "logo": "https://media.api-sports.io/football/teams/78.png"
+      }
+    },
+    "playerName": "Y. Sabaly",
+    "playerId": 1264
+  },
+  {
+    "date": "2021-07-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 533,
+        "name": "Villarreal",
+        "logo": "https://media.api-sports.io/football/teams/533.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "A. Mandi",
+    "playerId": 1567
+  },
+  {
+    "date": "2021-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 534,
+        "name": "Las Palmas",
+        "logo": "https://media.api-sports.io/football/teams/534.png"
+      }
+    },
+    "playerName": "Rober",
+    "playerId": 1582
+  },
+  {
+    "date": "2021-01-31",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 9398,
+        "name": "Linares Deportivo",
+        "logo": "https://media.api-sports.io/football/teams/9398.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "José Manuel Irizo Fernández",
+    "playerId": 1575
+  },
+  {
+    "date": "2021-01-31",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 503,
+        "name": "Torino",
+        "logo": "https://media.api-sports.io/football/teams/503.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Arnaldo Antonio Sanabria Ayala",
+    "playerId": 2522
+  },
+  {
+    "date": "2021-01-31",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 9412,
+        "name": "SS Reyes",
+        "logo": "https://media.api-sports.io/football/teams/9412.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Jorge Jiménez Rodríguez",
+    "playerId": 188415
+  },
+  {
+    "date": "2020-10-05",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 529,
+        "name": "Barcelona",
+        "logo": "https://media.api-sports.io/football/teams/529.png"
+      }
+    },
+    "playerName": "Juan Miranda",
+    "playerId": 134
+  },
+  {
+    "date": "2020-10-04",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 797,
+        "name": "Elche",
+        "logo": "https://media.api-sports.io/football/teams/797.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Barragán",
+    "playerId": 1560
+  },
+  {
+    "date": "2020-10-03",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 542,
+        "name": "Alaves",
+        "logo": "https://media.api-sports.io/football/teams/542.png"
+      }
+    },
+    "playerName": "Ismael Gutiérrez Montilla",
+    "playerId": 146750
+  },
+  {
+    "date": "2020-09-04",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 732,
+        "name": "Zaragoza",
+        "logo": "https://media.api-sports.io/football/teams/732.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "J. Narváez",
+    "playerId": 46922
+  },
+  {
+    "date": "2020-09-03",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 718,
+        "name": "Oviedo",
+        "logo": "https://media.api-sports.io/football/teams/718.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Edgar González Estrada",
+    "playerId": 1565
+  },
+  {
+    "date": "2020-09-02",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 9386,
+        "name": "Escobedo",
+        "logo": "https://media.api-sports.io/football/teams/9386.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "José Luis Trápaga Fuentevilla",
+    "playerId": 188412
+  },
+  {
+    "date": "2020-09-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 495,
+        "name": "Genoa",
+        "logo": "https://media.api-sports.io/football/teams/495.png"
+      }
+    },
+    "playerName": "Arnaldo Antonio Sanabria Ayala",
+    "playerId": 2522
+  },
+  {
+    "date": "2020-09-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 529,
+        "name": "Barcelona",
+        "logo": "https://media.api-sports.io/football/teams/529.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Carles Aleña Castillo",
+    "playerId": 143
+  },
+  {
+    "date": "2020-08-31",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 549,
+        "name": "Besiktas",
+        "logo": "https://media.api-sports.io/football/teams/549.png"
+      }
+    },
+    "playerName": "Víctor Ruíz Torre",
+    "playerId": 1693
+  },
+  {
+    "date": "2020-08-30",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 50,
+        "name": "Manchester City",
+        "logo": "https://media.api-sports.io/football/teams/50.png"
+      }
+    },
+    "playerName": "C. Bravo",
+    "playerId": 614
+  },
+  {
+    "date": "2020-08-25",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 51,
+        "name": "Brighton",
+        "logo": "https://media.api-sports.io/football/teams/51.png"
+      }
+    },
+    "playerName": "Martín Montoya Torralbo",
+    "playerId": 18965
+  },
+  {
+    "date": "2020-08-18",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 228,
+        "name": "Sporting CP",
+        "logo": "https://media.api-sports.io/football/teams/228.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Zouhair Feddal Agharbi",
+    "playerId": 1563
+  },
+  {
+    "date": "2020-08-18",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 722,
+        "name": "Albacete",
+        "logo": "https://media.api-sports.io/football/teams/722.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Liberto Luis Beltrán Martínez",
+    "playerId": 105014
+  },
+  {
+    "date": "2020-08-17",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 723,
+        "name": "Almeria",
+        "logo": "https://media.api-sports.io/football/teams/723.png"
+      }
+    },
+    "playerName": "Francis",
+    "playerId": 1574
+  },
+  {
+    "date": "2020-08-17",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 222,
+        "name": "Boavista",
+        "logo": "https://media.api-sports.io/football/teams/222.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Javi García",
+    "playerId": 1571
+  },
+  {
+    "date": "2020-08-17",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 723,
+        "name": "Almeria",
+        "logo": "https://media.api-sports.io/football/teams/723.png"
+      }
+    },
+    "playerName": "W. Kaptoum",
+    "playerId": 1576
+  },
+  {
+    "date": "2020-08-04",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 542,
+        "name": "Alaves",
+        "logo": "https://media.api-sports.io/football/teams/542.png"
+      }
+    },
+    "playerName": "Víctor Camarasa Ferrando",
+    "playerId": 18998
+  },
+  {
+    "date": "2020-08-04",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 537,
+        "name": "Leganes",
+        "logo": "https://media.api-sports.io/football/teams/537.png"
+      }
+    },
+    "playerName": "Aitor Ruibal García",
+    "playerId": 47119
+  },
+  {
+    "date": "2020-08-04",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 5250,
+        "name": "Badalona",
+        "logo": "https://media.api-sports.io/football/teams/5250.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Alejandro Meléndez Ruiz",
+    "playerId": 182259
+  },
+  {
+    "date": "2020-08-04",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 533,
+        "name": "Villarreal",
+        "logo": "https://media.api-sports.io/football/teams/533.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Pedraza",
+    "playerId": 1702
+  },
+  {
+    "date": "2020-08-04",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 534,
+        "name": "Las Palmas",
+        "logo": "https://media.api-sports.io/football/teams/534.png"
+      }
+    },
+    "playerName": "J. Narváez",
+    "playerId": 46922
+  },
+  {
+    "date": "2020-08-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 9759,
+        "name": "Córdoba II",
+        "logo": "https://media.api-sports.io/football/teams/9759.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Adrián Tellado Robles",
+    "playerId": 1581
+  },
+  {
+    "date": "2020-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 10125,
+        "name": "Europa",
+        "logo": "https://media.api-sports.io/football/teams/10125.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Blas Álvarez Cortés",
+    "playerId": 270640
+  },
+  {
+    "date": "2020-01-31",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 723,
+        "name": "Almeria",
+        "logo": "https://media.api-sports.io/football/teams/723.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Francis",
+    "playerId": 1574
+  },
+  {
+    "date": "2020-01-31",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 9593,
+        "name": "Sabadell",
+        "logo": "https://media.api-sports.io/football/teams/9593.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Xiker Ozerinjauregi Mendikoetxea",
+    "playerId": 134841
+  },
+  {
+    "date": "2020-01-27",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 1876,
+        "name": "Tavagnacco W",
+        "logo": "https://media.api-sports.io/football/teams/1876.png"
+      }
+    },
+    "playerName": "Data not available",
+    "playerId": 90315
+  },
+  {
+    "date": "2020-01-27",
+    "type": "€ 32M",
+    "teams": {
+      "in": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "G. Lo Celso",
+    "playerId": 1578
+  },
+  {
+    "date": "2020-01-14",
+    "type": "€ 9M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 2287,
+        "name": "Club America",
+        "logo": "https://media.api-sports.io/football/teams/2287.png"
+      }
+    },
+    "playerName": "G. Rodríguez",
+    "playerId": 2476
+  },
+  {
+    "date": "2020-01-13",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 542,
+        "name": "Alaves",
+        "logo": "https://media.api-sports.io/football/teams/542.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Ismael Gutiérrez Montilla",
+    "playerId": 146750
+  },
+  {
+    "date": "2020-01-10",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 723,
+        "name": "Almeria",
+        "logo": "https://media.api-sports.io/football/teams/723.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "W. Kaptoum",
+    "playerId": 1576
+  },
+  {
+    "date": "2020-01-02",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 529,
+        "name": "Barcelona",
+        "logo": "https://media.api-sports.io/football/teams/529.png"
+      }
+    },
+    "playerName": "Carles Aleña Castillo",
+    "playerId": 143
+  },
+  {
+    "date": "2019-08-31",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 534,
+        "name": "Las Palmas",
+        "logo": "https://media.api-sports.io/football/teams/534.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "J. Narváez",
+    "playerId": 46922
+  },
+  {
+    "date": "2019-08-21",
+    "type": "€ 7.5M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 728,
+        "name": "Rayo Vallecano",
+        "logo": "https://media.api-sports.io/football/teams/728.png"
+      }
+    },
+    "playerName": "Alexandre Moreno Lopera",
+    "playerId": 47547
+  },
+  {
+    "date": "2019-08-20",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 9389,
+        "name": "Haro Deportivo",
+        "logo": "https://media.api-sports.io/football/teams/9389.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Simón Lecea García",
+    "playerId": 134240
+  },
+  {
+    "date": "2019-08-20",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 5266,
+        "name": "Lleida Esportiu",
+        "logo": "https://media.api-sports.io/football/teams/5266.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Liberto Luis Beltrán Martínez",
+    "playerId": 105014
+  },
+  {
+    "date": "2019-08-14",
+    "type": "€ 28M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 540,
+        "name": "Espanyol",
+        "logo": "https://media.api-sports.io/football/teams/540.png"
+      }
+    },
+    "playerName": "Borja Iglesias Quintas",
+    "playerId": 47348
+  },
+  {
+    "date": "2019-08-09",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 10140,
+        "name": "Mérida AD",
+        "logo": "https://media.api-sports.io/football/teams/10140.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Adrián Tellado Robles",
+    "playerId": 1581
+  },
+  {
+    "date": "2019-08-08",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "G. Lo Celso",
+    "playerId": 1578
+  },
+  {
+    "date": "2019-08-04",
+    "type": "€ 18M",
+    "teams": {
+      "in": {
+        "id": 529,
+        "name": "Barcelona",
+        "logo": "https://media.api-sports.io/football/teams/529.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Héctor Junior Firpo Adames",
+    "playerId": 1564
+  },
+  {
+    "date": "2019-07-27",
+    "type": "€ 3.5M",
+    "teams": {
+      "in": {
+        "id": 1063,
+        "name": "Saint Etienne",
+        "logo": "https://media.api-sports.io/football/teams/1063.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "R. Boudebouz",
+    "playerId": 47436
+  },
+  {
+    "date": "2019-07-24",
+    "type": "€ 2.5M",
+    "teams": {
+      "in": {
+        "id": 545,
+        "name": "Eibar",
+        "logo": "https://media.api-sports.io/football/teams/545.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "T. Inui",
+    "playerId": 2600
+  },
+  {
+    "date": "2019-07-23",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 9410,
+        "name": "Recreativo Huelva",
+        "logo": "https://media.api-sports.io/football/teams/9410.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "José Manuel Irizo Fernández",
+    "playerId": 1575
+  },
+  {
+    "date": "2019-07-23",
+    "type": "€ 22M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 80,
+        "name": "Lyon",
+        "logo": "https://media.api-sports.io/football/teams/80.png"
+      }
+    },
+    "playerName": "Nabil Fekir",
+    "playerId": 668
+  },
+  {
+    "date": "2019-07-23",
+    "type": "€ 1M",
+    "teams": {
+      "in": {
+        "id": 727,
+        "name": "Osasuna",
+        "logo": "https://media.api-sports.io/football/teams/727.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "D. Brašanac",
+    "playerId": 47361
+  },
+  {
+    "date": "2019-07-21",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 3573,
+        "name": "Gazişehir Gaziantep",
+        "logo": "https://media.api-sports.io/football/teams/3573.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Alin Dorinel Toșca",
+    "playerId": 2366
+  },
+  {
+    "date": "2019-07-19",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 5258,
+        "name": "Cornellà",
+        "logo": "https://media.api-sports.io/football/teams/5258.png"
+      }
+    },
+    "playerName": "Xiker Ozerinjauregi Mendikoetxea",
+    "playerId": 134841
+  },
+  {
+    "date": "2019-07-18",
+    "type": "€ 5M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 731,
+        "name": "Sporting Gijon",
+        "logo": "https://media.api-sports.io/football/teams/731.png"
+      }
+    },
+    "playerName": "Dani Martín",
+    "playerId": 46871
+  },
+  {
+    "date": "2019-07-16",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 533,
+        "name": "Villarreal",
+        "logo": "https://media.api-sports.io/football/teams/533.png"
+      }
+    },
+    "playerName": "Pedraza",
+    "playerId": 1702
+  },
+  {
+    "date": "2019-07-16",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 5267,
+        "name": "Marbella",
+        "logo": "https://media.api-sports.io/football/teams/5267.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Carlos Redruello Nimo",
+    "playerId": 104830
+  },
+  {
+    "date": "2019-07-15",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 9382,
+        "name": "Badajoz",
+        "logo": "https://media.api-sports.io/football/teams/9382.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Julio Gracia Gallardo",
+    "playerId": 104805
+  },
+  {
+    "date": "2019-07-10",
+    "type": "€ 23.5M",
+    "teams": {
+      "in": {
+        "id": 497,
+        "name": "AS Roma",
+        "logo": "https://media.api-sports.io/football/teams/497.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Pau López Sabata",
+    "playerId": 1557
+  },
+  {
+    "date": "2019-07-04",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 537,
+        "name": "Leganes",
+        "logo": "https://media.api-sports.io/football/teams/537.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Aitor Ruibal García",
+    "playerId": 47119
+  },
+  {
+    "date": "2019-07-02",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 715,
+        "name": "Granada CF",
+        "logo": "https://media.api-sports.io/football/teams/715.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Jaime Garijo Forcada",
+    "playerId": 1572
+  },
+  {
+    "date": "2019-07-02",
+    "type": "€ 6M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 529,
+        "name": "Barcelona",
+        "logo": "https://media.api-sports.io/football/teams/529.png"
+      }
+    },
+    "playerName": "Emerson",
+    "playerId": 1566
+  },
+  {
+    "date": "2019-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 5262,
+        "name": "FC Cartagena",
+        "logo": "https://media.api-sports.io/football/teams/5262.png"
+      }
+    },
+    "playerName": "Julio Gracia Gallardo",
+    "playerId": 104805
+  },
+  {
+    "date": "2019-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 619,
+        "name": "PAOK",
+        "logo": "https://media.api-sports.io/football/teams/619.png"
+      }
+    },
+    "playerName": "Alin Dorinel Toșca",
+    "playerId": 2366
+  },
+  {
+    "date": "2019-07-01",
+    "type": "€ 8M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 548,
+        "name": "Real Sociedad",
+        "logo": "https://media.api-sports.io/football/teams/548.png"
+      }
+    },
+    "playerName": "Juan Miguel Jiménez López",
+    "playerId": 47320
+  },
+  {
+    "date": "2019-07-01",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 10139,
+        "name": "AD Ceuta FC",
+        "logo": "https://media.api-sports.io/football/teams/10139.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Julio Iglesias Rojas",
+    "playerId": 181442
+  },
+  {
+    "date": "2019-07-01",
+    "type": "€ 22M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 85,
+        "name": "Paris Saint Germain",
+        "logo": "https://media.api-sports.io/football/teams/85.png"
+      }
+    },
+    "playerName": "G. Lo Celso",
+    "playerId": 1578
+  },
+  {
+    "date": "2019-07-01",
+    "type": "€ 4M",
+    "teams": {
+      "in": {
+        "id": 539,
+        "name": "Levante",
+        "logo": "https://media.api-sports.io/football/teams/539.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Sergio León",
+    "playerId": 1583
+  },
+  {
+    "date": "2019-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 85,
+        "name": "Paris Saint Germain",
+        "logo": "https://media.api-sports.io/football/teams/85.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Jesé",
+    "playerId": 1585
+  },
+  {
+    "date": "2019-07-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 798,
+        "name": "Mallorca",
+        "logo": "https://media.api-sports.io/football/teams/798.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Álex Alegría",
+    "playerId": 46898
+  },
+  {
+    "date": "2019-01-31",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 1062,
+        "name": "Atletico-MG",
+        "logo": "https://media.api-sports.io/football/teams/1062.png"
+      }
+    },
+    "playerName": "Emerson",
+    "playerId": 1566
+  },
+  {
+    "date": "2019-01-31",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 538,
+        "name": "Celta Vigo",
+        "logo": "https://media.api-sports.io/football/teams/538.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "R. Boudebouz",
+    "playerId": 47436
+  },
+  {
+    "date": "2019-01-31",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 731,
+        "name": "Sporting Gijon",
+        "logo": "https://media.api-sports.io/football/teams/731.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Álex Alegría",
+    "playerId": 46898
+  },
+  {
+    "date": "2019-01-29",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 85,
+        "name": "Paris Saint Germain",
+        "logo": "https://media.api-sports.io/football/teams/85.png"
+      }
+    },
+    "playerName": "Jesé",
+    "playerId": 1585
+  },
+  {
+    "date": "2019-01-25",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 495,
+        "name": "Genoa",
+        "logo": "https://media.api-sports.io/football/teams/495.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Arnaldo Antonio Sanabria Ayala",
+    "playerId": 2522
+  },
+  {
+    "date": "2019-01-24",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 542,
+        "name": "Alaves",
+        "logo": "https://media.api-sports.io/football/teams/542.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "T. Inui",
+    "playerId": 2600
+  },
+  {
+    "date": "2019-01-10",
+    "type": "€ 14M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 2287,
+        "name": "Club America",
+        "logo": "https://media.api-sports.io/football/teams/2287.png"
+      }
+    },
+    "playerName": "Diego Lainez Leyva",
+    "playerId": 1577
+  },
+  {
+    "date": "2018-08-31",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 85,
+        "name": "Paris Saint Germain",
+        "logo": "https://media.api-sports.io/football/teams/85.png"
+      }
+    },
+    "playerName": "G. Lo Celso",
+    "playerId": 1578
+  },
+  {
+    "date": "2018-08-31",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 542,
+        "name": "Alaves",
+        "logo": "https://media.api-sports.io/football/teams/542.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "D. Brašanac",
+    "playerId": 47361
+  },
+  {
+    "date": "2018-08-31",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 723,
+        "name": "Almeria",
+        "logo": "https://media.api-sports.io/football/teams/723.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "J. Narváez",
+    "playerId": 46922
+  },
+  {
+    "date": "2018-08-31",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 728,
+        "name": "Rayo Vallecano",
+        "logo": "https://media.api-sports.io/football/teams/728.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Álex Alegría",
+    "playerId": 46898
+  },
+  {
+    "date": "2018-08-30",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 544,
+        "name": "Deportivo La Coruna",
+        "logo": "https://media.api-sports.io/football/teams/544.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Pedro López Galisteo",
+    "playerId": 104802
+  },
+  {
+    "date": "2018-08-27",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 5262,
+        "name": "FC Cartagena",
+        "logo": "https://media.api-sports.io/football/teams/5262.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Julio Gracia Gallardo",
+    "playerId": 104805
+  },
+  {
+    "date": "2018-08-27",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 9688,
+        "name": "Atzeneta",
+        "logo": "https://media.api-sports.io/football/teams/9688.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Dan Ojog",
+    "playerId": 123688
+  },
+  {
+    "date": "2018-08-24",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 619,
+        "name": "PAOK",
+        "logo": "https://media.api-sports.io/football/teams/619.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Alin Dorinel Toșca",
+    "playerId": 2366
+  },
+  {
+    "date": "2018-08-24",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 725,
+        "name": "Cultural Leonesa",
+        "logo": "https://media.api-sports.io/football/teams/725.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Liberto Luis Beltrán Martínez",
+    "playerId": 105014
+  },
+  {
+    "date": "2018-08-16",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "W. Kaptoum",
+    "playerId": 1576
+  },
+  {
+    "date": "2018-08-09",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 43,
+        "name": "Cardiff",
+        "logo": "https://media.api-sports.io/football/teams/43.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Víctor Camarasa Ferrando",
+    "playerId": 18998
+  },
+  {
+    "date": "2018-08-02",
+    "type": "€ 4.5M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 544,
+        "name": "Deportivo La Coruna",
+        "logo": "https://media.api-sports.io/football/teams/544.png"
+      }
+    },
+    "playerName": "Sidnei",
+    "playerId": 1562
+  },
+  {
+    "date": "2018-07-26",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 9412,
+        "name": "SS Reyes",
+        "logo": "https://media.api-sports.io/football/teams/9412.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Jesús Pozo Blanco",
+    "playerId": 116915
+  },
+  {
+    "date": "2018-07-23",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 540,
+        "name": "Espanyol",
+        "logo": "https://media.api-sports.io/football/teams/540.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Ignacio González Ruiz",
+    "playerId": 182716
+  },
+  {
+    "date": "2018-07-17",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 9597,
+        "name": "Algeciras",
+        "logo": "https://media.api-sports.io/football/teams/9597.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Juan José Mateos Silva",
+    "playerId": 125582
+  },
+  {
+    "date": "2018-07-13",
+    "type": "€ 15M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 228,
+        "name": "Sporting CP",
+        "logo": "https://media.api-sports.io/football/teams/228.png"
+      }
+    },
+    "playerName": "William Carvalho",
+    "playerId": 1580
+  },
+  {
+    "date": "2018-07-13",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 534,
+        "name": "Las Palmas",
+        "logo": "https://media.api-sports.io/football/teams/534.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Rubén Castro",
+    "playerId": 47012
+  },
+  {
+    "date": "2018-07-10",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 530,
+        "name": "Atletico Madrid",
+        "logo": "https://media.api-sports.io/football/teams/530.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Adán",
+    "playerId": 27
+  },
+  {
+    "date": "2018-07-10",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 534,
+        "name": "Las Palmas",
+        "logo": "https://media.api-sports.io/football/teams/534.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Álvaro Vallés",
+    "playerId": 46990
+  },
+  {
+    "date": "2018-07-05",
+    "type": "€ 30M",
+    "teams": {
+      "in": {
+        "id": 492,
+        "name": "Napoli",
+        "logo": "https://media.api-sports.io/football/teams/492.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Fabián Ruiz",
+    "playerId": 328
+  },
+  {
+    "date": "2018-07-05",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 45,
+        "name": "Everton",
+        "logo": "https://media.api-sports.io/football/teams/45.png"
+      }
+    },
+    "playerName": "Joel Robles Blázquez",
+    "playerId": 1558
+  },
+  {
+    "date": "2018-07-04",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 540,
+        "name": "Espanyol",
+        "logo": "https://media.api-sports.io/football/teams/540.png"
+      }
+    },
+    "playerName": "Pau López Sabata",
+    "playerId": 1557
+  },
+  {
+    "date": "2018-07-04",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 723,
+        "name": "Almeria",
+        "logo": "https://media.api-sports.io/football/teams/723.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "César de la Hoz",
+    "playerId": 46919
+  },
+  {
+    "date": "2018-07-03",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 548,
+        "name": "Real Sociedad",
+        "logo": "https://media.api-sports.io/football/teams/548.png"
+      }
+    },
+    "playerName": "Sergio Canales Madrazo",
+    "playerId": 1570
+  },
+  {
+    "date": "2018-07-02",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 544,
+        "name": "Deportivo La Coruna",
+        "logo": "https://media.api-sports.io/football/teams/544.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Dani Giménez",
+    "playerId": 46784
+  },
+  {
+    "date": "2018-07-02",
+    "type": "€ 1M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 70,
+        "name": "Middlesbrough",
+        "logo": "https://media.api-sports.io/football/teams/70.png"
+      }
+    },
+    "playerName": "Barragán",
+    "playerId": 1560
+  },
+  {
+    "date": "2018-07-02",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 545,
+        "name": "Eibar",
+        "logo": "https://media.api-sports.io/football/teams/545.png"
+      }
+    },
+    "playerName": "T. Inui",
+    "playerId": 2600
+  },
+  {
+    "date": "2018-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 9744,
+        "name": "El Ejido",
+        "logo": "https://media.api-sports.io/football/teams/9744.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Alberto López Serralta",
+    "playerId": 311514
+  },
+  {
+    "date": "2018-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 542,
+        "name": "Alaves",
+        "logo": "https://media.api-sports.io/football/teams/542.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Rafael Jesús Navarro Mazuelos",
+    "playerId": 20997
+  },
+  {
+    "date": "2018-07-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 540,
+        "name": "Espanyol",
+        "logo": "https://media.api-sports.io/football/teams/540.png"
+      }
+    },
+    "playerName": "Edgar González Estrada",
+    "playerId": 1565
+  },
+  {
+    "date": "2018-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 714,
+        "name": "Gimnastic",
+        "logo": "https://media.api-sports.io/football/teams/714.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Carlos Blanco Moreno",
+    "playerId": 104982
+  },
+  {
+    "date": "2018-07-01",
+    "type": "€ 10M",
+    "teams": {
+      "in": {
+        "id": 502,
+        "name": "Fiorentina",
+        "logo": "https://media.api-sports.io/football/teams/502.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "G. Pezzella",
+    "playerId": 2469
+  },
+  {
+    "date": "2018-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 76,
+        "name": "Swansea",
+        "logo": "https://media.api-sports.io/football/teams/76.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Jordi Amat",
+    "playerId": 47531
+  },
+  {
+    "date": "2018-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 537,
+        "name": "Leganes",
+        "logo": "https://media.api-sports.io/football/teams/537.png"
+      }
+    },
+    "playerName": "D. Brašanac",
+    "playerId": 47361
+  },
+  {
+    "date": "2018-07-01",
+    "type": "€ 6.5M",
+    "teams": {
+      "in": {
+        "id": 487,
+        "name": "Lazio",
+        "logo": "https://media.api-sports.io/football/teams/487.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "R. Durmisi",
+    "playerId": 1839
+  },
+  {
+    "date": "2018-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 9760,
+        "name": "Gerena",
+        "logo": "https://media.api-sports.io/football/teams/9760.png"
+      }
+    },
+    "playerName": "Álvaro Vallés",
+    "playerId": 46990
+  },
+  {
+    "date": "2018-06-30",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 42,
+        "name": "Arsenal",
+        "logo": "https://media.api-sports.io/football/teams/42.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "J. Campbell",
+    "playerId": 2845
+  },
+  {
+    "date": "2018-05-10",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 5262,
+        "name": "FC Cartagena",
+        "logo": "https://media.api-sports.io/football/teams/5262.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Aitor Ruibal García",
+    "playerId": 47119
+  },
+  {
+    "date": "2018-05-05",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 797,
+        "name": "Elche",
+        "logo": "https://media.api-sports.io/football/teams/797.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Carlos Redruello Nimo",
+    "playerId": 104830
+  },
+  {
+    "date": "2018-02-07",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 4160,
+        "name": "Rīgas FS",
+        "logo": "https://media.api-sports.io/football/teams/4160.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Beka Vachiberadze",
+    "playerId": 72371
+  },
+  {
+    "date": "2018-02-06",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 1611,
+        "name": "Sporting Kansas City",
+        "logo": "https://media.api-sports.io/football/teams/1611.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "F. Gutiérrez",
+    "playerId": 51260
+  },
+  {
+    "date": "2018-01-31",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 716,
+        "name": "Lugo",
+        "logo": "https://media.api-sports.io/football/teams/716.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "José Carlos",
+    "playerId": 47161
+  },
+  {
+    "date": "2018-01-30",
+    "type": "€ 10.5M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 165,
+        "name": "Borussia Dortmund",
+        "logo": "https://media.api-sports.io/football/teams/165.png"
+      }
+    },
+    "playerName": "Marc Bartra Aregall",
+    "playerId": 1561
+  },
+  {
+    "date": "2018-01-29",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 713,
+        "name": "Cordoba",
+        "logo": "https://media.api-sports.io/football/teams/713.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "J. Narváez",
+    "playerId": 46922
+  },
+  {
+    "date": "2018-01-29",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 529,
+        "name": "Barcelona",
+        "logo": "https://media.api-sports.io/football/teams/529.png"
+      }
+    },
+    "playerName": "W. Kaptoum",
+    "playerId": 1576
+  },
+  {
+    "date": "2018-01-11",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 714,
+        "name": "Gimnastic",
+        "logo": "https://media.api-sports.io/football/teams/714.png"
+      }
+    },
+    "playerName": "Carlos Blanco Moreno",
+    "playerId": 104982
+  },
+  {
+    "date": "2018-01-10",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 15316,
+        "name": "Lorca",
+        "logo": "https://media.api-sports.io/football/teams/15316.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "D. Digard",
+    "playerId": 104861
+  },
+  {
+    "date": "2018-01-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 119,
+        "name": "Internacional",
+        "logo": "https://media.api-sports.io/football/teams/119.png"
+      }
+    },
+    "playerName": "F. Gutiérrez",
+    "playerId": 51260
+  },
+  {
+    "date": "2018-01-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 841,
+        "name": "Guizhou Zhicheng",
+        "logo": "https://media.api-sports.io/football/teams/841.png"
+      }
+    },
+    "playerName": "Rubén Castro",
+    "playerId": 47012
+  },
+  {
+    "date": "2017-11-29",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 9392,
+        "name": "L'Hospitalet",
+        "logo": "https://media.api-sports.io/football/teams/9392.png"
+      }
+    },
+    "playerName": "Aitor Ruibal García",
+    "playerId": 47119
+  },
+  {
+    "date": "2017-09-08",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 722,
+        "name": "Albacete",
+        "logo": "https://media.api-sports.io/football/teams/722.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "R. Zozulya",
+    "playerId": 46726
+  },
+  {
+    "date": "2017-09-06",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 9760,
+        "name": "Gerena",
+        "logo": "https://media.api-sports.io/football/teams/9760.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Álvaro Vallés",
+    "playerId": 46990
+  },
+  {
+    "date": "2017-09-01",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 9677,
+        "name": "Pobla Mafumet",
+        "logo": "https://media.api-sports.io/football/teams/9677.png"
+      }
+    },
+    "playerName": "Nil Coch Montaña",
+    "playerId": 187604
+  },
+  {
+    "date": "2017-08-30",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 537,
+        "name": "Leganes",
+        "logo": "https://media.api-sports.io/football/teams/537.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "D. Brašanac",
+    "playerId": 47361
+  },
+  {
+    "date": "2017-08-30",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 722,
+        "name": "Albacete",
+        "logo": "https://media.api-sports.io/football/teams/722.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "César de la Hoz",
+    "playerId": 46919
+  },
+  {
+    "date": "2017-08-29",
+    "type": "€ 250K",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 797,
+        "name": "Elche",
+        "logo": "https://media.api-sports.io/football/teams/797.png"
+      }
+    },
+    "playerName": "Liberto Luis Beltrán Martínez",
+    "playerId": 105014
+  },
+  {
+    "date": "2017-08-23",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 9769,
+        "name": "Utrera",
+        "logo": "https://media.api-sports.io/football/teams/9769.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Jorge Maristany Ortiz",
+    "playerId": 185565
+  },
+  {
+    "date": "2017-08-18",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 502,
+        "name": "Fiorentina",
+        "logo": "https://media.api-sports.io/football/teams/502.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "G. Pezzella",
+    "playerId": 2469
+  },
+  {
+    "date": "2017-08-14",
+    "type": "€ 1.5M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 596,
+        "name": "Zenit Saint Petersburg",
+        "logo": "https://media.api-sports.io/football/teams/596.png"
+      }
+    },
+    "playerName": "Javi García",
+    "playerId": 1571
+  },
+  {
+    "date": "2017-08-09",
+    "type": "€ 7M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 82,
+        "name": "Montpellier",
+        "logo": "https://media.api-sports.io/football/teams/82.png"
+      }
+    },
+    "playerName": "R. Boudebouz",
+    "playerId": 47436
+  },
+  {
+    "date": "2017-08-08",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 9760,
+        "name": "Gerena",
+        "logo": "https://media.api-sports.io/football/teams/9760.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Sergio Navarro García",
+    "playerId": 185487
+  },
+  {
+    "date": "2017-08-08",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 15316,
+        "name": "Lorca",
+        "logo": "https://media.api-sports.io/football/teams/15316.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "José Carlos",
+    "playerId": 47161
+  },
+  {
+    "date": "2017-08-06",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 860,
+        "name": "Extremadura",
+        "logo": "https://media.api-sports.io/football/teams/860.png"
+      }
+    },
+    "playerName": "Sergio Tienza Valverde",
+    "playerId": 190099
+  },
+  {
+    "date": "2017-08-03",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 727,
+        "name": "Osasuna",
+        "logo": "https://media.api-sports.io/football/teams/727.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Manuel Herrera Yagüe",
+    "playerId": 104844
+  },
+  {
+    "date": "2017-08-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 532,
+        "name": "Valencia",
+        "logo": "https://media.api-sports.io/football/teams/532.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Ángel de la Calzada Ramos",
+    "playerId": 116835
+  },
+  {
+    "date": "2017-07-25",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 95,
+        "name": "Strasbourg",
+        "logo": "https://media.api-sports.io/football/teams/95.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Jonas Martin",
+    "playerId": 22258
+  },
+  {
+    "date": "2017-07-24",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 939,
+        "name": "Western Sydney Wanderers",
+        "logo": "https://media.api-sports.io/football/teams/939.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Álvaro Cejudo Carmona",
+    "playerId": 77168
+  },
+  {
+    "date": "2017-07-24",
+    "type": "€ 2.5M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 542,
+        "name": "Alaves",
+        "logo": "https://media.api-sports.io/football/teams/542.png"
+      }
+    },
+    "playerName": "Zouhair Feddal Agharbi",
+    "playerId": 1563
+  },
+  {
+    "date": "2017-07-14",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 10140,
+        "name": "Mérida AD",
+        "logo": "https://media.api-sports.io/football/teams/10140.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "José Luis Herrera Falcón",
+    "playerId": 186397
+  },
+  {
+    "date": "2017-07-14",
+    "type": "€ 16.5M",
+    "teams": {
+      "in": {
+        "id": 541,
+        "name": "Real Madrid",
+        "logo": "https://media.api-sports.io/football/teams/541.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Daniel Ceballos Fernández",
+    "playerId": 748
+  },
+  {
+    "date": "2017-07-11",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 841,
+        "name": "Guizhou Zhicheng",
+        "logo": "https://media.api-sports.io/football/teams/841.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Rubén Castro",
+    "playerId": 47012
+  },
+  {
+    "date": "2017-07-10",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 9382,
+        "name": "Badajoz",
+        "logo": "https://media.api-sports.io/football/teams/9382.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Juanma García",
+    "playerId": 116884
+  },
+  {
+    "date": "2017-07-07",
+    "type": "€ 2M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 197,
+        "name": "PSV Eindhoven",
+        "logo": "https://media.api-sports.io/football/teams/197.png"
+      }
+    },
+    "playerName": "A. Guardado",
+    "playerId": 1573
+  },
+  {
+    "date": "2017-07-07",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 76,
+        "name": "Swansea",
+        "logo": "https://media.api-sports.io/football/teams/76.png"
+      }
+    },
+    "playerName": "Jordi Amat",
+    "playerId": 47531
+  },
+  {
+    "date": "2017-07-06",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 70,
+        "name": "Middlesbrough",
+        "logo": "https://media.api-sports.io/football/teams/70.png"
+      }
+    },
+    "playerName": "Barragán",
+    "playerId": 1560
+  },
+  {
+    "date": "2017-07-06",
+    "type": "€ 600K",
+    "teams": {
+      "in": {
+        "id": 546,
+        "name": "Getafe",
+        "logo": "https://media.api-sports.io/football/teams/546.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Bruno",
+    "playerId": 47252
+  },
+  {
+    "date": "2017-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 727,
+        "name": "Osasuna",
+        "logo": "https://media.api-sports.io/football/teams/727.png"
+      }
+    },
+    "playerName": "D. Digard",
+    "playerId": 104861
+  },
+  {
+    "date": "2017-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 715,
+        "name": "Granada CF",
+        "logo": "https://media.api-sports.io/football/teams/715.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Francisco Torres Muñoz",
+    "playerId": 185612
+  },
+  {
+    "date": "2017-07-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 715,
+        "name": "Granada CF",
+        "logo": "https://media.api-sports.io/football/teams/715.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Alejandro Martínez Sánchez",
+    "playerId": 46681
+  },
+  {
+    "date": "2017-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 797,
+        "name": "Elche",
+        "logo": "https://media.api-sports.io/football/teams/797.png"
+      }
+    },
+    "playerName": "Fabián Ruiz",
+    "playerId": 328
+  },
+  {
+    "date": "2017-07-01",
+    "type": "€ 3M",
+    "teams": {
+      "in": {
+        "id": 228,
+        "name": "Sporting CP",
+        "logo": "https://media.api-sports.io/football/teams/228.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Cristiano Piccini",
+    "playerId": 921
+  },
+  {
+    "date": "2017-07-01",
+    "type": "€ 5M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 539,
+        "name": "Levante",
+        "logo": "https://media.api-sports.io/football/teams/539.png"
+      }
+    },
+    "playerName": "Víctor Camarasa Ferrando",
+    "playerId": 18998
+  },
+  {
+    "date": "2017-07-01",
+    "type": "€ 4M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 529,
+        "name": "Barcelona",
+        "logo": "https://media.api-sports.io/football/teams/529.png"
+      }
+    },
+    "playerName": "Cristian Tello Herrera",
+    "playerId": 1586
+  },
+  {
+    "date": "2017-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 645,
+        "name": "Galatasaray",
+        "logo": "https://media.api-sports.io/football/teams/645.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "R. Donk",
+    "playerId": 446
+  },
+  {
+    "date": "2017-07-01",
+    "type": "€ 1.5M",
+    "teams": {
+      "in": {
+        "id": 546,
+        "name": "Getafe",
+        "logo": "https://media.api-sports.io/football/teams/546.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Portillo",
+    "playerId": 47262
+  },
+  {
+    "date": "2017-07-01",
+    "type": "€ 3.5M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 727,
+        "name": "Osasuna",
+        "logo": "https://media.api-sports.io/football/teams/727.png"
+      }
+    },
+    "playerName": "Sergio León",
+    "playerId": 1583
+  },
+  {
+    "date": "2017-07-01",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 539,
+        "name": "Levante",
+        "logo": "https://media.api-sports.io/football/teams/539.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Álex Alegría",
+    "playerId": 46898
+  },
+  {
+    "date": "2017-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 548,
+        "name": "Real Sociedad",
+        "logo": "https://media.api-sports.io/football/teams/548.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Rubén Pardo",
+    "playerId": 47312
+  },
+  {
+    "date": "2017-06-27",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 126,
+        "name": "Sao Paulo",
+        "logo": "https://media.api-sports.io/football/teams/126.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Petros Matheus dos Santos Araújo",
+    "playerId": 44318
+  },
+  {
+    "date": "2017-03-30",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 119,
+        "name": "Internacional",
+        "logo": "https://media.api-sports.io/football/teams/119.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "F. Gutiérrez",
+    "playerId": 51260
+  },
+  {
+    "date": "2017-01-24",
+    "type": "€ 1M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 559,
+        "name": "FCSB",
+        "logo": "https://media.api-sports.io/football/teams/559.png"
+      }
+    },
+    "playerName": "Alin Dorinel Toșca",
+    "playerId": 2366
+  },
+  {
+    "date": "2017-01-24",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 548,
+        "name": "Real Sociedad",
+        "logo": "https://media.api-sports.io/football/teams/548.png"
+      }
+    },
+    "playerName": "Rubén Pardo",
+    "playerId": 47312
+  },
+  {
+    "date": "2017-01-02",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 797,
+        "name": "Elche",
+        "logo": "https://media.api-sports.io/football/teams/797.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Fabián Ruiz",
+    "playerId": 328
+  },
+  {
+    "date": "2017-01-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 2540,
+        "name": "Universitario",
+        "logo": "https://media.api-sports.io/football/teams/2540.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Juan Manuel Vargas Risco",
+    "playerId": 101283
+  },
+  {
+    "date": "2017-01-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 9601,
+        "name": "Sanluqueño",
+        "logo": "https://media.api-sports.io/football/teams/9601.png"
+      }
+    },
+    "playerName": "Pedro López Galisteo",
+    "playerId": 104802
+  },
+  {
+    "date": "2016-09-02",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 9405,
+        "name": "Peña Deportiva",
+        "logo": "https://media.api-sports.io/football/teams/9405.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Luis Madrigal Caro",
+    "playerId": 122713
+  },
+  {
+    "date": "2016-08-31",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 727,
+        "name": "Osasuna",
+        "logo": "https://media.api-sports.io/football/teams/727.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "D. Digard",
+    "playerId": 104861
+  },
+  {
+    "date": "2016-08-31",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 546,
+        "name": "Getafe",
+        "logo": "https://media.api-sports.io/football/teams/546.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Foued Kadir",
+    "playerId": 104131
+  },
+  {
+    "date": "2016-08-31",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 645,
+        "name": "Galatasaray",
+        "logo": "https://media.api-sports.io/football/teams/645.png"
+      }
+    },
+    "playerName": "R. Donk",
+    "playerId": 446
+  },
+  {
+    "date": "2016-08-31",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 546,
+        "name": "Getafe",
+        "logo": "https://media.api-sports.io/football/teams/546.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Portillo",
+    "playerId": 47262
+  },
+  {
+    "date": "2016-08-27",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 9601,
+        "name": "Sanluqueño",
+        "logo": "https://media.api-sports.io/football/teams/9601.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Pedro López Galisteo",
+    "playerId": 104802
+  },
+  {
+    "date": "2016-08-24",
+    "type": "€ 1.5M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 573,
+        "name": "FK Partizan",
+        "logo": "https://media.api-sports.io/football/teams/573.png"
+      }
+    },
+    "playerName": "D. Brašanac",
+    "playerId": 47361
+  },
+  {
+    "date": "2016-08-18",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 726,
+        "name": "Huesca",
+        "logo": "https://media.api-sports.io/football/teams/726.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Vadillo",
+    "playerId": 46692
+  },
+  {
+    "date": "2016-08-16",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 731,
+        "name": "Sporting Gijon",
+        "logo": "https://media.api-sports.io/football/teams/731.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Xavi Torres",
+    "playerId": 46981
+  },
+  {
+    "date": "2016-08-10",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 397,
+        "name": "FC Midtjylland",
+        "logo": "https://media.api-sports.io/football/teams/397.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Rafael van der Vaart",
+    "playerId": 114799
+  },
+  {
+    "date": "2016-08-02",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 732,
+        "name": "Zaragoza",
+        "logo": "https://media.api-sports.io/football/teams/732.png"
+      }
+    },
+    "playerName": "Manuel Herrera Yagüe",
+    "playerId": 104844
+  },
+  {
+    "date": "2016-07-27",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 9151,
+        "name": "Dnipro Dnipropetrovsk",
+        "logo": "https://media.api-sports.io/football/teams/9151.png"
+      }
+    },
+    "playerName": "R. Zozulya",
+    "playerId": 46726
+  },
+  {
+    "date": "2016-07-15",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 497,
+        "name": "AS Roma",
+        "logo": "https://media.api-sports.io/football/teams/497.png"
+      }
+    },
+    "playerName": "Arnaldo Antonio Sanabria Ayala",
+    "playerId": 2522
+  },
+  {
+    "date": "2016-07-14",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 194,
+        "name": "Ajax",
+        "logo": "https://media.api-sports.io/football/teams/194.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "H. Westermann",
+    "playerId": 78370
+  },
+  {
+    "date": "2016-07-13",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 9398,
+        "name": "Linares Deportivo",
+        "logo": "https://media.api-sports.io/football/teams/9398.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Luis Lara Roa",
+    "playerId": 178994
+  },
+  {
+    "date": "2016-07-08",
+    "type": "€ 8M",
+    "teams": {
+      "in": {
+        "id": 533,
+        "name": "Villarreal",
+        "logo": "https://media.api-sports.io/football/teams/533.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Alfred John Momar N'Diaye",
+    "playerId": 2992
+  },
+  {
+    "date": "2016-07-06",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 797,
+        "name": "Elche",
+        "logo": "https://media.api-sports.io/football/teams/797.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Javier Magro Matilla",
+    "playerId": 68197
+  },
+  {
+    "date": "2016-07-06",
+    "type": "€ 3.5M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 415,
+        "name": "Twente",
+        "logo": "https://media.api-sports.io/football/teams/415.png"
+      }
+    },
+    "playerName": "F. Gutiérrez",
+    "playerId": 51260
+  },
+  {
+    "date": "2016-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 9767,
+        "name": "San Roque Lepe",
+        "logo": "https://media.api-sports.io/football/teams/9767.png"
+      }
+    },
+    "playerName": "Luis Lara Roa",
+    "playerId": 178994
+  },
+  {
+    "date": "2016-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 2325,
+        "name": "Everton de Vina",
+        "logo": "https://media.api-sports.io/football/teams/2325.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Braian Damián Rodríguez Carballo",
+    "playerId": 53964
+  },
+  {
+    "date": "2016-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 9760,
+        "name": "Gerena",
+        "logo": "https://media.api-sports.io/football/teams/9760.png"
+      }
+    },
+    "playerName": "Sergio Navarro García",
+    "playerId": 185487
+  },
+  {
+    "date": "2016-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 9596,
+        "name": "Linense",
+        "logo": "https://media.api-sports.io/football/teams/9596.png"
+      }
+    },
+    "playerName": "Blas Álvarez Cortés",
+    "playerId": 270640
+  },
+  {
+    "date": "2016-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 9760,
+        "name": "Gerena",
+        "logo": "https://media.api-sports.io/football/teams/9760.png"
+      }
+    },
+    "playerName": "Francisco Torres Muñoz",
+    "playerId": 185612
+  },
+  {
+    "date": "2016-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 797,
+        "name": "Elche",
+        "logo": "https://media.api-sports.io/football/teams/797.png"
+      }
+    },
+    "playerName": "Alejandro Martínez Sánchez",
+    "playerId": 46681
+  },
+  {
+    "date": "2016-07-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 546,
+        "name": "Getafe",
+        "logo": "https://media.api-sports.io/football/teams/546.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Francisco José Molinero Calderón",
+    "playerId": 46880
+  },
+  {
+    "date": "2016-07-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 718,
+        "name": "Oviedo",
+        "logo": "https://media.api-sports.io/football/teams/718.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Francisco Miguel Varela Martín",
+    "playerId": 47104
+  },
+  {
+    "date": "2016-07-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 1037,
+        "name": "Enppi",
+        "logo": "https://media.api-sports.io/football/teams/1037.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Amro Tarek Abdel Aziz",
+    "playerId": 50947
+  },
+  {
+    "date": "2016-07-01",
+    "type": "€ 3M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 82,
+        "name": "Montpellier",
+        "logo": "https://media.api-sports.io/football/teams/82.png"
+      }
+    },
+    "playerName": "Jonas Martin",
+    "playerId": 22258
+  },
+  {
+    "date": "2016-07-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 546,
+        "name": "Getafe",
+        "logo": "https://media.api-sports.io/football/teams/546.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Jorge Molina Vidal",
+    "playerId": 47265
+  },
+  {
+    "date": "2016-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 860,
+        "name": "Extremadura",
+        "logo": "https://media.api-sports.io/football/teams/860.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Samuel González Martínez",
+    "playerId": 47030
+  },
+  {
+    "date": "2016-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 541,
+        "name": "Real Madrid",
+        "logo": "https://media.api-sports.io/football/teams/541.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Antonio Segura González",
+    "playerId": 47008
+  },
+  {
+    "date": "2016-07-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 713,
+        "name": "Cordoba",
+        "logo": "https://media.api-sports.io/football/teams/713.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "José Antonio Caro Martínez",
+    "playerId": 46702
+  },
+  {
+    "date": "2016-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 18937,
+        "name": "FC Sevastopol",
+        "logo": "https://media.api-sports.io/football/teams/18937.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Leandro Damião",
+    "playerId": 32970
+  },
+  {
+    "date": "2016-07-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 2323,
+        "name": "Universidad de Chile",
+        "logo": "https://media.api-sports.io/football/teams/2323.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "L. Reyes",
+    "playerId": 35854
+  },
+  {
+    "date": "2016-07-01",
+    "type": "€ 2M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 407,
+        "name": "Brondby",
+        "logo": "https://media.api-sports.io/football/teams/407.png"
+      }
+    },
+    "playerName": "R. Durmisi",
+    "playerId": 1839
+  },
+  {
+    "date": "2016-07-01",
+    "type": "€ 4M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 93,
+        "name": "Reims",
+        "logo": "https://media.api-sports.io/football/teams/93.png"
+      }
+    },
+    "playerName": "A. Mandi",
+    "playerId": 1567
+  },
+  {
+    "date": "2016-07-01",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 533,
+        "name": "Villarreal",
+        "logo": "https://media.api-sports.io/football/teams/533.png"
+      }
+    },
+    "playerName": "Nahuel Leiva",
+    "playerId": 46802
+  },
+  {
+    "date": "2016-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 717,
+        "name": "Numancia",
+        "logo": "https://media.api-sports.io/football/teams/717.png"
+      }
+    },
+    "playerName": "Álex Alegría",
+    "playerId": 46898
+  },
+  {
+    "date": "2016-06-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 529,
+        "name": "Barcelona",
+        "logo": "https://media.api-sports.io/football/teams/529.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Martín Montoya Torralbo",
+    "playerId": 18965
+  },
+  {
+    "date": "2016-02-04",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 128,
+        "name": "Santos",
+        "logo": "https://media.api-sports.io/football/teams/128.png"
+      }
+    },
+    "playerName": "Leandro Damião",
+    "playerId": 32970
+  },
+  {
+    "date": "2016-02-03",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 1613,
+        "name": "Columbus Crew",
+        "logo": "https://media.api-sports.io/football/teams/1613.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Amro Tarek Abdel Aziz",
+    "playerId": 50947
+  },
+  {
+    "date": "2016-02-01",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media.api-sports.io/football/teams/505.png"
+      }
+    },
+    "playerName": "Martín Montoya Torralbo",
+    "playerId": 18965
+  },
+  {
+    "date": "2016-01-29",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 49,
+        "name": "Chelsea",
+        "logo": "https://media.api-sports.io/football/teams/49.png"
+      }
+    },
+    "playerName": "Charly Musonda Junior",
+    "playerId": 37125
+  },
+  {
+    "date": "2016-01-26",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 541,
+        "name": "Real Madrid",
+        "logo": "https://media.api-sports.io/football/teams/541.png"
+      }
+    },
+    "playerName": "J. Narváez",
+    "playerId": 46922
+  },
+  {
+    "date": "2016-01-20",
+    "type": "€ Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 533,
+        "name": "Villarreal",
+        "logo": "https://media.api-sports.io/football/teams/533.png"
+      }
+    },
+    "playerName": "Dan Ojog",
+    "playerId": 123688
+  },
+  {
+    "date": "2016-01-18",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 9767,
+        "name": "San Roque Lepe",
+        "logo": "https://media.api-sports.io/football/teams/9767.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Marco Rosa Blanco",
+    "playerId": 119016
+  },
+  {
+    "date": "2016-01-15",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 3572,
+        "name": "Eskişehirspor",
+        "logo": "https://media.api-sports.io/football/teams/3572.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Jordi Figueras Montel",
+    "playerId": 90710
+  },
+  {
+    "date": "2016-01-14",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 720,
+        "name": "Valladolid",
+        "logo": "https://media.api-sports.io/football/teams/720.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Vincenzo Renato Rennella",
+    "playerId": 46781
+  },
+  {
+    "date": "2016-01-13",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 9760,
+        "name": "Gerena",
+        "logo": "https://media.api-sports.io/football/teams/9760.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Sergio Navarro García",
+    "playerId": 185487
+  },
+  {
+    "date": "2016-01-07",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 718,
+        "name": "Oviedo",
+        "logo": "https://media.api-sports.io/football/teams/718.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Agustín Emanuel Pastoriza Cacabelos",
+    "playerId": 116919
+  },
+  {
+    "date": "2016-01-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 9392,
+        "name": "L'Hospitalet",
+        "logo": "https://media.api-sports.io/football/teams/9392.png"
+      }
+    },
+    "playerName": "Aitor Ruibal García",
+    "playerId": 47119
+  },
+  {
+    "date": "2015-12-16",
+    "type": "€ Free",
+    "teams": {
+      "in": {
+        "id": 714,
+        "name": "Gimnastic",
+        "logo": "https://media.api-sports.io/football/teams/714.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Carlos García Quesada",
+    "playerId": 116981
+  },
+  {
+    "date": "2015-09-02",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 5279,
+        "name": "Tudelano",
+        "logo": "https://media.api-sports.io/football/teams/5279.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Iván Martín Gómez",
+    "playerId": 40916
+  },
+  {
+    "date": "2015-08-31",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 71,
+        "name": "Norwich",
+        "logo": "https://media.api-sports.io/football/teams/71.png"
+      }
+    },
+    "playerName": "Ricky van Wolfswinkel",
+    "playerId": 48390
+  },
+  {
+    "date": "2015-08-31",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 502,
+        "name": "Fiorentina",
+        "logo": "https://media.api-sports.io/football/teams/502.png"
+      }
+    },
+    "playerName": "Joaquín",
+    "playerId": 1579
+  },
+  {
+    "date": "2015-08-25",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 550,
+        "name": "Shakhtar Donetsk",
+        "logo": "https://media.api-sports.io/football/teams/550.png"
+      }
+    },
+    "playerName": "Beka Vachiberadze",
+    "playerId": 72371
+  },
+  {
+    "date": "2015-08-18",
+    "type": "€ Free",
+    "teams": {
+      "in": {
+        "id": 5280,
+        "name": "UD Logroñés",
+        "logo": "https://media.api-sports.io/football/teams/5280.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Álvaro González Méndez",
+    "playerId": 125569
+  },
+  {
+    "date": "2015-08-14",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 9382,
+        "name": "Badajoz",
+        "logo": "https://media.api-sports.io/football/teams/9382.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Jesús Francisco Muñoz Ruiz",
+    "playerId": 181252
+  },
+  {
+    "date": "2015-08-12",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 502,
+        "name": "Fiorentina",
+        "logo": "https://media.api-sports.io/football/teams/502.png"
+      }
+    },
+    "playerName": "Juan Manuel Vargas Risco",
+    "playerId": 101283
+  },
+  {
+    "date": "2015-08-12",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 9767,
+        "name": "San Roque Lepe",
+        "logo": "https://media.api-sports.io/football/teams/9767.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Emmanuel González Rodríguez",
+    "playerId": 47031
+  },
+  {
+    "date": "2015-08-06",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 175,
+        "name": "Hamburger SV",
+        "logo": "https://media.api-sports.io/football/teams/175.png"
+      }
+    },
+    "playerName": "H. Westermann",
+    "playerId": 78370
+  },
+  {
+    "date": "2015-07-30",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 797,
+        "name": "Elche",
+        "logo": "https://media.api-sports.io/football/teams/797.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Ismael César García",
+    "playerId": 136804
+  },
+  {
+    "date": "2015-07-29",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 9767,
+        "name": "San Roque Lepe",
+        "logo": "https://media.api-sports.io/football/teams/9767.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Luis Lara Roa",
+    "playerId": 178994
+  },
+  {
+    "date": "2015-07-29",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 9760,
+        "name": "Gerena",
+        "logo": "https://media.api-sports.io/football/teams/9760.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Francisco Torres Muñoz",
+    "playerId": 185612
+  },
+  {
+    "date": "2015-07-28",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 542,
+        "name": "Alaves",
+        "logo": "https://media.api-sports.io/football/teams/542.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Dani Pacheco",
+    "playerId": 46837
+  },
+  {
+    "date": "2015-07-27",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 9410,
+        "name": "Recreativo Huelva",
+        "logo": "https://media.api-sports.io/football/teams/9410.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "José Luis Vidal Romero",
+    "playerId": 72764
+  },
+  {
+    "date": "2015-07-21",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 5261,
+        "name": "Ebro",
+        "logo": "https://media.api-sports.io/football/teams/5261.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Javier Montoya Monente",
+    "playerId": 116905
+  },
+  {
+    "date": "2015-07-16",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 724,
+        "name": "Cadiz",
+        "logo": "https://media.api-sports.io/football/teams/724.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Alejandro Lázaro Rodríguez",
+    "playerId": 105042
+  },
+  {
+    "date": "2015-07-13",
+    "type": "€ 2.3M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 435,
+        "name": "River Plate",
+        "logo": "https://media.api-sports.io/football/teams/435.png"
+      }
+    },
+    "playerName": "G. Pezzella",
+    "playerId": 2469
+  },
+  {
+    "date": "2015-07-11",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 1613,
+        "name": "Columbus Crew",
+        "logo": "https://media.api-sports.io/football/teams/1613.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Cedric Mabwati Gerard",
+    "playerId": 104081
+  },
+  {
+    "date": "2015-07-09",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 717,
+        "name": "Numancia",
+        "logo": "https://media.api-sports.io/football/teams/717.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Álex Alegría",
+    "playerId": 46898
+  },
+  {
+    "date": "2015-07-08",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 84,
+        "name": "Nice",
+        "logo": "https://media.api-sports.io/football/teams/84.png"
+      }
+    },
+    "playerName": "D. Digard",
+    "playerId": 104861
+  },
+  {
+    "date": "2015-07-06",
+    "type": "€ 300K",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 1574,
+        "name": "El Gouna FC",
+        "logo": "https://media.api-sports.io/football/teams/1574.png"
+      }
+    },
+    "playerName": "Amro Tarek Abdel Aziz",
+    "playerId": 50947
+  },
+  {
+    "date": "2015-07-06",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 732,
+        "name": "Zaragoza",
+        "logo": "https://media.api-sports.io/football/teams/732.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Isaac Carcelén Valencia",
+    "playerId": 47100
+  },
+  {
+    "date": "2015-07-05",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 723,
+        "name": "Almeria",
+        "logo": "https://media.api-sports.io/football/teams/723.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Manuel Jesús Vázquez Florido",
+    "playerId": 47043
+  },
+  {
+    "date": "2015-07-03",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 5274,
+        "name": "Real Jaén",
+        "logo": "https://media.api-sports.io/football/teams/5274.png"
+      }
+    },
+    "playerName": "Ángel de la Calzada Ramos",
+    "playerId": 116835
+  },
+  {
+    "date": "2015-07-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 175,
+        "name": "Hamburger SV",
+        "logo": "https://media.api-sports.io/football/teams/175.png"
+      }
+    },
+    "playerName": "Rafael van der Vaart",
+    "playerId": 114799
+  },
+  {
+    "date": "2015-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 711,
+        "name": "Alcorcon",
+        "logo": "https://media.api-sports.io/football/teams/711.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Sergio Rodríguez Hurtado",
+    "playerId": 116985
+  },
+  {
+    "date": "2015-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 9760,
+        "name": "Gerena",
+        "logo": "https://media.api-sports.io/football/teams/9760.png"
+      }
+    },
+    "playerName": "Juan José Mateos Silva",
+    "playerId": 125582
+  },
+  {
+    "date": "2015-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 727,
+        "name": "Osasuna",
+        "logo": "https://media.api-sports.io/football/teams/727.png"
+      }
+    },
+    "playerName": "Cedric Mabwati Gerard",
+    "playerId": 104081
+  },
+  {
+    "date": "2015-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 9760,
+        "name": "Gerena",
+        "logo": "https://media.api-sports.io/football/teams/9760.png"
+      }
+    },
+    "playerName": "Ignacio González Ruiz",
+    "playerId": 182716
+  },
+  {
+    "date": "2015-07-01",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 797,
+        "name": "Elche",
+        "logo": "https://media.api-sports.io/football/teams/797.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Alejandro Martínez Sánchez",
+    "playerId": 46681
+  },
+  {
+    "date": "2015-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 537,
+        "name": "Leganes",
+        "logo": "https://media.api-sports.io/football/teams/537.png"
+      }
+    },
+    "playerName": "Manuel Jesús Vázquez Florido",
+    "playerId": 47043
+  },
+  {
+    "date": "2015-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 860,
+        "name": "Extremadura",
+        "logo": "https://media.api-sports.io/football/teams/860.png"
+      }
+    },
+    "playerName": "Diego Manuel Díaz Arteaga",
+    "playerId": 125594
+  },
+  {
+    "date": "2015-07-01",
+    "type": "€ 600K",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 81,
+        "name": "Marseille",
+        "logo": "https://media.api-sports.io/football/teams/81.png"
+      }
+    },
+    "playerName": "Foued Kadir",
+    "playerId": 104131
+  },
+  {
+    "date": "2015-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 9686,
+        "name": "Alcoyano",
+        "logo": "https://media.api-sports.io/football/teams/9686.png"
+      }
+    },
+    "playerName": "Iván Martín Gómez",
+    "playerId": 40916
+  },
+  {
+    "date": "2015-07-01",
+    "type": "€ 1.7M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 131,
+        "name": "Corinthians",
+        "logo": "https://media.api-sports.io/football/teams/131.png"
+      }
+    },
+    "playerName": "Petros Matheus dos Santos Araújo",
+    "playerId": 44318
+  },
+  {
+    "date": "2015-07-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 713,
+        "name": "Cordoba",
+        "logo": "https://media.api-sports.io/football/teams/713.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Héctor Rodas Ramírez",
+    "playerId": 46944
+  },
+  {
+    "date": "2015-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 4907,
+        "name": "Ponferradina",
+        "logo": "https://media.api-sports.io/football/teams/4907.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Jorge Casado Rodríguez",
+    "playerId": 26854
+  },
+  {
+    "date": "2015-07-01",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 797,
+        "name": "Elche",
+        "logo": "https://media.api-sports.io/football/teams/797.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "José Antonio Caro Martínez",
+    "playerId": 46702
+  },
+  {
+    "date": "2015-07-01",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 723,
+        "name": "Almeria",
+        "logo": "https://media.api-sports.io/football/teams/723.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "L. Reyes",
+    "playerId": 35854
+  },
+  {
+    "date": "2015-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 535,
+        "name": "Malaga",
+        "logo": "https://media.api-sports.io/football/teams/535.png"
+      }
+    },
+    "playerName": "Portillo",
+    "playerId": 47262
+  },
+  {
+    "date": "2015-02-24",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 9760,
+        "name": "Gerena",
+        "logo": "https://media.api-sports.io/football/teams/9760.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Juan José Mateos Silva",
+    "playerId": 125582
+  },
+  {
+    "date": "2015-02-02",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 714,
+        "name": "Gimnastic",
+        "logo": "https://media.api-sports.io/football/teams/714.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Sergio Rodríguez Hurtado",
+    "playerId": 116985
+  },
+  {
+    "date": "2015-02-02",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 189,
+        "name": "SV Sandhausen",
+        "logo": "https://media.api-sports.io/football/teams/189.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "José Antonio Delgado Villar",
+    "playerId": 61151
+  },
+  {
+    "date": "2015-01-29",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 539,
+        "name": "Levante",
+        "logo": "https://media.api-sports.io/football/teams/539.png"
+      }
+    },
+    "playerName": "Héctor Rodas Ramírez",
+    "playerId": 46944
+  },
+  {
+    "date": "2015-01-29",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 9739,
+        "name": "Vélez",
+        "logo": "https://media.api-sports.io/football/teams/9739.png"
+      }
+    },
+    "playerName": "Lorenzo Jesús Morón García",
+    "playerId": 1584
+  },
+  {
+    "date": "2015-01-26",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 1601,
+        "name": "Toronto FC",
+        "logo": "https://media.api-sports.io/football/teams/1601.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Damien Perquis",
+    "playerId": 20975
+  },
+  {
+    "date": "2015-01-20",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 2314,
+        "name": "Atletico San Luis",
+        "logo": "https://media.api-sports.io/football/teams/2314.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Paulão",
+    "playerId": 96609
+  },
+  {
+    "date": "2015-01-20",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 732,
+        "name": "Zaragoza",
+        "logo": "https://media.api-sports.io/football/teams/732.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Jaime Isuardi Fernández",
+    "playerId": 117046
+  },
+  {
+    "date": "2015-01-15",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 535,
+        "name": "Malaga",
+        "logo": "https://media.api-sports.io/football/teams/535.png"
+      }
+    },
+    "playerName": "Portillo",
+    "playerId": 47262
+  },
+  {
+    "date": "2015-01-07",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 537,
+        "name": "Leganes",
+        "logo": "https://media.api-sports.io/football/teams/537.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Manuel Jesús Vázquez Florido",
+    "playerId": 47043
+  },
+  {
+    "date": "2014-09-01",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 81,
+        "name": "Marseille",
+        "logo": "https://media.api-sports.io/football/teams/81.png"
+      }
+    },
+    "playerName": "Foued Kadir",
+    "playerId": 104131
+  },
+  {
+    "date": "2014-09-01",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 9686,
+        "name": "Alcoyano",
+        "logo": "https://media.api-sports.io/football/teams/9686.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Iván Martín Gómez",
+    "playerId": 40916
+  },
+  {
+    "date": "2014-08-28",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 727,
+        "name": "Osasuna",
+        "logo": "https://media.api-sports.io/football/teams/727.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Cedric Mabwati Gerard",
+    "playerId": 104081
+  },
+  {
+    "date": "2014-08-27",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 9718,
+        "name": "Trival Valderas",
+        "logo": "https://media.api-sports.io/football/teams/9718.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Diego Zamora Serrano",
+    "playerId": 189637
+  },
+  {
+    "date": "2014-08-27",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 502,
+        "name": "Fiorentina",
+        "logo": "https://media.api-sports.io/football/teams/502.png"
+      }
+    },
+    "playerName": "Cristiano Piccini",
+    "playerId": 921
+  },
+  {
+    "date": "2014-08-20",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 9900,
+        "name": "Guadalajara",
+        "logo": "https://media.api-sports.io/football/teams/9900.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Kevin Lacruz Coscolín",
+    "playerId": 117075
+  },
+  {
+    "date": "2014-08-15",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 717,
+        "name": "Numancia",
+        "logo": "https://media.api-sports.io/football/teams/717.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Braian Damián Rodríguez Carballo",
+    "playerId": 53964
+  },
+  {
+    "date": "2014-08-15",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 711,
+        "name": "Alcorcon",
+        "logo": "https://media.api-sports.io/football/teams/711.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Fausto Antonio Tienza Nuñez",
+    "playerId": 47036
+  },
+  {
+    "date": "2014-08-11",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 727,
+        "name": "Osasuna",
+        "logo": "https://media.api-sports.io/football/teams/727.png"
+      }
+    },
+    "playerName": "Álvaro Cejudo Carmona",
+    "playerId": 77168
+  },
+  {
+    "date": "2014-08-11",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 9392,
+        "name": "L'Hospitalet",
+        "logo": "https://media.api-sports.io/football/teams/9392.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Alejandro Barrera Gómez",
+    "playerId": 185358
+  },
+  {
+    "date": "2014-08-10",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 2877,
+        "name": "Baniyas SC",
+        "logo": "https://media.api-sports.io/football/teams/2877.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Joan Verdú Fernández",
+    "playerId": 78739
+  },
+  {
+    "date": "2014-07-29",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 5268,
+        "name": "Melilla",
+        "logo": "https://media.api-sports.io/football/teams/5268.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Brahim Amar Romero",
+    "playerId": 122699
+  },
+  {
+    "date": "2014-07-27",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 9908,
+        "name": "Toledo",
+        "logo": "https://media.api-sports.io/football/teams/9908.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Eneko Eizmendi Blanco",
+    "playerId": 116977
+  },
+  {
+    "date": "2014-07-23",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 604,
+        "name": "Maccabi Tel Aviv",
+        "logo": "https://media.api-sports.io/football/teams/604.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Emmanuel Nosakhare Igiebor",
+    "playerId": 15407
+  },
+  {
+    "date": "2014-07-17",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 9600,
+        "name": "San Fernando CD",
+        "logo": "https://media.api-sports.io/football/teams/9600.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Adrián Rodríguez López",
+    "playerId": 185421
+  },
+  {
+    "date": "2014-07-17",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 5282,
+        "name": "Villanovense",
+        "logo": "https://media.api-sports.io/football/teams/5282.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Álvaro Garrido Rodríguez",
+    "playerId": 136830
+  },
+  {
+    "date": "2014-07-16",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 535,
+        "name": "Malaga",
+        "logo": "https://media.api-sports.io/football/teams/535.png"
+      }
+    },
+    "playerName": "Jesús Mosquera Bernal",
+    "playerId": 190256
+  },
+  {
+    "date": "2014-07-11",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 711,
+        "name": "Alcorcon",
+        "logo": "https://media.api-sports.io/football/teams/711.png"
+      }
+    },
+    "playerName": "Dani Pacheco",
+    "playerId": 46837
+  },
+  {
+    "date": "2014-07-10",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 5251,
+        "name": "Barakaldo",
+        "logo": "https://media.api-sports.io/football/teams/5251.png"
+      }
+    },
+    "playerName": "César de la Hoz",
+    "playerId": 46919
+  },
+  {
+    "date": "2014-07-09",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 720,
+        "name": "Valladolid",
+        "logo": "https://media.api-sports.io/football/teams/720.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Francisco Javier Chica Torres",
+    "playerId": 116876
+  },
+  {
+    "date": "2014-07-06",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 719,
+        "name": "Tenerife",
+        "logo": "https://media.api-sports.io/football/teams/719.png"
+      }
+    },
+    "playerName": "Bruno",
+    "playerId": 47252
+  },
+  {
+    "date": "2014-07-04",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 711,
+        "name": "Alcorcon",
+        "logo": "https://media.api-sports.io/football/teams/711.png"
+      }
+    },
+    "playerName": "Dani Giménez",
+    "playerId": 46784
+  },
+  {
+    "date": "2014-07-04",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 9760,
+        "name": "Gerena",
+        "logo": "https://media.api-sports.io/football/teams/9760.png"
+      }
+    },
+    "playerName": "Rafael Jesús Navarro Mazuelos",
+    "playerId": 20997
+  },
+  {
+    "date": "2014-07-04",
+    "type": "€ Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 541,
+        "name": "Real Madrid",
+        "logo": "https://media.api-sports.io/football/teams/541.png"
+      }
+    },
+    "playerName": "Jorge Casado Rodríguez",
+    "playerId": 26854
+  },
+  {
+    "date": "2014-07-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 728,
+        "name": "Rayo Vallecano",
+        "logo": "https://media.api-sports.io/football/teams/728.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Antonio Amaya Carazo",
+    "playerId": 104904
+  },
+  {
+    "date": "2014-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 716,
+        "name": "Lugo",
+        "logo": "https://media.api-sports.io/football/teams/716.png"
+      }
+    },
+    "playerName": "Sergio Rodríguez Hurtado",
+    "playerId": 116985
+  },
+  {
+    "date": "2014-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 716,
+        "name": "Lugo",
+        "logo": "https://media.api-sports.io/football/teams/716.png"
+      }
+    },
+    "playerName": "Vincenzo Renato Rennella",
+    "playerId": 46781
+  },
+  {
+    "date": "2014-07-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 400,
+        "name": "FC Copenhagen",
+        "logo": "https://media.api-sports.io/football/teams/400.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Stephan Maigaard Andersen",
+    "playerId": 1280
+  },
+  {
+    "date": "2014-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 5275,
+        "name": "Real Murcia",
+        "logo": "https://media.api-sports.io/football/teams/5275.png"
+      }
+    },
+    "playerName": "Alejandro Martínez Sánchez",
+    "playerId": 46681
+  },
+  {
+    "date": "2014-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 5275,
+        "name": "Real Murcia",
+        "logo": "https://media.api-sports.io/football/teams/5275.png"
+      }
+    },
+    "playerName": "Francisco José Molinero Calderón",
+    "playerId": 46880
+  },
+  {
+    "date": "2014-07-01",
+    "type": "€ 1M",
+    "teams": {
+      "in": {
+        "id": 38,
+        "name": "Watford",
+        "logo": "https://media.api-sports.io/football/teams/38.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Juan Francisco Moreno Fuertes",
+    "playerId": 47405
+  },
+  {
+    "date": "2014-07-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 540,
+        "name": "Espanyol",
+        "logo": "https://media.api-sports.io/football/teams/540.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Salvador Sevilla López",
+    "playerId": 46743
+  },
+  {
+    "date": "2014-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 9772,
+        "name": "Écija",
+        "logo": "https://media.api-sports.io/football/teams/9772.png"
+      }
+    },
+    "playerName": "Álvaro Garrido Rodríguez",
+    "playerId": 136830
+  },
+  {
+    "date": "2014-01-30",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 410,
+        "name": "GO Ahead Eagles",
+        "logo": "https://media.api-sports.io/football/teams/410.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Stephan Maigaard Andersen",
+    "playerId": 1280
+  },
+  {
+    "date": "2014-01-30",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 746,
+        "name": "Sunderland",
+        "logo": "https://media.api-sports.io/football/teams/746.png"
+      }
+    },
+    "playerName": "Alfred John Momar N'Diaye",
+    "playerId": 2992
+  },
+  {
+    "date": "2014-01-28",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": null,
+        "name": null,
+        "logo": null
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Borja Navarro",
+    "playerId": 116980
+  },
+  {
+    "date": "2014-01-27",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 490,
+        "name": "Cagliari",
+        "logo": "https://media.api-sports.io/football/teams/490.png"
+      }
+    },
+    "playerName": "Adán",
+    "playerId": 27
+  },
+  {
+    "date": "2014-01-23",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 716,
+        "name": "Lugo",
+        "logo": "https://media.api-sports.io/football/teams/716.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Sergio Rodríguez Hurtado",
+    "playerId": 116985
+  },
+  {
+    "date": "2014-01-18",
+    "type": "€ 80K",
+    "teams": {
+      "in": {
+        "id": 786,
+        "name": "TSV 1860 Munich",
+        "logo": "https://media.api-sports.io/football/teams/786.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "M. Steinhöfer",
+    "playerId": 90659
+  },
+  {
+    "date": "2014-01-11",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 530,
+        "name": "Atletico Madrid",
+        "logo": "https://media.api-sports.io/football/teams/530.png"
+      }
+    },
+    "playerName": "Léo Baptistão",
+    "playerId": 13062
+  },
+  {
+    "date": "2013-08-24",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 9392,
+        "name": "L'Hospitalet",
+        "logo": "https://media.api-sports.io/football/teams/9392.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Aridai Cabrera Suárez",
+    "playerId": 46748
+  },
+  {
+    "date": "2013-08-18",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 9772,
+        "name": "Écija",
+        "logo": "https://media.api-sports.io/football/teams/9772.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Álvaro Garrido Rodríguez",
+    "playerId": 136830
+  },
+  {
+    "date": "2013-08-17",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 544,
+        "name": "Deportivo La Coruna",
+        "logo": "https://media.api-sports.io/football/teams/544.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Fabri",
+    "playerId": 19011
+  },
+  {
+    "date": "2013-08-16",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 5275,
+        "name": "Real Murcia",
+        "logo": "https://media.api-sports.io/football/teams/5275.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Alejandro Martínez Sánchez",
+    "playerId": 46681
+  },
+  {
+    "date": "2013-08-14",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 9760,
+        "name": "Gerena",
+        "logo": "https://media.api-sports.io/football/teams/9760.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Ignacio González Ruiz",
+    "playerId": 182716
+  },
+  {
+    "date": "2013-08-11",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 9596,
+        "name": "Linense",
+        "logo": "https://media.api-sports.io/football/teams/9596.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Manu Palancar",
+    "playerId": 116970
+  },
+  {
+    "date": "2013-08-07",
+    "type": "€ 2.8M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 546,
+        "name": "Getafe",
+        "logo": "https://media.api-sports.io/football/teams/546.png"
+      }
+    },
+    "playerName": "Xavi Torres",
+    "playerId": 46981
+  },
+  {
+    "date": "2013-08-03",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 530,
+        "name": "Atletico Madrid",
+        "logo": "https://media.api-sports.io/football/teams/530.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Bernabé Barragán Maestre",
+    "playerId": 47211
+  },
+  {
+    "date": "2013-08-02",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 9686,
+        "name": "Alcoyano",
+        "logo": "https://media.api-sports.io/football/teams/9686.png"
+      }
+    },
+    "playerName": "Álvaro González Méndez",
+    "playerId": 125569
+  },
+  {
+    "date": "2013-08-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 533,
+        "name": "Villarreal",
+        "logo": "https://media.api-sports.io/football/teams/533.png"
+      }
+    },
+    "playerName": "Diego Zamora Serrano",
+    "playerId": 189637
+  },
+  {
+    "date": "2013-08-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 9760,
+        "name": "Gerena",
+        "logo": "https://media.api-sports.io/football/teams/9760.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Rafael Jesús Navarro Mazuelos",
+    "playerId": 20997
+  },
+  {
+    "date": "2013-08-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 9760,
+        "name": "Gerena",
+        "logo": "https://media.api-sports.io/football/teams/9760.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Francisco José Ávila Martínez",
+    "playerId": 185569
+  },
+  {
+    "date": "2013-07-29",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 9758,
+        "name": "Coria CF",
+        "logo": "https://media.api-sports.io/football/teams/9758.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Álvaro Rodríguez Vélez",
+    "playerId": 188467
+  },
+  {
+    "date": "2013-07-29",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 731,
+        "name": "Sporting Gijon",
+        "logo": "https://media.api-sports.io/football/teams/731.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Antonio Ayala Fernández",
+    "playerId": 185577
+  },
+  {
+    "date": "2013-07-27",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 716,
+        "name": "Lugo",
+        "logo": "https://media.api-sports.io/football/teams/716.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Vincenzo Renato Rennella",
+    "playerId": 46781
+  },
+  {
+    "date": "2013-07-26",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 495,
+        "name": "Genoa",
+        "logo": "https://media.api-sports.io/football/teams/495.png"
+      }
+    },
+    "playerName": "Vincenzo Renato Rennella",
+    "playerId": 46781
+  },
+  {
+    "date": "2013-07-24",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 5275,
+        "name": "Real Murcia",
+        "logo": "https://media.api-sports.io/football/teams/5275.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Casto Espinosa Barriga",
+    "playerId": 47015
+  },
+  {
+    "date": "2013-07-15",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 465,
+        "name": "Atletico DE Rafaela",
+        "logo": "https://media.api-sports.io/football/teams/465.png"
+      }
+    },
+    "playerName": "Guillermo Sara",
+    "playerId": 6197
+  },
+  {
+    "date": "2013-07-15",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 551,
+        "name": "FC Basel 1893",
+        "logo": "https://media.api-sports.io/football/teams/551.png"
+      }
+    },
+    "playerName": "M. Steinhöfer",
+    "playerId": 90659
+  },
+  {
+    "date": "2013-07-15",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 732,
+        "name": "Zaragoza",
+        "logo": "https://media.api-sports.io/football/teams/732.png"
+      }
+    },
+    "playerName": "Kevin Lacruz Coscolín",
+    "playerId": 117075
+  },
+  {
+    "date": "2013-07-11",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 797,
+        "name": "Elche",
+        "logo": "https://media.api-sports.io/football/teams/797.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Manuel Herrera López",
+    "playerId": 117052
+  },
+  {
+    "date": "2013-07-07",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 714,
+        "name": "Gimnastic",
+        "logo": "https://media.api-sports.io/football/teams/714.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "David Querol",
+    "playerId": 46780
+  },
+  {
+    "date": "2013-07-06",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 9586,
+        "name": "Real Unión",
+        "logo": "https://media.api-sports.io/football/teams/9586.png"
+      }
+    },
+    "playerName": "Alejandro Adrián Hernández Santiago",
+    "playerId": 179251
+  },
+  {
+    "date": "2013-07-05",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 536,
+        "name": "Sevilla",
+        "logo": "https://media.api-sports.io/football/teams/536.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Adrián Wojcik Kosela",
+    "playerId": 187670
+  },
+  {
+    "date": "2013-07-03",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 9410,
+        "name": "Recreativo Huelva",
+        "logo": "https://media.api-sports.io/football/teams/9410.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Ezequiel Calvente Criado",
+    "playerId": 89027
+  },
+  {
+    "date": "2013-07-02",
+    "type": "€ 500K",
+    "teams": {
+      "in": {
+        "id": 76,
+        "name": "Swansea",
+        "logo": "https://media.api-sports.io/football/teams/76.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Pozuelo",
+    "playerId": 50818
+  },
+  {
+    "date": "2013-07-01",
+    "type": "€ 8M",
+    "teams": {
+      "in": {
+        "id": 531,
+        "name": "Athletic Club",
+        "logo": "https://media.api-sports.io/football/teams/531.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Beñat",
+    "playerId": 47280
+  },
+  {
+    "date": "2013-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 11233,
+        "name": "Bakı",
+        "logo": "https://media.api-sports.io/football/teams/11233.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Mario Abrante",
+    "playerId": 36033
+  },
+  {
+    "date": "2013-07-01",
+    "type": "€ Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 5268,
+        "name": "Melilla",
+        "logo": "https://media.api-sports.io/football/teams/5268.png"
+      }
+    },
+    "playerName": "Brahim Amar Romero",
+    "playerId": 122699
+  },
+  {
+    "date": "2013-07-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 3006,
+        "name": "Evian TG",
+        "logo": "https://media.api-sports.io/football/teams/3006.png"
+      }
+    },
+    "playerName": "Stephan Maigaard Andersen",
+    "playerId": 1280
+  },
+  {
+    "date": "2013-07-01",
+    "type": "€ 768.4K",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 2328,
+        "name": "Huachipato",
+        "logo": "https://media.api-sports.io/football/teams/2328.png"
+      }
+    },
+    "playerName": "Braian Damián Rodríguez Carballo",
+    "playerId": 53964
+  },
+  {
+    "date": "2013-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 4665,
+        "name": "Racing Santander",
+        "logo": "https://media.api-sports.io/football/teams/4665.png"
+      }
+    },
+    "playerName": "Jaime Isuardi Fernández",
+    "playerId": 117046
+  },
+  {
+    "date": "2013-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 160,
+        "name": "SC Freiburg",
+        "logo": "https://media.api-sports.io/football/teams/160.png"
+      }
+    },
+    "playerName": "Ezequiel Calvente Criado",
+    "playerId": 89027
+  },
+  {
+    "date": "2013-07-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 540,
+        "name": "Espanyol",
+        "logo": "https://media.api-sports.io/football/teams/540.png"
+      }
+    },
+    "playerName": "Joan Verdú Fernández",
+    "playerId": 78739
+  },
+  {
+    "date": "2013-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 717,
+        "name": "Numancia",
+        "logo": "https://media.api-sports.io/football/teams/717.png"
+      }
+    },
+    "playerName": "Cedric Mabwati Gerard",
+    "playerId": 104081
+  },
+  {
+    "date": "2013-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 5251,
+        "name": "Barakaldo",
+        "logo": "https://media.api-sports.io/football/teams/5251.png"
+      }
+    },
+    "playerName": "Javier Montoya Monente",
+    "playerId": 116905
+  },
+  {
+    "date": "2013-07-01",
+    "type": "€ 600K",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 9410,
+        "name": "Recreativo Huelva",
+        "logo": "https://media.api-sports.io/football/teams/9410.png"
+      }
+    },
+    "playerName": "Manuel Jesús Vázquez Florido",
+    "playerId": 47043
+  },
+  {
+    "date": "2013-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 529,
+        "name": "Barcelona",
+        "logo": "https://media.api-sports.io/football/teams/529.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Miguel Ángel Sainz Maza López",
+    "playerId": 56947
+  },
+  {
+    "date": "2013-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 9580,
+        "name": "Burgos",
+        "logo": "https://media.api-sports.io/football/teams/9580.png"
+      }
+    },
+    "playerName": "Jesús Francisco Muñoz Ruiz",
+    "playerId": 181252
+  },
+  {
+    "date": "2013-07-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 48,
+        "name": "West Ham",
+        "logo": "https://media.api-sports.io/football/teams/48.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Adrián San Miguel del Castillo",
+    "playerId": 18812
+  },
+  {
+    "date": "2013-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 530,
+        "name": "Atletico Madrid",
+        "logo": "https://media.api-sports.io/football/teams/530.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Rubén Salvador Pérez Del Mármol",
+    "playerId": 47415
+  },
+  {
+    "date": "2013-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 5275,
+        "name": "Real Murcia",
+        "logo": "https://media.api-sports.io/football/teams/5275.png"
+      }
+    },
+    "playerName": "Javier Magro Matilla",
+    "playerId": 68197
+  },
+  {
+    "date": "2013-07-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 76,
+        "name": "Swansea",
+        "logo": "https://media.api-sports.io/football/teams/76.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "José Alberto Cañas Ruiz Herrera",
+    "playerId": 2369
+  },
+  {
+    "date": "2013-07-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 541,
+        "name": "Real Madrid",
+        "logo": "https://media.api-sports.io/football/teams/541.png"
+      }
+    },
+    "playerName": "Juan Francisco Moreno Fuertes",
+    "playerId": 47405
+  },
+  {
+    "date": "2013-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 9601,
+        "name": "Sanluqueño",
+        "logo": "https://media.api-sports.io/football/teams/9601.png"
+      }
+    },
+    "playerName": "Emmanuel González Rodríguez",
+    "playerId": 47031
+  },
+  {
+    "date": "2013-07-01",
+    "type": "€ 900K",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 2328,
+        "name": "Huachipato",
+        "logo": "https://media.api-sports.io/football/teams/2328.png"
+      }
+    },
+    "playerName": "L. Reyes",
+    "playerId": 35854
+  },
+  {
+    "date": "2013-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 554,
+        "name": "Anderlecht",
+        "logo": "https://media.api-sports.io/football/teams/554.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "G. Molins",
+    "playerId": 1963
+  },
+  {
+    "date": "2013-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 2282,
+        "name": "Monterrey",
+        "logo": "https://media.api-sports.io/football/teams/2282.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "D. Pabón",
+    "playerId": 35555
+  },
+  {
+    "date": "2013-01-31",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 5268,
+        "name": "Melilla",
+        "logo": "https://media.api-sports.io/football/teams/5268.png"
+      }
+    },
+    "playerName": "Fausto Antonio Tienza Nuñez",
+    "playerId": 47036
+  },
+  {
+    "date": "2013-01-31",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 2282,
+        "name": "Monterrey",
+        "logo": "https://media.api-sports.io/football/teams/2282.png"
+      }
+    },
+    "playerName": "D. Pabón",
+    "playerId": 35555
+  },
+  {
+    "date": "2013-01-29",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 522,
+        "name": "Palermo",
+        "logo": "https://media.api-sports.io/football/teams/522.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Nélson Augusto Tomar Marcos",
+    "playerId": 105003
+  },
+  {
+    "date": "2013-01-25",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 547,
+        "name": "Girona",
+        "logo": "https://media.api-sports.io/football/teams/547.png"
+      }
+    },
+    "playerName": "Aridai Cabrera Suárez",
+    "playerId": 46748
+  },
+  {
+    "date": "2013-01-24",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 533,
+        "name": "Villarreal",
+        "logo": "https://media.api-sports.io/football/teams/533.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "José Antonio Dorado Ramírez",
+    "playerId": 47049
+  },
+  {
+    "date": "2013-01-21",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 1583,
+        "name": "Robur Siena",
+        "logo": "https://media.api-sports.io/football/teams/1583.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Salvador Agra",
+    "playerId": 40407
+  },
+  {
+    "date": "2013-01-18",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 554,
+        "name": "Anderlecht",
+        "logo": "https://media.api-sports.io/football/teams/554.png"
+      }
+    },
+    "playerName": "G. Molins",
+    "playerId": 1963
+  },
+  {
+    "date": "2013-01-10",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 529,
+        "name": "Barcelona",
+        "logo": "https://media.api-sports.io/football/teams/529.png"
+      }
+    },
+    "playerName": "Miguel Ángel Sainz Maza López",
+    "playerId": 56947
+  },
+  {
+    "date": "2013-01-01",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 533,
+        "name": "Villarreal",
+        "logo": "https://media.api-sports.io/football/teams/533.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Jonathan Pereira",
+    "playerId": 46958
+  },
+  {
+    "date": "2012-08-31",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 9767,
+        "name": "San Roque Lepe",
+        "logo": "https://media.api-sports.io/football/teams/9767.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Santiago Jiménez Luque",
+    "playerId": 187554
+  },
+  {
+    "date": "2012-08-29",
+    "type": "€ 750K",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 115,
+        "name": "Sochaux",
+        "logo": "https://media.api-sports.io/football/teams/115.png"
+      }
+    },
+    "playerName": "Damien Perquis",
+    "playerId": 20975
+  },
+  {
+    "date": "2012-08-27",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 16239,
+        "name": "Polonia Warszawa",
+        "logo": "https://media.api-sports.io/football/teams/16239.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Isidoro",
+    "playerId": 39059
+  },
+  {
+    "date": "2012-08-27",
+    "type": "€ 1.1M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 4501,
+        "name": "Hapoel Tel Aviv",
+        "logo": "https://media.api-sports.io/football/teams/4501.png"
+      }
+    },
+    "playerName": "Emmanuel Nosakhare Igiebor",
+    "playerId": 15407
+  },
+  {
+    "date": "2012-08-23",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 9601,
+        "name": "Sanluqueño",
+        "logo": "https://media.api-sports.io/football/teams/9601.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Enrique Márquez Climent",
+    "playerId": 47039
+  },
+  {
+    "date": "2012-08-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 797,
+        "name": "Elche",
+        "logo": "https://media.api-sports.io/football/teams/797.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Carlos Alfonso Fernández Herrera",
+    "playerId": 117178
+  },
+  {
+    "date": "2012-07-31",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": null,
+        "name": null,
+        "logo": null
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Jaime Contreras",
+    "playerId": 208909
+  },
+  {
+    "date": "2012-07-31",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 5275,
+        "name": "Real Murcia",
+        "logo": "https://media.api-sports.io/football/teams/5275.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Javier Magro Matilla",
+    "playerId": 68197
+  },
+  {
+    "date": "2012-07-26",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 160,
+        "name": "SC Freiburg",
+        "logo": "https://media.api-sports.io/football/teams/160.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Ezequiel Calvente Criado",
+    "playerId": 89027
+  },
+  {
+    "date": "2012-07-18",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 9384,
+        "name": "Cacereño",
+        "logo": "https://media.api-sports.io/football/teams/9384.png"
+      }
+    },
+    "playerName": "Álex Alegría",
+    "playerId": 46898
+  },
+  {
+    "date": "2012-07-11",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 217,
+        "name": "SC Braga",
+        "logo": "https://media.api-sports.io/football/teams/217.png"
+      }
+    },
+    "playerName": "Juan Carlos Pérez López",
+    "playerId": 46819
+  },
+  {
+    "date": "2012-07-10",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 1063,
+        "name": "Saint Etienne",
+        "logo": "https://media.api-sports.io/football/teams/1063.png"
+      }
+    },
+    "playerName": "Paulão",
+    "playerId": 96609
+  },
+  {
+    "date": "2012-07-10",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 713,
+        "name": "Cordoba",
+        "logo": "https://media.api-sports.io/football/teams/713.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Damián Ezequiel Petcoff Kailer",
+    "playerId": 125400
+  },
+  {
+    "date": "2012-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 533,
+        "name": "Villarreal",
+        "logo": "https://media.api-sports.io/football/teams/533.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Guillem Savall Parera",
+    "playerId": 187965
+  },
+  {
+    "date": "2012-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 9413,
+        "name": "Sestao River",
+        "logo": "https://media.api-sports.io/football/teams/9413.png"
+      }
+    },
+    "playerName": "Eder Vilarchao",
+    "playerId": 116976
+  },
+  {
+    "date": "2012-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 9767,
+        "name": "San Roque Lepe",
+        "logo": "https://media.api-sports.io/football/teams/9767.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "David Agudo Pérez",
+    "playerId": 77606
+  },
+  {
+    "date": "2012-07-01",
+    "type": "€ 300K",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 807,
+        "name": "Olhanense",
+        "logo": "https://media.api-sports.io/football/teams/807.png"
+      }
+    },
+    "playerName": "Salvador Agra",
+    "playerId": 40407
+  },
+  {
+    "date": "2012-07-01",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 530,
+        "name": "Atletico Madrid",
+        "logo": "https://media.api-sports.io/football/teams/530.png"
+      }
+    },
+    "playerName": "Rubén Salvador Pérez Del Mármol",
+    "playerId": 47415
+  },
+  {
+    "date": "2012-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 9388,
+        "name": "Guijuelo",
+        "logo": "https://media.api-sports.io/football/teams/9388.png"
+      }
+    },
+    "playerName": "Eneko Eizmendi Blanco",
+    "playerId": 116977
+  },
+  {
+    "date": "2012-01-31",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 534,
+        "name": "Las Palmas",
+        "logo": "https://media.api-sports.io/football/teams/534.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Momo",
+    "playerId": 47003
+  },
+  {
+    "date": "2012-01-30",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 9593,
+        "name": "Sabadell",
+        "logo": "https://media.api-sports.io/football/teams/9593.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Ezequiel Calvente Criado",
+    "playerId": 89027
+  },
+  {
+    "date": "2012-01-24",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 1063,
+        "name": "Saint Etienne",
+        "logo": "https://media.api-sports.io/football/teams/1063.png"
+      }
+    },
+    "playerName": "Paulão",
+    "playerId": 96609
+  },
+  {
+    "date": "2011-09-01",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 598,
+        "name": "FK Crvena Zvezda",
+        "logo": "https://media.api-sports.io/football/teams/598.png"
+      }
+    },
+    "playerName": "D. Tošić",
+    "playerId": 12928
+  },
+  {
+    "date": "2011-09-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 799,
+        "name": "Mirandes",
+        "logo": "https://media.api-sports.io/football/teams/799.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "José Jurado",
+    "playerId": 94732
+  },
+  {
+    "date": "2011-08-29",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 50,
+        "name": "Manchester City",
+        "logo": "https://media.api-sports.io/football/teams/50.png"
+      }
+    },
+    "playerName": "Roque Luis Santa Cruz Cantero",
+    "playerId": 70775
+  },
+  {
+    "date": "2011-08-11",
+    "type": "€ 4.5M",
+    "teams": {
+      "in": {
+        "id": 8097,
+        "name": "Al Hilal",
+        "logo": "https://media.api-sports.io/football/teams/8097.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Achille Emaná Edzimbi",
+    "playerId": 105062
+  },
+  {
+    "date": "2011-08-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 719,
+        "name": "Tenerife",
+        "logo": "https://media.api-sports.io/football/teams/719.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Brimah Razak",
+    "playerId": 98982
+  },
+  {
+    "date": "2011-08-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 5268,
+        "name": "Melilla",
+        "logo": "https://media.api-sports.io/football/teams/5268.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Edgar Antonio Méndez Ortega",
+    "playerId": 35575
+  },
+  {
+    "date": "2011-08-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 729,
+        "name": "Reus",
+        "logo": "https://media.api-sports.io/football/teams/729.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Sergio León",
+    "playerId": 1583
+  },
+  {
+    "date": "2011-07-18",
+    "type": "285K €",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 61,
+        "name": "Wigan",
+        "logo": "https://media.api-sports.io/football/teams/61.png"
+      }
+    },
+    "playerName": "Antonio Amaya Carazo",
+    "playerId": 104904
+  },
+  {
+    "date": "2011-07-07",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 9600,
+        "name": "San Fernando CD",
+        "logo": "https://media.api-sports.io/football/teams/9600.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Eric Barroso",
+    "playerId": 255435
+  },
+  {
+    "date": "2011-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 727,
+        "name": "Osasuna",
+        "logo": "https://media.api-sports.io/football/teams/727.png"
+      }
+    },
+    "playerName": "Nélson Augusto Tomar Marcos",
+    "playerId": 105003
+  },
+  {
+    "date": "2011-07-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 546,
+        "name": "Getafe",
+        "logo": "https://media.api-sports.io/football/teams/546.png"
+      }
+    },
+    "playerName": "Mario Abrante",
+    "playerId": 36033
+  },
+  {
+    "date": "2011-07-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 540,
+        "name": "Espanyol",
+        "logo": "https://media.api-sports.io/football/teams/540.png"
+      }
+    },
+    "playerName": "Francisco Javier Chica Torres",
+    "playerId": 116876
+  },
+  {
+    "date": "2011-07-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 720,
+        "name": "Valladolid",
+        "logo": "https://media.api-sports.io/football/teams/720.png"
+      }
+    },
+    "playerName": "Fabri",
+    "playerId": 19011
+  },
+  {
+    "date": "2011-07-01",
+    "type": "€ 1.4M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 533,
+        "name": "Villarreal",
+        "logo": "https://media.api-sports.io/football/teams/533.png"
+      }
+    },
+    "playerName": "Javier Magro Matilla",
+    "playerId": 68197
+  },
+  {
+    "date": "2011-07-01",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 533,
+        "name": "Villarreal",
+        "logo": "https://media.api-sports.io/football/teams/533.png"
+      }
+    },
+    "playerName": "Jefferson Antonio Montero Vite",
+    "playerId": 19161
+  },
+  {
+    "date": "2011-02-01",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 459,
+        "name": "Arsenal Sarandi",
+        "logo": "https://media.api-sports.io/football/teams/459.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Juan Pablo Caffa",
+    "playerId": 81329
+  },
+  {
+    "date": "2011-02-01",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 715,
+        "name": "Granada CF",
+        "logo": "https://media.api-sports.io/football/teams/715.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Juande",
+    "playerId": 6812
+  },
+  {
+    "date": "2010-09-01",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 212,
+        "name": "FC Porto",
+        "logo": "https://media.api-sports.io/football/teams/212.png"
+      }
+    },
+    "playerName": "Hugo Miguel Almeida Costa Lopes",
+    "playerId": 2128
+  },
+  {
+    "date": "2010-08-27",
+    "type": "€ 1.8M",
+    "teams": {
+      "in": {
+        "id": 540,
+        "name": "Espanyol",
+        "logo": "https://media.api-sports.io/football/teams/540.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Sergio García de la Fuente",
+    "playerId": 47347
+  },
+  {
+    "date": "2010-08-20",
+    "type": "Free",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 531,
+        "name": "Athletic Club",
+        "logo": "https://media.api-sports.io/football/teams/531.png"
+      }
+    },
+    "playerName": "Beñat",
+    "playerId": 47280
+  },
+  {
+    "date": "2010-08-02",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 544,
+        "name": "Deportivo La Coruna",
+        "logo": "https://media.api-sports.io/football/teams/544.png"
+      }
+    },
+    "playerName": "Rubén Castro",
+    "playerId": 47012
+  },
+  {
+    "date": "2010-08-01",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 727,
+        "name": "Osasuna",
+        "logo": "https://media.api-sports.io/football/teams/727.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Nélson Augusto Tomar Marcos",
+    "playerId": 105003
+  },
+  {
+    "date": "2010-07-03",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 9588,
+        "name": "Salamanca UDS",
+        "logo": "https://media.api-sports.io/football/teams/9588.png"
+      }
+    },
+    "playerName": "Salvador Sevilla López",
+    "playerId": 46743
+  },
+  {
+    "date": "2010-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 723,
+        "name": "Almeria",
+        "logo": "https://media.api-sports.io/football/teams/723.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Carlos García",
+    "playerId": 105302
+  },
+  {
+    "date": "2010-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 714,
+        "name": "Gimnastic",
+        "logo": "https://media.api-sports.io/football/teams/714.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Alejandro Ortiz Ramos",
+    "playerId": 104996
+  },
+  {
+    "date": "2010-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 797,
+        "name": "Elche",
+        "logo": "https://media.api-sports.io/football/teams/797.png"
+      }
+    },
+    "playerName": "Jorge Molina Vidal",
+    "playerId": 47265
+  },
+  {
+    "date": "2010-07-01",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 435,
+        "name": "River Plate",
+        "logo": "https://media.api-sports.io/football/teams/435.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Hugo Mariano Pavone",
+    "playerId": 6419
+  },
+  {
+    "date": "2009-08-14",
+    "type": "€ 6.5M",
+    "teams": {
+      "in": {
+        "id": 555,
+        "name": "CSKA Moscow",
+        "logo": "https://media.api-sports.io/football/teams/555.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Mark Dennis González Hoffmann",
+    "playerId": 12313
+  },
+  {
+    "date": "2009-07-01",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 723,
+        "name": "Almeria",
+        "logo": "https://media.api-sports.io/football/teams/723.png"
+      }
+    },
+    "playerName": "Carlos García",
+    "playerId": 105302
+  },
+  {
+    "date": "2008-08-01",
+    "type": "6M €",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 211,
+        "name": "Benfica",
+        "logo": "https://media.api-sports.io/football/teams/211.png"
+      }
+    },
+    "playerName": "Nélson Augusto Tomar Marcos",
+    "playerId": 105003
+  },
+  {
+    "date": "2008-08-01",
+    "type": "€ 10M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 732,
+        "name": "Zaragoza",
+        "logo": "https://media.api-sports.io/football/teams/732.png"
+      }
+    },
+    "playerName": "Sergio García de la Fuente",
+    "playerId": 47347
+  },
+  {
+    "date": "2008-07-01",
+    "type": null,
+    "teams": {
+      "in": {
+        "id": 732,
+        "name": "Zaragoza",
+        "logo": "https://media.api-sports.io/football/teams/732.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Antonio Baltasar Doblas Santana",
+    "playerId": 115251
+  },
+  {
+    "date": "2007-08-01",
+    "type": "Loan",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 533,
+        "name": "Villarreal",
+        "logo": "https://media.api-sports.io/football/teams/533.png"
+      }
+    },
+    "playerName": "Leandro Daniel Somoza",
+    "playerId": 74831
+  },
+  {
+    "date": "2007-07-01",
+    "type": "€ 6M",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 40,
+        "name": "Liverpool",
+        "logo": "https://media.api-sports.io/football/teams/40.png"
+      }
+    },
+    "playerName": "Mark Dennis González Hoffmann",
+    "playerId": 12313
+  },
+  {
+    "date": "2007-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Hugo Mariano Pavone",
+    "playerId": 6419
+  },
+  {
+    "date": "2006-07-01",
+    "type": "€ 25M",
+    "teams": {
+      "in": {
+        "id": 532,
+        "name": "Valencia",
+        "logo": "https://media.api-sports.io/football/teams/532.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Joaquín",
+    "playerId": 1579
+  }
+]
