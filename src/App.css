@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+}
+
+nav {
+  background-color: #11422b;
+}
+
+article {
+  margin: 1rem 0.5rem;
+  padding: 1rem 0;
+  background-color: rgb(95, 146, 122);
+  border-radius: 1rem;
+  border: 0.0625rem #496f5d solid;
+}
+
+article:nth-child(2n) {
+  background-color: #4c9f70;
+}
+
+h1 {
+  color: #ecebe4;
+  text-align: center;
+  padding: 0.5rem 0;
+  font-weight: 900;
+}
+
+h2 {
+  text-align: center;
+  padding: 0.25rem;
+  font-weight: 500;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+footer {
+  margin: auto;
+  font-size: 0.75rem;
+}
+
+.transfer-info {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 0.5rem 0;
+}
+
+.team-info {
+  text-align: center;
+}
+
+header p {
+  font-weight: 500;
+  padding: 0.25rem 0;
+}
+
+.team-logo {
+  width: 4rem;
+  padding: 0.25rem 0;
+  background-color: #ecebe4;
+  border: 1px #0a0908 solid;
+  border-radius: 0.75rem;
+}
+
+footer {
+  padding: 0.25rem 0;
+}
