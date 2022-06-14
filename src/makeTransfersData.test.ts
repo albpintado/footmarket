@@ -82,6 +82,7 @@ const remodeledTransfers = [
         logo: "https://media.api-sports.io/football/teams/543.png",
       },
     },
+    season: "2015",
   },
   {
     playerId: 20975,
@@ -100,6 +101,7 @@ const remodeledTransfers = [
         logo: "https://media.api-sports.io/football/teams/115.png",
       },
     },
+    season: "2013",
   },
 ];
 
@@ -120,7 +122,7 @@ describe("makeTransfersDataFromApi", () => {
   });
 });
 
-describe("makeTransfersData", () => {
+describe("makeTransfersDataFromLocalFile", () => {
   it("should return a list with 2 transfers", () => {
     const result = makeTransfersDataFromLocalFile();
 

@@ -2,18 +2,30 @@ import React from "react";
 import "@testing-library/jest-dom";
 import { render, screen, within } from "@testing-library/react";
 import App from "./App";
+import { Router } from "react-router-dom";
+import { createMemoryHistory } from "history";
 
 describe("App", () => {
   it("renders Betisdiario h1", () => {
-    render(<App />);
-    const h1 = screen.getByRole("heading", { name: /transfootmarket/i });
+    const history = createMemoryHistory();
+    render(
+      <Router location={history.location} navigator={history}>
+        <App />
+      </Router>
+    );
+    const h1 = screen.getByRole("heading", { name: /footmarket/i });
 
     expect(h1).toBeInTheDocument();
   });
 });
 
 it("shows a card with name, date, type and teams", () => {
-  render(<App />);
+  const history = createMemoryHistory();
+  render(
+    <Router location={history.location} navigator={history}>
+      <App />
+    </Router>
+  );
   const bellerinTransfersCards = screen.getAllByRole("heading", {
     name: /héctor bellerín/i,
   });
