@@ -49,7 +49,7 @@ function App() {
 
   return (
     <main className="App">
-      <header>
+      <header id="web-title">
         <nav>
           <Link to="/">
             <h1>Footmarket</h1>
@@ -61,8 +61,11 @@ function App() {
       <div className="container">
         <AppRoutes transfers={transfers} />
       </div>
+      <button id="go-up-button" onClick={() => window.scrollTo(0, 0)}>
+        <i className="fa-solid fa-caret-up"></i>{" "}
+      </button>
       <footer>
-        <p>Betisdiario - Alberto Pintado</p>
+        <p>Footmarket - Alberto Pintado &copy;</p>
       </footer>
     </main>
   );
