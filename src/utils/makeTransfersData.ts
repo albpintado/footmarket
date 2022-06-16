@@ -1,6 +1,6 @@
-import { ApiElement } from "interf/ApiElement";
-import { ApiTransfer } from "interf/ApiTransfer";
-import { ClientTransfer } from "interf/ClientTransfer";
+import { ApiElement } from "interfaces/ApiElement";
+import { ApiTransfer } from "interfaces/ApiTransfer";
+import { ClientTransfer } from "interfaces/ClientTransfer";
 import data from "data/data.json";
 import seasons from "data/seasons.json";
 import { getTransfersFromApi } from "components/TransfersList/Transfers.service";

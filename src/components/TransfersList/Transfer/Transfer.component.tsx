@@ -1,5 +1,5 @@
 import React from "react";
-import { ClientTransfer } from "interf/ClientTransfer";
+import { ClientTransfer } from "interfaces/ClientTransfer";
 
 type TransferProps = {
   transfer: ClientTransfer;
