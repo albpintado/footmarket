@@ -1,9 +1,9 @@
-import { ApiElement } from "Interfaces/ApiElement";
-import { ApiTransfer } from "Interfaces/ApiTransfer";
-import { ClientTransfer } from "Interfaces/ClientTransfer";
-import data from "data.json";
-import seasons from "seasons.json";
-import { getTransfersFromApi } from "TransfersService";
+import { ApiElement } from "interfaces/ApiElement";
+import { ApiTransfer } from "interfaces/ApiTransfer";
+import { ClientTransfer } from "interfaces/ClientTransfer";
+import data from "data/data.json";
+import seasons from "data/seasons.json";
+import { getTransfersFromApi } from "components/TransfersList/Transfers.service";
 
 const makeTransfersDataFromApi = async (): Promise<ClientTransfer[]> => {
   const transfersFromApi: ApiElement[] = await getTransfersFromApi();

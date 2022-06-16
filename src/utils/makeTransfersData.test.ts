@@ -2,8 +2,8 @@ import axios, { AxiosResponse } from "axios";
 import {
   makeTransfersDataFromLocalFile,
   makeTransfersDataFromApi,
-} from "makeTransfersData";
-import data from "clientData.json";
+} from "utils/makeTransfersData";
+import data from "data/clientData.json";
 
 jest.mock("axios");
 const mockedAxios = axios as jest.Mocked<typeof axios>;

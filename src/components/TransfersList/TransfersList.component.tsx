@@ -1,6 +1,6 @@
 import React from "react";
-import { ClientTransfer } from "Interfaces/ClientTransfer";
-import Transfer from "Transfer";
+import { ClientTransfer } from "interfaces/ClientTransfer";
+import Transfer from "./Transfer/Transfer.component";
 
 type TransfersListProps = {
   transfers: ClientTransfer[];

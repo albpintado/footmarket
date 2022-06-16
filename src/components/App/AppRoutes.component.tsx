@@ -1,7 +1,7 @@
-import { ClientTransfer } from "Interfaces/ClientTransfer";
+import { ClientTransfer } from "interfaces/ClientTransfer";
 import React from "react";
 import { Route, Routes } from "react-router-dom";
-import TransfersList from "TransfersList";
+import TransfersList from "components/TransfersList/TransfersList.component";
 
 type AppRoutesProps = {
   transfers: ClientTransfer[];

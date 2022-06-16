@@ -1,4 +1,4 @@
-import NavbarLink from "NavbarLink";
+import NavbarLink from "components/NavbarLinkList/NavbarLink/NavbarLink.component";
 import React from "react";
 
 const NavbarLinkList = (): JSX.Element => {

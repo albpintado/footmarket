@@ -3,11 +3,11 @@ import React, { useEffect, useState } from "react";
 import {
   makeTransfersDataFromLocalFile,
   makeTransfersDataFromApi,
-} from "makeTransfersData";
-import { ClientTransfer } from "Interfaces/ClientTransfer";
+} from "utils/makeTransfersData";
+import { ClientTransfer } from "interfaces/ClientTransfer";
 import { Link } from "react-router-dom";
-import AppRoutes from "AppRoutes";
-import NavbarLinkList from "NavbarLinkList";
+import AppRoutes from "./AppRoutes.component";
+import NavbarLinkList from "components/NavbarLinkList/NavbarLinkList.component";
 
 function App() {
   const initialTransfersObject = {
