@@ -49,7 +49,7 @@ function App() {
 
   return (
     <main className="App">
-      <header id="web-title">
+      <header>
         <nav>
           <Link to="/">
             <h1>Footmarket</h1>
