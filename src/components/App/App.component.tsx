@@ -4,7 +4,7 @@ import {
   makeTransfersDataFromLocalFile,
   makeTransfersDataFromApi,
 } from "utils/makeTransfersData";
-import { ClientTransfer } from "interfaces/ClientTransfer";
+import { ClientTransfer } from "interf/ClientTransfer";
 import { Link } from "react-router-dom";
 import AppRoutes from "./AppRoutes.component";
 import NavbarLinkList from "components/NavbarLinkList/NavbarLinkList.component";

@@ -1,4 +1,4 @@
-import { ClientTransfer } from "interfaces/ClientTransfer";
+import { ClientTransfer } from "interf/ClientTransfer";
 import React from "react";
 import { Route, Routes } from "react-router-dom";
 import TransfersList from "components/TransfersList/TransfersList.component";

@@ -1,4 +1,4 @@
-import { ApiElement } from "interfaces/ApiElement";
+import { ApiElement } from "interf/ApiElement";
 
 export interface ApiResponse {
   get: string;
