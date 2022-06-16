@@ -1,4 +1,4 @@
-import "App.css";
+import "./App.style.css";
 import React, { useEffect, useState } from "react";
 import {
   makeTransfersDataFromLocalFile,
