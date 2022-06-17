@@ -61,7 +61,11 @@ function App() {
       <div className="container">
         <AppRoutes transfers={transfers} />
       </div>
-      <button id="go-up-button" onClick={() => window.scrollTo(0, 0)}>
+      <button
+        aria-label="go-to-top"
+        id="go-up-button"
+        onClick={() => window.scrollTo(0, 0)}
+      >
         <i className="fa-solid fa-caret-up"></i>{" "}
       </button>
       <footer>
