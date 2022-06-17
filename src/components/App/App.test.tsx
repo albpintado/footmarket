@@ -33,7 +33,8 @@ describe("App", () => {
       ?.parentElement as HTMLElement;
     const transferDate: HTMLElement =
       within(transferCard).getByText("2022-07-01");
-    const transferType: HTMLElement = within(transferCard).getByText("N/A");
+    const transferType: HTMLElement =
+      within(transferCard).getByText("Fin de contrato");
     const transferInContainer = within(transferCard).getByText("Baja")
       .parentElement?.parentElement as HTMLElement;
     const transferOutContainer = within(transferCard).getByText("Alta")
@@ -47,15 +48,10 @@ describe("App", () => {
     const transferOutTeamName =
       within(transferOutContainer).getByText("Arsenal");
 
-    expect(transferCard).toBeInTheDocument();
     expect(transferCard).toBeVisible();
-    expect(transferDate).toBeInTheDocument();
     expect(transferDate).toBeVisible();
-    expect(transferType).toBeInTheDocument();
     expect(transferType).toBeVisible();
-    expect(transferInTeamName).toBeInTheDocument();
     expect(transferInTeamName).toBeVisible();
-    expect(transferOutTeamName).toBeInTheDocument();
     expect(transferOutTeamName).toBeVisible();
     expect(transferOutTeamLogo).toHaveAttribute(
       "src",

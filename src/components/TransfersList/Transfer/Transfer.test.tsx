@@ -10,7 +10,7 @@ describe("Transfer", () => {
     const history = createMemoryHistory({ initialEntries: ["/"] });
     const transfer = {
       date: "2021-08-20",
-      type: "€ 4M",
+      type: "N/A",
       teams: {
         in: {
           id: 543,
@@ -58,7 +58,7 @@ describe("Transfer", () => {
     expect(date).toBeVisible();
     expect(date).toHaveTextContent("2021-08-20");
     expect(transferType).toBeVisible();
-    expect(transferType).toHaveTextContent("€ 4M");
+    expect(transferType).toHaveTextContent("Fin de contrato");
     expect(transferInTeamName).toBeVisible();
     expect(transferOutTeamName).toBeVisible();
     expect(transferOutTeamLogo).toHaveAttribute(

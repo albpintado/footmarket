@@ -1,5 +1,6 @@
 import React from "react";
 import { ClientTransfer } from "interfaces/ClientTransfer";
+import { parseTransferType } from "utils/utils";
 
 type TransferProps = {
   transfer: ClientTransfer;
@@ -14,7 +15,7 @@ const Transfer = ({ transfer }: TransferProps): JSX.Element => {
       <section className="transfer-info">
         <ul>
           <li>{transfer.date.toLocaleString()}</li>
-          <li>{transfer.type}</li>
+          <li>{parseTransferType(transfer.type)}</li>
         </ul>
         <div className="team-info">
           <header>
