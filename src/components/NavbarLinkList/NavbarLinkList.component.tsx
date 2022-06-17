@@ -3,7 +3,7 @@ import React from "react";
 
 const NavbarLinkList = (): JSX.Element => {
   return (
-    <ul className="list">
+    <ul aria-label="seasons-list" className="list">
       <li>
         <NavbarLink season="Todos" />
       </li>
