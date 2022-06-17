@@ -1,5 +1,5 @@
 import axios from "axios";
-import { ApiElement } from "Interfaces/ApiElement";
+import { ApiElement } from "interfaces/ApiElement";
 
 const apiUrl: string = process.env.REACT_APP_APIURL as string;
 const apiKey: string = process.env.REACT_APP_APIKEY as string;

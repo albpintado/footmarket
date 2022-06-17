@@ -1,0 +1,97 @@
+[
+  {
+    "date": "2022-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 42,
+        "name": "Arsenal",
+        "logo": "https://media.api-sports.io/football/teams/42.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Héctor Bellerín Moruno",
+    "playerId": 1439,
+    "season": "2023"
+  },
+  {
+    "date": "2022-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 548,
+        "name": "Real Sociedad",
+        "logo": "https://media.api-sports.io/football/teams/548.png"
+      },
+      "out": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      }
+    },
+    "playerName": "Willian José da Silva",
+    "playerId": 47319,
+    "season": "2023"
+  },
+  {
+    "date": "2022-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 540,
+        "name": "Espanyol",
+        "logo": "https://media.api-sports.io/football/teams/540.png"
+      }
+    },
+    "playerName": "Lorenzo Jesús Morón García",
+    "playerId": 1584,
+    "season": "2023"
+  },
+  {
+    "date": "2022-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 534,
+        "name": "Las Palmas",
+        "logo": "https://media.api-sports.io/football/teams/534.png"
+      }
+    },
+    "playerName": "Rober",
+    "playerId": 1582,
+    "season": "2023"
+  },
+  {
+    "date": "2022-07-01",
+    "type": "N/A",
+    "teams": {
+      "in": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "out": {
+        "id": 535,
+        "name": "Malaga",
+        "logo": "https://media.api-sports.io/football/teams/535.png"
+      }
+    },
+    "playerName": "Dani Martín",
+    "playerId": 46871,
+    "season": "2023"
+  }
+]

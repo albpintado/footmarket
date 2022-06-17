@@ -15,4 +15,5 @@ export interface ClientTransfer {
       logo: string | null;
     };
   };
+  season: string;
 }

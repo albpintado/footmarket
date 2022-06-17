@@ -15,7 +15,8 @@
       }
     },
     "playerName": "Héctor Bellerín Moruno",
-    "playerId": 1439
+    "playerId": 1439,
+    "season": "2023"
   },
   {
     "date": "2022-07-01",
@@ -33,7 +34,8 @@
       }
     },
     "playerName": "Willian José da Silva",
-    "playerId": 47319
+    "playerId": 47319,
+    "season": "2023"
   },
   {
     "date": "2022-07-01",
@@ -51,7 +53,8 @@
       }
     },
     "playerName": "Lorenzo Jesús Morón García",
-    "playerId": 1584
+    "playerId": 1584,
+    "season": "2023"
   },
   {
     "date": "2022-07-01",
@@ -69,7 +72,8 @@
       }
     },
     "playerName": "Rober",
-    "playerId": 1582
+    "playerId": 1582,
+    "season": "2023"
   },
   {
     "date": "2022-07-01",
@@ -87,7 +91,8 @@
       }
     },
     "playerName": "Dani Martín",
-    "playerId": 46871
+    "playerId": 46871,
+    "season": "2023"
   },
   {
     "date": "2021-11-23",
@@ -105,7 +110,8 @@
       }
     },
     "playerName": "José Manuel Calderón Portillo",
-    "playerId": 185599
+    "playerId": 185599,
+    "season": "2022"
   },
   {
     "date": "2021-08-31",
@@ -123,7 +129,8 @@
       }
     },
     "playerName": "Héctor Bellerín Moruno",
-    "playerId": 1439
+    "playerId": 1439,
+    "season": "2022"
   },
   {
     "date": "2021-08-26",
@@ -141,7 +148,8 @@
       }
     },
     "playerName": "Willian José da Silva",
-    "playerId": 47319
+    "playerId": 47319,
+    "season": "2022"
   },
   {
     "date": "2021-08-25",
@@ -159,7 +167,8 @@
       }
     },
     "playerName": "Lorenzo Jesús Morón García",
-    "playerId": 1584
+    "playerId": 1584,
+    "season": "2022"
   },
   {
     "date": "2021-08-20",
@@ -177,7 +186,8 @@
       }
     },
     "playerName": "G. Pezzella",
-    "playerId": 2469
+    "playerId": 2469,
+    "season": "2022"
   },
   {
     "date": "2021-07-30",
@@ -195,7 +205,8 @@
       }
     },
     "playerName": "Dani Martín",
-    "playerId": 46871
+    "playerId": 46871,
+    "season": "2022"
   },
   {
     "date": "2021-07-27",
@@ -213,7 +224,8 @@
       }
     },
     "playerName": "Carlos Marín Tomás",
-    "playerId": 116438
+    "playerId": 116438,
+    "season": "2022"
   },
   {
     "date": "2021-07-25",
@@ -231,7 +243,8 @@
       }
     },
     "playerName": "David Ramos Guillén",
-    "playerId": 116441
+    "playerId": 116441,
+    "season": "2022"
   },
   {
     "date": "2021-07-01",
@@ -249,7 +262,8 @@
       }
     },
     "playerName": "Emerson",
-    "playerId": 1566
+    "playerId": 1566,
+    "season": "2022"
   },
   {
     "date": "2021-07-01",
@@ -267,7 +281,8 @@
       }
     },
     "playerName": "Edgar González Estrada",
-    "playerId": 1565
+    "playerId": 1565,
+    "season": "2022"
   },
   {
     "date": "2021-07-01",
@@ -285,7 +300,8 @@
       }
     },
     "playerName": "Juan Miranda",
-    "playerId": 134
+    "playerId": 134,
+    "season": "2022"
   },
   {
     "date": "2021-07-01",
@@ -303,7 +319,8 @@
       }
     },
     "playerName": "Julio Alonso Sosa",
-    "playerId": 1559
+    "playerId": 1559,
+    "season": "2022"
   },
   {
     "date": "2021-07-01",
@@ -321,7 +338,8 @@
       }
     },
     "playerName": "Rui Silva",
-    "playerId": 46672
+    "playerId": 46672,
+    "season": "2022"
   },
   {
     "date": "2021-07-01",
@@ -339,7 +357,8 @@
       }
     },
     "playerName": "Y. Sabaly",
-    "playerId": 1264
+    "playerId": 1264,
+    "season": "2022"
   },
   {
     "date": "2021-07-01",
@@ -357,7 +376,8 @@
       }
     },
     "playerName": "A. Mandi",
-    "playerId": 1567
+    "playerId": 1567,
+    "season": "2022"
   },
   {
     "date": "2021-07-01",
@@ -375,7 +395,8 @@
       }
     },
     "playerName": "Rober",
-    "playerId": 1582
+    "playerId": 1582,
+    "season": "2022"
   },
   {
     "date": "2021-01-31",
@@ -393,7 +414,8 @@
       }
     },
     "playerName": "José Manuel Irizo Fernández",
-    "playerId": 1575
+    "playerId": 1575,
+    "season": "2021"
   },
   {
     "date": "2021-01-31",
@@ -411,7 +433,8 @@
       }
     },
     "playerName": "Arnaldo Antonio Sanabria Ayala",
-    "playerId": 2522
+    "playerId": 2522,
+    "season": "2021"
   },
   {
     "date": "2021-01-31",
@@ -429,7 +452,8 @@
       }
     },
     "playerName": "Jorge Jiménez Rodríguez",
-    "playerId": 188415
+    "playerId": 188415,
+    "season": "2021"
   },
   {
     "date": "2020-10-05",
@@ -447,7 +471,8 @@
       }
     },
     "playerName": "Juan Miranda",
-    "playerId": 134
+    "playerId": 134,
+    "season": "2021"
   },
   {
     "date": "2020-10-04",
@@ -465,7 +490,8 @@
       }
     },
     "playerName": "Barragán",
-    "playerId": 1560
+    "playerId": 1560,
+    "season": "2021"
   },
   {
     "date": "2020-10-03",
@@ -483,7 +509,8 @@
       }
     },
     "playerName": "Ismael Gutiérrez Montilla",
-    "playerId": 146750
+    "playerId": 146750,
+    "season": "2021"
   },
   {
     "date": "2020-09-04",
@@ -501,7 +528,8 @@
       }
     },
     "playerName": "J. Narváez",
-    "playerId": 46922
+    "playerId": 46922,
+    "season": "2021"
   },
   {
     "date": "2020-09-03",
@@ -519,7 +547,8 @@
       }
     },
     "playerName": "Edgar González Estrada",
-    "playerId": 1565
+    "playerId": 1565,
+    "season": "2021"
   },
   {
     "date": "2020-09-02",
@@ -537,7 +566,8 @@
       }
     },
     "playerName": "José Luis Trápaga Fuentevilla",
-    "playerId": 188412
+    "playerId": 188412,
+    "season": "2021"
   },
   {
     "date": "2020-09-01",
@@ -555,7 +585,8 @@
       }
     },
     "playerName": "Arnaldo Antonio Sanabria Ayala",
-    "playerId": 2522
+    "playerId": 2522,
+    "season": "2021"
   },
   {
     "date": "2020-09-01",
@@ -573,7 +604,8 @@
       }
     },
     "playerName": "Carles Aleña Castillo",
-    "playerId": 143
+    "playerId": 143,
+    "season": "2021"
   },
   {
     "date": "2020-08-31",
@@ -591,7 +623,8 @@
       }
     },
     "playerName": "Víctor Ruíz Torre",
-    "playerId": 1693
+    "playerId": 1693,
+    "season": "2021"
   },
   {
     "date": "2020-08-30",
@@ -609,7 +642,8 @@
       }
     },
     "playerName": "C. Bravo",
-    "playerId": 614
+    "playerId": 614,
+    "season": "2021"
   },
   {
     "date": "2020-08-25",
@@ -627,7 +661,8 @@
       }
     },
     "playerName": "Martín Montoya Torralbo",
-    "playerId": 18965
+    "playerId": 18965,
+    "season": "2021"
   },
   {
     "date": "2020-08-18",
@@ -645,7 +680,8 @@
       }
     },
     "playerName": "Zouhair Feddal Agharbi",
-    "playerId": 1563
+    "playerId": 1563,
+    "season": "2021"
   },
   {
     "date": "2020-08-18",
@@ -663,7 +699,8 @@
       }
     },
     "playerName": "Liberto Luis Beltrán Martínez",
-    "playerId": 105014
+    "playerId": 105014,
+    "season": "2021"
   },
   {
     "date": "2020-08-17",
@@ -681,7 +718,8 @@
       }
     },
     "playerName": "Francis",
-    "playerId": 1574
+    "playerId": 1574,
+    "season": "2021"
   },
   {
     "date": "2020-08-17",
@@ -699,7 +737,8 @@
       }
     },
     "playerName": "Javi García",
-    "playerId": 1571
+    "playerId": 1571,
+    "season": "2021"
   },
   {
     "date": "2020-08-17",
@@ -717,7 +756,8 @@
       }
     },
     "playerName": "W. Kaptoum",
-    "playerId": 1576
+    "playerId": 1576,
+    "season": "2021"
   },
   {
     "date": "2020-08-04",
@@ -735,7 +775,8 @@
       }
     },
     "playerName": "Víctor Camarasa Ferrando",
-    "playerId": 18998
+    "playerId": 18998,
+    "season": "2021"
   },
   {
     "date": "2020-08-04",
@@ -753,7 +794,8 @@
       }
     },
     "playerName": "Aitor Ruibal García",
-    "playerId": 47119
+    "playerId": 47119,
+    "season": "2021"
   },
   {
     "date": "2020-08-04",
@@ -771,7 +813,8 @@
       }
     },
     "playerName": "Alejandro Meléndez Ruiz",
-    "playerId": 182259
+    "playerId": 182259,
+    "season": "2021"
   },
   {
     "date": "2020-08-04",
@@ -789,7 +832,8 @@
       }
     },
     "playerName": "Pedraza",
-    "playerId": 1702
+    "playerId": 1702,
+    "season": "2021"
   },
   {
     "date": "2020-08-04",
@@ -807,7 +851,8 @@
       }
     },
     "playerName": "J. Narváez",
-    "playerId": 46922
+    "playerId": 46922,
+    "season": "2021"
   },
   {
     "date": "2020-08-01",
@@ -825,7 +870,8 @@
       }
     },
     "playerName": "Adrián Tellado Robles",
-    "playerId": 1581
+    "playerId": 1581,
+    "season": "2021"
   },
   {
     "date": "2020-07-01",
@@ -843,7 +889,8 @@
       }
     },
     "playerName": "Blas Álvarez Cortés",
-    "playerId": 270640
+    "playerId": 270640,
+    "season": "2021"
   },
   {
     "date": "2020-01-31",
@@ -861,7 +908,8 @@
       }
     },
     "playerName": "Francis",
-    "playerId": 1574
+    "playerId": 1574,
+    "season": "2020"
   },
   {
     "date": "2020-01-31",
@@ -879,7 +927,8 @@
       }
     },
     "playerName": "Xiker Ozerinjauregi Mendikoetxea",
-    "playerId": 134841
+    "playerId": 134841,
+    "season": "2020"
   },
   {
     "date": "2020-01-27",
@@ -897,7 +946,8 @@
       }
     },
     "playerName": "Data not available",
-    "playerId": 90315
+    "playerId": 90315,
+    "season": "2020"
   },
   {
     "date": "2020-01-27",
@@ -915,7 +965,8 @@
       }
     },
     "playerName": "G. Lo Celso",
-    "playerId": 1578
+    "playerId": 1578,
+    "season": "2020"
   },
   {
     "date": "2020-01-14",
@@ -933,7 +984,8 @@
       }
     },
     "playerName": "G. Rodríguez",
-    "playerId": 2476
+    "playerId": 2476,
+    "season": "2020"
   },
   {
     "date": "2020-01-13",
@@ -951,7 +1003,8 @@
       }
     },
     "playerName": "Ismael Gutiérrez Montilla",
-    "playerId": 146750
+    "playerId": 146750,
+    "season": "2020"
   },
   {
     "date": "2020-01-10",
@@ -969,7 +1022,8 @@
       }
     },
     "playerName": "W. Kaptoum",
-    "playerId": 1576
+    "playerId": 1576,
+    "season": "2020"
   },
   {
     "date": "2020-01-02",
@@ -987,7 +1041,8 @@
       }
     },
     "playerName": "Carles Aleña Castillo",
-    "playerId": 143
+    "playerId": 143,
+    "season": "2020"
   },
   {
     "date": "2019-08-31",
@@ -1005,7 +1060,8 @@
       }
     },
     "playerName": "J. Narváez",
-    "playerId": 46922
+    "playerId": 46922,
+    "season": "2020"
   },
   {
     "date": "2019-08-21",
@@ -1023,7 +1079,8 @@
       }
     },
     "playerName": "Alexandre Moreno Lopera",
-    "playerId": 47547
+    "playerId": 47547,
+    "season": "2020"
   },
   {
     "date": "2019-08-20",
@@ -1041,7 +1098,8 @@
       }
     },
     "playerName": "Simón Lecea García",
-    "playerId": 134240
+    "playerId": 134240,
+    "season": "2020"
   },
   {
     "date": "2019-08-20",
@@ -1059,7 +1117,8 @@
       }
     },
     "playerName": "Liberto Luis Beltrán Martínez",
-    "playerId": 105014
+    "playerId": 105014,
+    "season": "2020"
   },
   {
     "date": "2019-08-14",
@@ -1077,7 +1136,8 @@
       }
     },
     "playerName": "Borja Iglesias Quintas",
-    "playerId": 47348
+    "playerId": 47348,
+    "season": "2020"
   },
   {
     "date": "2019-08-09",
@@ -1095,7 +1155,8 @@
       }
     },
     "playerName": "Adrián Tellado Robles",
-    "playerId": 1581
+    "playerId": 1581,
+    "season": "2020"
   },
   {
     "date": "2019-08-08",
@@ -1113,7 +1174,8 @@
       }
     },
     "playerName": "G. Lo Celso",
-    "playerId": 1578
+    "playerId": 1578,
+    "season": "2020"
   },
   {
     "date": "2019-08-04",
@@ -1131,7 +1193,8 @@
       }
     },
     "playerName": "Héctor Junior Firpo Adames",
-    "playerId": 1564
+    "playerId": 1564,
+    "season": "2020"
   },
   {
     "date": "2019-07-27",
@@ -1149,7 +1212,8 @@
       }
     },
     "playerName": "R. Boudebouz",
-    "playerId": 47436
+    "playerId": 47436,
+    "season": "2020"
   },
   {
     "date": "2019-07-24",
@@ -1167,7 +1231,8 @@
       }
     },
     "playerName": "T. Inui",
-    "playerId": 2600
+    "playerId": 2600,
+    "season": "2020"
   },
   {
     "date": "2019-07-23",
@@ -1185,7 +1250,8 @@
       }
     },
     "playerName": "José Manuel Irizo Fernández",
-    "playerId": 1575
+    "playerId": 1575,
+    "season": "2020"
   },
   {
     "date": "2019-07-23",
@@ -1203,7 +1269,8 @@
       }
     },
     "playerName": "Nabil Fekir",
-    "playerId": 668
+    "playerId": 668,
+    "season": "2020"
   },
   {
     "date": "2019-07-23",
@@ -1221,7 +1288,8 @@
       }
     },
     "playerName": "D. Brašanac",
-    "playerId": 47361
+    "playerId": 47361,
+    "season": "2020"
   },
   {
     "date": "2019-07-21",
@@ -1239,7 +1307,8 @@
       }
     },
     "playerName": "Alin Dorinel Toșca",
-    "playerId": 2366
+    "playerId": 2366,
+    "season": "2020"
   },
   {
     "date": "2019-07-19",
@@ -1257,7 +1326,8 @@
       }
     },
     "playerName": "Xiker Ozerinjauregi Mendikoetxea",
-    "playerId": 134841
+    "playerId": 134841,
+    "season": "2020"
   },
   {
     "date": "2019-07-18",
@@ -1275,7 +1345,8 @@
       }
     },
     "playerName": "Dani Martín",
-    "playerId": 46871
+    "playerId": 46871,
+    "season": "2020"
   },
   {
     "date": "2019-07-16",
@@ -1293,7 +1364,8 @@
       }
     },
     "playerName": "Pedraza",
-    "playerId": 1702
+    "playerId": 1702,
+    "season": "2020"
   },
   {
     "date": "2019-07-16",
@@ -1311,7 +1383,8 @@
       }
     },
     "playerName": "Carlos Redruello Nimo",
-    "playerId": 104830
+    "playerId": 104830,
+    "season": "2020"
   },
   {
     "date": "2019-07-15",
@@ -1329,7 +1402,8 @@
       }
     },
     "playerName": "Julio Gracia Gallardo",
-    "playerId": 104805
+    "playerId": 104805,
+    "season": "2020"
   },
   {
     "date": "2019-07-10",
@@ -1347,7 +1421,8 @@
       }
     },
     "playerName": "Pau López Sabata",
-    "playerId": 1557
+    "playerId": 1557,
+    "season": "2020"
   },
   {
     "date": "2019-07-04",
@@ -1365,7 +1440,8 @@
       }
     },
     "playerName": "Aitor Ruibal García",
-    "playerId": 47119
+    "playerId": 47119,
+    "season": "2020"
   },
   {
     "date": "2019-07-02",
@@ -1383,7 +1459,8 @@
       }
     },
     "playerName": "Jaime Garijo Forcada",
-    "playerId": 1572
+    "playerId": 1572,
+    "season": "2020"
   },
   {
     "date": "2019-07-02",
@@ -1401,7 +1478,8 @@
       }
     },
     "playerName": "Emerson",
-    "playerId": 1566
+    "playerId": 1566,
+    "season": "2020"
   },
   {
     "date": "2019-07-01",
@@ -1419,7 +1497,8 @@
       }
     },
     "playerName": "Julio Gracia Gallardo",
-    "playerId": 104805
+    "playerId": 104805,
+    "season": "2020"
   },
   {
     "date": "2019-07-01",
@@ -1437,7 +1516,8 @@
       }
     },
     "playerName": "Alin Dorinel Toșca",
-    "playerId": 2366
+    "playerId": 2366,
+    "season": "2020"
   },
   {
     "date": "2019-07-01",
@@ -1455,7 +1535,8 @@
       }
     },
     "playerName": "Juan Miguel Jiménez López",
-    "playerId": 47320
+    "playerId": 47320,
+    "season": "2020"
   },
   {
     "date": "2019-07-01",
@@ -1473,7 +1554,8 @@
       }
     },
     "playerName": "Julio Iglesias Rojas",
-    "playerId": 181442
+    "playerId": 181442,
+    "season": "2020"
   },
   {
     "date": "2019-07-01",
@@ -1491,7 +1573,8 @@
       }
     },
     "playerName": "G. Lo Celso",
-    "playerId": 1578
+    "playerId": 1578,
+    "season": "2020"
   },
   {
     "date": "2019-07-01",
@@ -1509,7 +1592,8 @@
       }
     },
     "playerName": "Sergio León",
-    "playerId": 1583
+    "playerId": 1583,
+    "season": "2020"
   },
   {
     "date": "2019-07-01",
@@ -1527,7 +1611,8 @@
       }
     },
     "playerName": "Jesé",
-    "playerId": 1585
+    "playerId": 1585,
+    "season": "2020"
   },
   {
     "date": "2019-07-01",
@@ -1545,7 +1630,8 @@
       }
     },
     "playerName": "Álex Alegría",
-    "playerId": 46898
+    "playerId": 46898,
+    "season": "2020"
   },
   {
     "date": "2019-01-31",
@@ -1563,7 +1649,8 @@
       }
     },
     "playerName": "Emerson",
-    "playerId": 1566
+    "playerId": 1566,
+    "season": "2019"
   },
   {
     "date": "2019-01-31",
@@ -1581,7 +1668,8 @@
       }
     },
     "playerName": "R. Boudebouz",
-    "playerId": 47436
+    "playerId": 47436,
+    "season": "2019"
   },
   {
     "date": "2019-01-31",
@@ -1599,7 +1687,8 @@
       }
     },
     "playerName": "Álex Alegría",
-    "playerId": 46898
+    "playerId": 46898,
+    "season": "2019"
   },
   {
     "date": "2019-01-29",
@@ -1617,7 +1706,8 @@
       }
     },
     "playerName": "Jesé",
-    "playerId": 1585
+    "playerId": 1585,
+    "season": "2019"
   },
   {
     "date": "2019-01-25",
@@ -1635,7 +1725,8 @@
       }
     },
     "playerName": "Arnaldo Antonio Sanabria Ayala",
-    "playerId": 2522
+    "playerId": 2522,
+    "season": "2019"
   },
   {
     "date": "2019-01-24",
@@ -1653,7 +1744,8 @@
       }
     },
     "playerName": "T. Inui",
-    "playerId": 2600
+    "playerId": 2600,
+    "season": "2019"
   },
   {
     "date": "2019-01-10",
@@ -1671,7 +1763,8 @@
       }
     },
     "playerName": "Diego Lainez Leyva",
-    "playerId": 1577
+    "playerId": 1577,
+    "season": "2019"
   },
   {
     "date": "2018-08-31",
@@ -1689,7 +1782,8 @@
       }
     },
     "playerName": "G. Lo Celso",
-    "playerId": 1578
+    "playerId": 1578,
+    "season": "2019"
   },
   {
     "date": "2018-08-31",
@@ -1707,7 +1801,8 @@
       }
     },
     "playerName": "D. Brašanac",
-    "playerId": 47361
+    "playerId": 47361,
+    "season": "2019"
   },
   {
     "date": "2018-08-31",
@@ -1725,7 +1820,8 @@
       }
     },
     "playerName": "J. Narváez",
-    "playerId": 46922
+    "playerId": 46922,
+    "season": "2019"
   },
   {
     "date": "2018-08-31",
@@ -1743,7 +1839,8 @@
       }
     },
     "playerName": "Álex Alegría",
-    "playerId": 46898
+    "playerId": 46898,
+    "season": "2019"
   },
   {
     "date": "2018-08-30",
@@ -1761,7 +1858,8 @@
       }
     },
     "playerName": "Pedro López Galisteo",
-    "playerId": 104802
+    "playerId": 104802,
+    "season": "2019"
   },
   {
     "date": "2018-08-27",
@@ -1779,7 +1877,8 @@
       }
     },
     "playerName": "Julio Gracia Gallardo",
-    "playerId": 104805
+    "playerId": 104805,
+    "season": "2019"
   },
   {
     "date": "2018-08-27",
@@ -1797,7 +1896,8 @@
       }
     },
     "playerName": "Dan Ojog",
-    "playerId": 123688
+    "playerId": 123688,
+    "season": "2019"
   },
   {
     "date": "2018-08-24",
@@ -1815,7 +1915,8 @@
       }
     },
     "playerName": "Alin Dorinel Toșca",
-    "playerId": 2366
+    "playerId": 2366,
+    "season": "2019"
   },
   {
     "date": "2018-08-24",
@@ -1833,7 +1934,8 @@
       }
     },
     "playerName": "Liberto Luis Beltrán Martínez",
-    "playerId": 105014
+    "playerId": 105014,
+    "season": "2019"
   },
   {
     "date": "2018-08-16",
@@ -1851,7 +1953,8 @@
       }
     },
     "playerName": "W. Kaptoum",
-    "playerId": 1576
+    "playerId": 1576,
+    "season": "2019"
   },
   {
     "date": "2018-08-09",
@@ -1869,7 +1972,8 @@
       }
     },
     "playerName": "Víctor Camarasa Ferrando",
-    "playerId": 18998
+    "playerId": 18998,
+    "season": "2019"
   },
   {
     "date": "2018-08-02",
@@ -1887,7 +1991,8 @@
       }
     },
     "playerName": "Sidnei",
-    "playerId": 1562
+    "playerId": 1562,
+    "season": "2019"
   },
   {
     "date": "2018-07-26",
@@ -1905,7 +2010,8 @@
       }
     },
     "playerName": "Jesús Pozo Blanco",
-    "playerId": 116915
+    "playerId": 116915,
+    "season": "2019"
   },
   {
     "date": "2018-07-23",
@@ -1923,7 +2029,8 @@
       }
     },
     "playerName": "Ignacio González Ruiz",
-    "playerId": 182716
+    "playerId": 182716,
+    "season": "2019"
   },
   {
     "date": "2018-07-17",
@@ -1941,7 +2048,8 @@
       }
     },
     "playerName": "Juan José Mateos Silva",
-    "playerId": 125582
+    "playerId": 125582,
+    "season": "2019"
   },
   {
     "date": "2018-07-13",
@@ -1959,7 +2067,8 @@
       }
     },
     "playerName": "William Carvalho",
-    "playerId": 1580
+    "playerId": 1580,
+    "season": "2019"
   },
   {
     "date": "2018-07-13",
@@ -1977,7 +2086,8 @@
       }
     },
     "playerName": "Rubén Castro",
-    "playerId": 47012
+    "playerId": 47012,
+    "season": "2019"
   },
   {
     "date": "2018-07-10",
@@ -1995,7 +2105,8 @@
       }
     },
     "playerName": "Adán",
-    "playerId": 27
+    "playerId": 27,
+    "season": "2019"
   },
   {
     "date": "2018-07-10",
@@ -2013,7 +2124,8 @@
       }
     },
     "playerName": "Álvaro Vallés",
-    "playerId": 46990
+    "playerId": 46990,
+    "season": "2019"
   },
   {
     "date": "2018-07-05",
@@ -2031,7 +2143,8 @@
       }
     },
     "playerName": "Fabián Ruiz",
-    "playerId": 328
+    "playerId": 328,
+    "season": "2019"
   },
   {
     "date": "2018-07-05",
@@ -2049,7 +2162,8 @@
       }
     },
     "playerName": "Joel Robles Blázquez",
-    "playerId": 1558
+    "playerId": 1558,
+    "season": "2019"
   },
   {
     "date": "2018-07-04",
@@ -2067,7 +2181,8 @@
       }
     },
     "playerName": "Pau López Sabata",
-    "playerId": 1557
+    "playerId": 1557,
+    "season": "2019"
   },
   {
     "date": "2018-07-04",
@@ -2085,7 +2200,8 @@
       }
     },
     "playerName": "César de la Hoz",
-    "playerId": 46919
+    "playerId": 46919,
+    "season": "2019"
   },
   {
     "date": "2018-07-03",
@@ -2103,7 +2219,8 @@
       }
     },
     "playerName": "Sergio Canales Madrazo",
-    "playerId": 1570
+    "playerId": 1570,
+    "season": "2019"
   },
   {
     "date": "2018-07-02",
@@ -2121,7 +2238,8 @@
       }
     },
     "playerName": "Dani Giménez",
-    "playerId": 46784
+    "playerId": 46784,
+    "season": "2019"
   },
   {
     "date": "2018-07-02",
@@ -2139,7 +2257,8 @@
       }
     },
     "playerName": "Barragán",
-    "playerId": 1560
+    "playerId": 1560,
+    "season": "2019"
   },
   {
     "date": "2018-07-02",
@@ -2157,7 +2276,8 @@
       }
     },
     "playerName": "T. Inui",
-    "playerId": 2600
+    "playerId": 2600,
+    "season": "2019"
   },
   {
     "date": "2018-07-01",
@@ -2175,7 +2295,8 @@
       }
     },
     "playerName": "Alberto López Serralta",
-    "playerId": 311514
+    "playerId": 311514,
+    "season": "2019"
   },
   {
     "date": "2018-07-01",
@@ -2193,7 +2314,8 @@
       }
     },
     "playerName": "Rafael Jesús Navarro Mazuelos",
-    "playerId": 20997
+    "playerId": 20997,
+    "season": "2019"
   },
   {
     "date": "2018-07-01",
@@ -2211,7 +2333,8 @@
       }
     },
     "playerName": "Edgar González Estrada",
-    "playerId": 1565
+    "playerId": 1565,
+    "season": "2019"
   },
   {
     "date": "2018-07-01",
@@ -2229,7 +2352,8 @@
       }
     },
     "playerName": "Carlos Blanco Moreno",
-    "playerId": 104982
+    "playerId": 104982,
+    "season": "2019"
   },
   {
     "date": "2018-07-01",
@@ -2247,7 +2371,8 @@
       }
     },
     "playerName": "G. Pezzella",
-    "playerId": 2469
+    "playerId": 2469,
+    "season": "2019"
   },
   {
     "date": "2018-07-01",
@@ -2265,7 +2390,8 @@
       }
     },
     "playerName": "Jordi Amat",
-    "playerId": 47531
+    "playerId": 47531,
+    "season": "2019"
   },
   {
     "date": "2018-07-01",
@@ -2283,7 +2409,8 @@
       }
     },
     "playerName": "D. Brašanac",
-    "playerId": 47361
+    "playerId": 47361,
+    "season": "2019"
   },
   {
     "date": "2018-07-01",
@@ -2301,7 +2428,8 @@
       }
     },
     "playerName": "R. Durmisi",
-    "playerId": 1839
+    "playerId": 1839,
+    "season": "2019"
   },
   {
     "date": "2018-07-01",
@@ -2319,7 +2447,8 @@
       }
     },
     "playerName": "Álvaro Vallés",
-    "playerId": 46990
+    "playerId": 46990,
+    "season": "2019"
   },
   {
     "date": "2018-06-30",
@@ -2337,7 +2466,8 @@
       }
     },
     "playerName": "J. Campbell",
-    "playerId": 2845
+    "playerId": 2845,
+    "season": "2018"
   },
   {
     "date": "2018-05-10",
@@ -2355,7 +2485,8 @@
       }
     },
     "playerName": "Aitor Ruibal García",
-    "playerId": 47119
+    "playerId": 47119,
+    "season": "2018"
   },
   {
     "date": "2018-05-05",
@@ -2373,7 +2504,8 @@
       }
     },
     "playerName": "Carlos Redruello Nimo",
-    "playerId": 104830
+    "playerId": 104830,
+    "season": "2018"
   },
   {
     "date": "2018-02-07",
@@ -2391,7 +2523,8 @@
       }
     },
     "playerName": "Beka Vachiberadze",
-    "playerId": 72371
+    "playerId": 72371,
+    "season": "2018"
   },
   {
     "date": "2018-02-06",
@@ -2409,7 +2542,8 @@
       }
     },
     "playerName": "F. Gutiérrez",
-    "playerId": 51260
+    "playerId": 51260,
+    "season": "2018"
   },
   {
     "date": "2018-01-31",
@@ -2427,7 +2561,8 @@
       }
     },
     "playerName": "José Carlos",
-    "playerId": 47161
+    "playerId": 47161,
+    "season": "2018"
   },
   {
     "date": "2018-01-30",
@@ -2445,7 +2580,8 @@
       }
     },
     "playerName": "Marc Bartra Aregall",
-    "playerId": 1561
+    "playerId": 1561,
+    "season": "2018"
   },
   {
     "date": "2018-01-29",
@@ -2463,7 +2599,8 @@
       }
     },
     "playerName": "J. Narváez",
-    "playerId": 46922
+    "playerId": 46922,
+    "season": "2018"
   },
   {
     "date": "2018-01-29",
@@ -2481,7 +2618,8 @@
       }
     },
     "playerName": "W. Kaptoum",
-    "playerId": 1576
+    "playerId": 1576,
+    "season": "2018"
   },
   {
     "date": "2018-01-11",
@@ -2499,7 +2637,8 @@
       }
     },
     "playerName": "Carlos Blanco Moreno",
-    "playerId": 104982
+    "playerId": 104982,
+    "season": "2018"
   },
   {
     "date": "2018-01-10",
@@ -2517,7 +2656,8 @@
       }
     },
     "playerName": "D. Digard",
-    "playerId": 104861
+    "playerId": 104861,
+    "season": "2018"
   },
   {
     "date": "2018-01-01",
@@ -2535,7 +2675,8 @@
       }
     },
     "playerName": "F. Gutiérrez",
-    "playerId": 51260
+    "playerId": 51260,
+    "season": "2018"
   },
   {
     "date": "2018-01-01",
@@ -2553,7 +2694,8 @@
       }
     },
     "playerName": "Rubén Castro",
-    "playerId": 47012
+    "playerId": 47012,
+    "season": "2018"
   },
   {
     "date": "2017-11-29",
@@ -2571,7 +2713,8 @@
       }
     },
     "playerName": "Aitor Ruibal García",
-    "playerId": 47119
+    "playerId": 47119,
+    "season": "2018"
   },
   {
     "date": "2017-09-08",
@@ -2589,7 +2732,8 @@
       }
     },
     "playerName": "R. Zozulya",
-    "playerId": 46726
+    "playerId": 46726,
+    "season": "2018"
   },
   {
     "date": "2017-09-06",
@@ -2607,7 +2751,8 @@
       }
     },
     "playerName": "Álvaro Vallés",
-    "playerId": 46990
+    "playerId": 46990,
+    "season": "2018"
   },
   {
     "date": "2017-09-01",
@@ -2625,7 +2770,8 @@
       }
     },
     "playerName": "Nil Coch Montaña",
-    "playerId": 187604
+    "playerId": 187604,
+    "season": "2018"
   },
   {
     "date": "2017-08-30",
@@ -2643,7 +2789,8 @@
       }
     },
     "playerName": "D. Brašanac",
-    "playerId": 47361
+    "playerId": 47361,
+    "season": "2018"
   },
   {
     "date": "2017-08-30",
@@ -2661,7 +2808,8 @@
       }
     },
     "playerName": "César de la Hoz",
-    "playerId": 46919
+    "playerId": 46919,
+    "season": "2018"
   },
   {
     "date": "2017-08-29",
@@ -2679,7 +2827,8 @@
       }
     },
     "playerName": "Liberto Luis Beltrán Martínez",
-    "playerId": 105014
+    "playerId": 105014,
+    "season": "2018"
   },
   {
     "date": "2017-08-23",
@@ -2697,7 +2846,8 @@
       }
     },
     "playerName": "Jorge Maristany Ortiz",
-    "playerId": 185565
+    "playerId": 185565,
+    "season": "2018"
   },
   {
     "date": "2017-08-18",
@@ -2715,7 +2865,8 @@
       }
     },
     "playerName": "G. Pezzella",
-    "playerId": 2469
+    "playerId": 2469,
+    "season": "2018"
   },
   {
     "date": "2017-08-14",
@@ -2733,7 +2884,8 @@
       }
     },
     "playerName": "Javi García",
-    "playerId": 1571
+    "playerId": 1571,
+    "season": "2018"
   },
   {
     "date": "2017-08-09",
@@ -2751,7 +2903,8 @@
       }
     },
     "playerName": "R. Boudebouz",
-    "playerId": 47436
+    "playerId": 47436,
+    "season": "2018"
   },
   {
     "date": "2017-08-08",
@@ -2769,7 +2922,8 @@
       }
     },
     "playerName": "Sergio Navarro García",
-    "playerId": 185487
+    "playerId": 185487,
+    "season": "2018"
   },
   {
     "date": "2017-08-08",
@@ -2787,7 +2941,8 @@
       }
     },
     "playerName": "José Carlos",
-    "playerId": 47161
+    "playerId": 47161,
+    "season": "2018"
   },
   {
     "date": "2017-08-06",
@@ -2805,7 +2960,8 @@
       }
     },
     "playerName": "Sergio Tienza Valverde",
-    "playerId": 190099
+    "playerId": 190099,
+    "season": "2018"
   },
   {
     "date": "2017-08-03",
@@ -2823,7 +2979,8 @@
       }
     },
     "playerName": "Manuel Herrera Yagüe",
-    "playerId": 104844
+    "playerId": 104844,
+    "season": "2018"
   },
   {
     "date": "2017-08-01",
@@ -2841,7 +2998,8 @@
       }
     },
     "playerName": "Ángel de la Calzada Ramos",
-    "playerId": 116835
+    "playerId": 116835,
+    "season": "2018"
   },
   {
     "date": "2017-07-25",
@@ -2859,7 +3017,8 @@
       }
     },
     "playerName": "Jonas Martin",
-    "playerId": 22258
+    "playerId": 22258,
+    "season": "2018"
   },
   {
     "date": "2017-07-24",
@@ -2877,7 +3036,8 @@
       }
     },
     "playerName": "Álvaro Cejudo Carmona",
-    "playerId": 77168
+    "playerId": 77168,
+    "season": "2018"
   },
   {
     "date": "2017-07-24",
@@ -2895,7 +3055,8 @@
       }
     },
     "playerName": "Zouhair Feddal Agharbi",
-    "playerId": 1563
+    "playerId": 1563,
+    "season": "2018"
   },
   {
     "date": "2017-07-14",
@@ -2913,7 +3074,8 @@
       }
     },
     "playerName": "José Luis Herrera Falcón",
-    "playerId": 186397
+    "playerId": 186397,
+    "season": "2018"
   },
   {
     "date": "2017-07-14",
@@ -2931,7 +3093,8 @@
       }
     },
     "playerName": "Daniel Ceballos Fernández",
-    "playerId": 748
+    "playerId": 748,
+    "season": "2018"
   },
   {
     "date": "2017-07-11",
@@ -2949,7 +3112,8 @@
       }
     },
     "playerName": "Rubén Castro",
-    "playerId": 47012
+    "playerId": 47012,
+    "season": "2018"
   },
   {
     "date": "2017-07-10",
@@ -2967,7 +3131,8 @@
       }
     },
     "playerName": "Juanma García",
-    "playerId": 116884
+    "playerId": 116884,
+    "season": "2018"
   },
   {
     "date": "2017-07-07",
@@ -2985,7 +3150,8 @@
       }
     },
     "playerName": "A. Guardado",
-    "playerId": 1573
+    "playerId": 1573,
+    "season": "2018"
   },
   {
     "date": "2017-07-07",
@@ -3003,7 +3169,8 @@
       }
     },
     "playerName": "Jordi Amat",
-    "playerId": 47531
+    "playerId": 47531,
+    "season": "2018"
   },
   {
     "date": "2017-07-06",
@@ -3021,7 +3188,8 @@
       }
     },
     "playerName": "Barragán",
-    "playerId": 1560
+    "playerId": 1560,
+    "season": "2018"
   },
   {
     "date": "2017-07-06",
@@ -3039,7 +3207,8 @@
       }
     },
     "playerName": "Bruno",
-    "playerId": 47252
+    "playerId": 47252,
+    "season": "2018"
   },
   {
     "date": "2017-07-01",
@@ -3057,7 +3226,8 @@
       }
     },
     "playerName": "D. Digard",
-    "playerId": 104861
+    "playerId": 104861,
+    "season": "2018"
   },
   {
     "date": "2017-07-01",
@@ -3075,7 +3245,8 @@
       }
     },
     "playerName": "Francisco Torres Muñoz",
-    "playerId": 185612
+    "playerId": 185612,
+    "season": "2018"
   },
   {
     "date": "2017-07-01",
@@ -3093,7 +3264,8 @@
       }
     },
     "playerName": "Alejandro Martínez Sánchez",
-    "playerId": 46681
+    "playerId": 46681,
+    "season": "2018"
   },
   {
     "date": "2017-07-01",
@@ -3111,7 +3283,8 @@
       }
     },
     "playerName": "Fabián Ruiz",
-    "playerId": 328
+    "playerId": 328,
+    "season": "2018"
   },
   {
     "date": "2017-07-01",
@@ -3129,7 +3302,8 @@
       }
     },
     "playerName": "Cristiano Piccini",
-    "playerId": 921
+    "playerId": 921,
+    "season": "2018"
   },
   {
     "date": "2017-07-01",
@@ -3147,7 +3321,8 @@
       }
     },
     "playerName": "Víctor Camarasa Ferrando",
-    "playerId": 18998
+    "playerId": 18998,
+    "season": "2018"
   },
   {
     "date": "2017-07-01",
@@ -3165,7 +3340,8 @@
       }
     },
     "playerName": "Cristian Tello Herrera",
-    "playerId": 1586
+    "playerId": 1586,
+    "season": "2018"
   },
   {
     "date": "2017-07-01",
@@ -3183,7 +3359,8 @@
       }
     },
     "playerName": "R. Donk",
-    "playerId": 446
+    "playerId": 446,
+    "season": "2018"
   },
   {
     "date": "2017-07-01",
@@ -3201,7 +3378,8 @@
       }
     },
     "playerName": "Portillo",
-    "playerId": 47262
+    "playerId": 47262,
+    "season": "2018"
   },
   {
     "date": "2017-07-01",
@@ -3219,7 +3397,8 @@
       }
     },
     "playerName": "Sergio León",
-    "playerId": 1583
+    "playerId": 1583,
+    "season": "2018"
   },
   {
     "date": "2017-07-01",
@@ -3237,7 +3416,8 @@
       }
     },
     "playerName": "Álex Alegría",
-    "playerId": 46898
+    "playerId": 46898,
+    "season": "2018"
   },
   {
     "date": "2017-07-01",
@@ -3255,7 +3435,8 @@
       }
     },
     "playerName": "Rubén Pardo",
-    "playerId": 47312
+    "playerId": 47312,
+    "season": "2018"
   },
   {
     "date": "2017-06-27",
@@ -3273,7 +3454,8 @@
       }
     },
     "playerName": "Petros Matheus dos Santos Araújo",
-    "playerId": 44318
+    "playerId": 44318,
+    "season": "2017"
   },
   {
     "date": "2017-03-30",
@@ -3291,7 +3473,8 @@
       }
     },
     "playerName": "F. Gutiérrez",
-    "playerId": 51260
+    "playerId": 51260,
+    "season": "2017"
   },
   {
     "date": "2017-01-24",
@@ -3309,7 +3492,8 @@
       }
     },
     "playerName": "Alin Dorinel Toșca",
-    "playerId": 2366
+    "playerId": 2366,
+    "season": "2017"
   },
   {
     "date": "2017-01-24",
@@ -3327,7 +3511,8 @@
       }
     },
     "playerName": "Rubén Pardo",
-    "playerId": 47312
+    "playerId": 47312,
+    "season": "2017"
   },
   {
     "date": "2017-01-02",
@@ -3345,7 +3530,8 @@
       }
     },
     "playerName": "Fabián Ruiz",
-    "playerId": 328
+    "playerId": 328,
+    "season": "2017"
   },
   {
     "date": "2017-01-01",
@@ -3363,7 +3549,8 @@
       }
     },
     "playerName": "Juan Manuel Vargas Risco",
-    "playerId": 101283
+    "playerId": 101283,
+    "season": "2017"
   },
   {
     "date": "2017-01-01",
@@ -3381,7 +3568,8 @@
       }
     },
     "playerName": "Pedro López Galisteo",
-    "playerId": 104802
+    "playerId": 104802,
+    "season": "2017"
   },
   {
     "date": "2016-09-02",
@@ -3399,7 +3587,8 @@
       }
     },
     "playerName": "Luis Madrigal Caro",
-    "playerId": 122713
+    "playerId": 122713,
+    "season": "2017"
   },
   {
     "date": "2016-08-31",
@@ -3417,7 +3606,8 @@
       }
     },
     "playerName": "D. Digard",
-    "playerId": 104861
+    "playerId": 104861,
+    "season": "2017"
   },
   {
     "date": "2016-08-31",
@@ -3435,7 +3625,8 @@
       }
     },
     "playerName": "Foued Kadir",
-    "playerId": 104131
+    "playerId": 104131,
+    "season": "2017"
   },
   {
     "date": "2016-08-31",
@@ -3453,7 +3644,8 @@
       }
     },
     "playerName": "R. Donk",
-    "playerId": 446
+    "playerId": 446,
+    "season": "2017"
   },
   {
     "date": "2016-08-31",
@@ -3471,7 +3663,8 @@
       }
     },
     "playerName": "Portillo",
-    "playerId": 47262
+    "playerId": 47262,
+    "season": "2017"
   },
   {
     "date": "2016-08-27",
@@ -3489,7 +3682,8 @@
       }
     },
     "playerName": "Pedro López Galisteo",
-    "playerId": 104802
+    "playerId": 104802,
+    "season": "2017"
   },
   {
     "date": "2016-08-24",
@@ -3507,7 +3701,8 @@
       }
     },
     "playerName": "D. Brašanac",
-    "playerId": 47361
+    "playerId": 47361,
+    "season": "2017"
   },
   {
     "date": "2016-08-18",
@@ -3525,7 +3720,8 @@
       }
     },
     "playerName": "Vadillo",
-    "playerId": 46692
+    "playerId": 46692,
+    "season": "2017"
   },
   {
     "date": "2016-08-16",
@@ -3543,7 +3739,8 @@
       }
     },
     "playerName": "Xavi Torres",
-    "playerId": 46981
+    "playerId": 46981,
+    "season": "2017"
   },
   {
     "date": "2016-08-10",
@@ -3561,7 +3758,8 @@
       }
     },
     "playerName": "Rafael van der Vaart",
-    "playerId": 114799
+    "playerId": 114799,
+    "season": "2017"
   },
   {
     "date": "2016-08-02",
@@ -3579,7 +3777,8 @@
       }
     },
     "playerName": "Manuel Herrera Yagüe",
-    "playerId": 104844
+    "playerId": 104844,
+    "season": "2017"
   },
   {
     "date": "2016-07-27",
@@ -3597,7 +3796,8 @@
       }
     },
     "playerName": "R. Zozulya",
-    "playerId": 46726
+    "playerId": 46726,
+    "season": "2017"
   },
   {
     "date": "2016-07-15",
@@ -3615,7 +3815,8 @@
       }
     },
     "playerName": "Arnaldo Antonio Sanabria Ayala",
-    "playerId": 2522
+    "playerId": 2522,
+    "season": "2017"
   },
   {
     "date": "2016-07-14",
@@ -3633,7 +3834,8 @@
       }
     },
     "playerName": "H. Westermann",
-    "playerId": 78370
+    "playerId": 78370,
+    "season": "2017"
   },
   {
     "date": "2016-07-13",
@@ -3651,7 +3853,8 @@
       }
     },
     "playerName": "Luis Lara Roa",
-    "playerId": 178994
+    "playerId": 178994,
+    "season": "2017"
   },
   {
     "date": "2016-07-08",
@@ -3669,7 +3872,8 @@
       }
     },
     "playerName": "Alfred John Momar N'Diaye",
-    "playerId": 2992
+    "playerId": 2992,
+    "season": "2017"
   },
   {
     "date": "2016-07-06",
@@ -3687,7 +3891,8 @@
       }
     },
     "playerName": "Javier Magro Matilla",
-    "playerId": 68197
+    "playerId": 68197,
+    "season": "2017"
   },
   {
     "date": "2016-07-06",
@@ -3705,7 +3910,8 @@
       }
     },
     "playerName": "F. Gutiérrez",
-    "playerId": 51260
+    "playerId": 51260,
+    "season": "2017"
   },
   {
     "date": "2016-07-01",
@@ -3723,7 +3929,8 @@
       }
     },
     "playerName": "Luis Lara Roa",
-    "playerId": 178994
+    "playerId": 178994,
+    "season": "2017"
   },
   {
     "date": "2016-07-01",
@@ -3741,7 +3948,8 @@
       }
     },
     "playerName": "Braian Damián Rodríguez Carballo",
-    "playerId": 53964
+    "playerId": 53964,
+    "season": "2017"
   },
   {
     "date": "2016-07-01",
@@ -3759,7 +3967,8 @@
       }
     },
     "playerName": "Sergio Navarro García",
-    "playerId": 185487
+    "playerId": 185487,
+    "season": "2017"
   },
   {
     "date": "2016-07-01",
@@ -3777,7 +3986,8 @@
       }
     },
     "playerName": "Blas Álvarez Cortés",
-    "playerId": 270640
+    "playerId": 270640,
+    "season": "2017"
   },
   {
     "date": "2016-07-01",
@@ -3795,7 +4005,8 @@
       }
     },
     "playerName": "Francisco Torres Muñoz",
-    "playerId": 185612
+    "playerId": 185612,
+    "season": "2017"
   },
   {
     "date": "2016-07-01",
@@ -3813,7 +4024,8 @@
       }
     },
     "playerName": "Alejandro Martínez Sánchez",
-    "playerId": 46681
+    "playerId": 46681,
+    "season": "2017"
   },
   {
     "date": "2016-07-01",
@@ -3831,7 +4043,8 @@
       }
     },
     "playerName": "Francisco José Molinero Calderón",
-    "playerId": 46880
+    "playerId": 46880,
+    "season": "2017"
   },
   {
     "date": "2016-07-01",
@@ -3849,7 +4062,8 @@
       }
     },
     "playerName": "Francisco Miguel Varela Martín",
-    "playerId": 47104
+    "playerId": 47104,
+    "season": "2017"
   },
   {
     "date": "2016-07-01",
@@ -3867,7 +4081,8 @@
       }
     },
     "playerName": "Amro Tarek Abdel Aziz",
-    "playerId": 50947
+    "playerId": 50947,
+    "season": "2017"
   },
   {
     "date": "2016-07-01",
@@ -3885,7 +4100,8 @@
       }
     },
     "playerName": "Jonas Martin",
-    "playerId": 22258
+    "playerId": 22258,
+    "season": "2017"
   },
   {
     "date": "2016-07-01",
@@ -3903,7 +4119,8 @@
       }
     },
     "playerName": "Jorge Molina Vidal",
-    "playerId": 47265
+    "playerId": 47265,
+    "season": "2017"
   },
   {
     "date": "2016-07-01",
@@ -3921,7 +4138,8 @@
       }
     },
     "playerName": "Samuel González Martínez",
-    "playerId": 47030
+    "playerId": 47030,
+    "season": "2017"
   },
   {
     "date": "2016-07-01",
@@ -3939,7 +4157,8 @@
       }
     },
     "playerName": "Antonio Segura González",
-    "playerId": 47008
+    "playerId": 47008,
+    "season": "2017"
   },
   {
     "date": "2016-07-01",
@@ -3957,7 +4176,8 @@
       }
     },
     "playerName": "José Antonio Caro Martínez",
-    "playerId": 46702
+    "playerId": 46702,
+    "season": "2017"
   },
   {
     "date": "2016-07-01",
@@ -3975,7 +4195,8 @@
       }
     },
     "playerName": "Leandro Damião",
-    "playerId": 32970
+    "playerId": 32970,
+    "season": "2017"
   },
   {
     "date": "2016-07-01",
@@ -3993,7 +4214,8 @@
       }
     },
     "playerName": "L. Reyes",
-    "playerId": 35854
+    "playerId": 35854,
+    "season": "2017"
   },
   {
     "date": "2016-07-01",
@@ -4011,7 +4233,8 @@
       }
     },
     "playerName": "R. Durmisi",
-    "playerId": 1839
+    "playerId": 1839,
+    "season": "2017"
   },
   {
     "date": "2016-07-01",
@@ -4029,7 +4252,8 @@
       }
     },
     "playerName": "A. Mandi",
-    "playerId": 1567
+    "playerId": 1567,
+    "season": "2017"
   },
   {
     "date": "2016-07-01",
@@ -4047,7 +4271,8 @@
       }
     },
     "playerName": "Nahuel Leiva",
-    "playerId": 46802
+    "playerId": 46802,
+    "season": "2017"
   },
   {
     "date": "2016-07-01",
@@ -4065,7 +4290,8 @@
       }
     },
     "playerName": "Álex Alegría",
-    "playerId": 46898
+    "playerId": 46898,
+    "season": "2017"
   },
   {
     "date": "2016-06-01",
@@ -4083,7 +4309,8 @@
       }
     },
     "playerName": "Martín Montoya Torralbo",
-    "playerId": 18965
+    "playerId": 18965,
+    "season": "2016"
   },
   {
     "date": "2016-02-04",
@@ -4101,7 +4328,8 @@
       }
     },
     "playerName": "Leandro Damião",
-    "playerId": 32970
+    "playerId": 32970,
+    "season": "2016"
   },
   {
     "date": "2016-02-03",
@@ -4119,7 +4347,8 @@
       }
     },
     "playerName": "Amro Tarek Abdel Aziz",
-    "playerId": 50947
+    "playerId": 50947,
+    "season": "2016"
   },
   {
     "date": "2016-02-01",
@@ -4137,7 +4366,8 @@
       }
     },
     "playerName": "Martín Montoya Torralbo",
-    "playerId": 18965
+    "playerId": 18965,
+    "season": "2016"
   },
   {
     "date": "2016-01-29",
@@ -4155,7 +4385,8 @@
       }
     },
     "playerName": "Charly Musonda Junior",
-    "playerId": 37125
+    "playerId": 37125,
+    "season": "2016"
   },
   {
     "date": "2016-01-26",
@@ -4173,7 +4404,8 @@
       }
     },
     "playerName": "J. Narváez",
-    "playerId": 46922
+    "playerId": 46922,
+    "season": "2016"
   },
   {
     "date": "2016-01-20",
@@ -4191,7 +4423,8 @@
       }
     },
     "playerName": "Dan Ojog",
-    "playerId": 123688
+    "playerId": 123688,
+    "season": "2016"
   },
   {
     "date": "2016-01-18",
@@ -4209,7 +4442,8 @@
       }
     },
     "playerName": "Marco Rosa Blanco",
-    "playerId": 119016
+    "playerId": 119016,
+    "season": "2016"
   },
   {
     "date": "2016-01-15",
@@ -4227,7 +4461,8 @@
       }
     },
     "playerName": "Jordi Figueras Montel",
-    "playerId": 90710
+    "playerId": 90710,
+    "season": "2016"
   },
   {
     "date": "2016-01-14",
@@ -4245,7 +4480,8 @@
       }
     },
     "playerName": "Vincenzo Renato Rennella",
-    "playerId": 46781
+    "playerId": 46781,
+    "season": "2016"
   },
   {
     "date": "2016-01-13",
@@ -4263,7 +4499,8 @@
       }
     },
     "playerName": "Sergio Navarro García",
-    "playerId": 185487
+    "playerId": 185487,
+    "season": "2016"
   },
   {
     "date": "2016-01-07",
@@ -4281,7 +4518,8 @@
       }
     },
     "playerName": "Agustín Emanuel Pastoriza Cacabelos",
-    "playerId": 116919
+    "playerId": 116919,
+    "season": "2016"
   },
   {
     "date": "2016-01-01",
@@ -4299,7 +4537,8 @@
       }
     },
     "playerName": "Aitor Ruibal García",
-    "playerId": 47119
+    "playerId": 47119,
+    "season": "2016"
   },
   {
     "date": "2015-12-16",
@@ -4317,7 +4556,8 @@
       }
     },
     "playerName": "Carlos García Quesada",
-    "playerId": 116981
+    "playerId": 116981,
+    "season": "2016"
   },
   {
     "date": "2015-09-02",
@@ -4335,7 +4575,8 @@
       }
     },
     "playerName": "Iván Martín Gómez",
-    "playerId": 40916
+    "playerId": 40916,
+    "season": "2016"
   },
   {
     "date": "2015-08-31",
@@ -4353,7 +4594,8 @@
       }
     },
     "playerName": "Ricky van Wolfswinkel",
-    "playerId": 48390
+    "playerId": 48390,
+    "season": "2016"
   },
   {
     "date": "2015-08-31",
@@ -4371,7 +4613,8 @@
       }
     },
     "playerName": "Joaquín",
-    "playerId": 1579
+    "playerId": 1579,
+    "season": "2016"
   },
   {
     "date": "2015-08-25",
@@ -4389,7 +4632,8 @@
       }
     },
     "playerName": "Beka Vachiberadze",
-    "playerId": 72371
+    "playerId": 72371,
+    "season": "2016"
   },
   {
     "date": "2015-08-18",
@@ -4407,7 +4651,8 @@
       }
     },
     "playerName": "Álvaro González Méndez",
-    "playerId": 125569
+    "playerId": 125569,
+    "season": "2016"
   },
   {
     "date": "2015-08-14",
@@ -4425,7 +4670,8 @@
       }
     },
     "playerName": "Jesús Francisco Muñoz Ruiz",
-    "playerId": 181252
+    "playerId": 181252,
+    "season": "2016"
   },
   {
     "date": "2015-08-12",
@@ -4443,7 +4689,8 @@
       }
     },
     "playerName": "Juan Manuel Vargas Risco",
-    "playerId": 101283
+    "playerId": 101283,
+    "season": "2016"
   },
   {
     "date": "2015-08-12",
@@ -4461,7 +4708,8 @@
       }
     },
     "playerName": "Emmanuel González Rodríguez",
-    "playerId": 47031
+    "playerId": 47031,
+    "season": "2016"
   },
   {
     "date": "2015-08-06",
@@ -4479,7 +4727,8 @@
       }
     },
     "playerName": "H. Westermann",
-    "playerId": 78370
+    "playerId": 78370,
+    "season": "2016"
   },
   {
     "date": "2015-07-30",
@@ -4497,7 +4746,8 @@
       }
     },
     "playerName": "Ismael César García",
-    "playerId": 136804
+    "playerId": 136804,
+    "season": "2016"
   },
   {
     "date": "2015-07-29",
@@ -4515,7 +4765,8 @@
       }
     },
     "playerName": "Luis Lara Roa",
-    "playerId": 178994
+    "playerId": 178994,
+    "season": "2016"
   },
   {
     "date": "2015-07-29",
@@ -4533,7 +4784,8 @@
       }
     },
     "playerName": "Francisco Torres Muñoz",
-    "playerId": 185612
+    "playerId": 185612,
+    "season": "2016"
   },
   {
     "date": "2015-07-28",
@@ -4551,7 +4803,8 @@
       }
     },
     "playerName": "Dani Pacheco",
-    "playerId": 46837
+    "playerId": 46837,
+    "season": "2016"
   },
   {
     "date": "2015-07-27",
@@ -4569,7 +4822,8 @@
       }
     },
     "playerName": "José Luis Vidal Romero",
-    "playerId": 72764
+    "playerId": 72764,
+    "season": "2016"
   },
   {
     "date": "2015-07-21",
@@ -4587,7 +4841,8 @@
       }
     },
     "playerName": "Javier Montoya Monente",
-    "playerId": 116905
+    "playerId": 116905,
+    "season": "2016"
   },
   {
     "date": "2015-07-16",
@@ -4605,7 +4860,8 @@
       }
     },
     "playerName": "Alejandro Lázaro Rodríguez",
-    "playerId": 105042
+    "playerId": 105042,
+    "season": "2016"
   },
   {
     "date": "2015-07-13",
@@ -4623,7 +4879,8 @@
       }
     },
     "playerName": "G. Pezzella",
-    "playerId": 2469
+    "playerId": 2469,
+    "season": "2016"
   },
   {
     "date": "2015-07-11",
@@ -4641,7 +4898,8 @@
       }
     },
     "playerName": "Cedric Mabwati Gerard",
-    "playerId": 104081
+    "playerId": 104081,
+    "season": "2016"
   },
   {
     "date": "2015-07-09",
@@ -4659,7 +4917,8 @@
       }
     },
     "playerName": "Álex Alegría",
-    "playerId": 46898
+    "playerId": 46898,
+    "season": "2016"
   },
   {
     "date": "2015-07-08",
@@ -4677,7 +4936,8 @@
       }
     },
     "playerName": "D. Digard",
-    "playerId": 104861
+    "playerId": 104861,
+    "season": "2016"
   },
   {
     "date": "2015-07-06",
@@ -4695,7 +4955,8 @@
       }
     },
     "playerName": "Amro Tarek Abdel Aziz",
-    "playerId": 50947
+    "playerId": 50947,
+    "season": "2016"
   },
   {
     "date": "2015-07-06",
@@ -4713,7 +4974,8 @@
       }
     },
     "playerName": "Isaac Carcelén Valencia",
-    "playerId": 47100
+    "playerId": 47100,
+    "season": "2016"
   },
   {
     "date": "2015-07-05",
@@ -4731,7 +4993,8 @@
       }
     },
     "playerName": "Manuel Jesús Vázquez Florido",
-    "playerId": 47043
+    "playerId": 47043,
+    "season": "2016"
   },
   {
     "date": "2015-07-03",
@@ -4749,7 +5012,8 @@
       }
     },
     "playerName": "Ángel de la Calzada Ramos",
-    "playerId": 116835
+    "playerId": 116835,
+    "season": "2016"
   },
   {
     "date": "2015-07-01",
@@ -4767,7 +5031,8 @@
       }
     },
     "playerName": "Rafael van der Vaart",
-    "playerId": 114799
+    "playerId": 114799,
+    "season": "2016"
   },
   {
     "date": "2015-07-01",
@@ -4785,7 +5050,8 @@
       }
     },
     "playerName": "Sergio Rodríguez Hurtado",
-    "playerId": 116985
+    "playerId": 116985,
+    "season": "2016"
   },
   {
     "date": "2015-07-01",
@@ -4803,7 +5069,8 @@
       }
     },
     "playerName": "Juan José Mateos Silva",
-    "playerId": 125582
+    "playerId": 125582,
+    "season": "2016"
   },
   {
     "date": "2015-07-01",
@@ -4821,7 +5088,8 @@
       }
     },
     "playerName": "Cedric Mabwati Gerard",
-    "playerId": 104081
+    "playerId": 104081,
+    "season": "2016"
   },
   {
     "date": "2015-07-01",
@@ -4839,7 +5107,8 @@
       }
     },
     "playerName": "Ignacio González Ruiz",
-    "playerId": 182716
+    "playerId": 182716,
+    "season": "2016"
   },
   {
     "date": "2015-07-01",
@@ -4857,7 +5126,8 @@
       }
     },
     "playerName": "Alejandro Martínez Sánchez",
-    "playerId": 46681
+    "playerId": 46681,
+    "season": "2016"
   },
   {
     "date": "2015-07-01",
@@ -4875,7 +5145,8 @@
       }
     },
     "playerName": "Manuel Jesús Vázquez Florido",
-    "playerId": 47043
+    "playerId": 47043,
+    "season": "2016"
   },
   {
     "date": "2015-07-01",
@@ -4893,7 +5164,8 @@
       }
     },
     "playerName": "Diego Manuel Díaz Arteaga",
-    "playerId": 125594
+    "playerId": 125594,
+    "season": "2016"
   },
   {
     "date": "2015-07-01",
@@ -4911,7 +5183,8 @@
       }
     },
     "playerName": "Foued Kadir",
-    "playerId": 104131
+    "playerId": 104131,
+    "season": "2016"
   },
   {
     "date": "2015-07-01",
@@ -4929,7 +5202,8 @@
       }
     },
     "playerName": "Iván Martín Gómez",
-    "playerId": 40916
+    "playerId": 40916,
+    "season": "2016"
   },
   {
     "date": "2015-07-01",
@@ -4947,7 +5221,8 @@
       }
     },
     "playerName": "Petros Matheus dos Santos Araújo",
-    "playerId": 44318
+    "playerId": 44318,
+    "season": "2016"
   },
   {
     "date": "2015-07-01",
@@ -4965,7 +5240,8 @@
       }
     },
     "playerName": "Héctor Rodas Ramírez",
-    "playerId": 46944
+    "playerId": 46944,
+    "season": "2016"
   },
   {
     "date": "2015-07-01",
@@ -4983,7 +5259,8 @@
       }
     },
     "playerName": "Jorge Casado Rodríguez",
-    "playerId": 26854
+    "playerId": 26854,
+    "season": "2016"
   },
   {
     "date": "2015-07-01",
@@ -5001,7 +5278,8 @@
       }
     },
     "playerName": "José Antonio Caro Martínez",
-    "playerId": 46702
+    "playerId": 46702,
+    "season": "2016"
   },
   {
     "date": "2015-07-01",
@@ -5019,7 +5297,8 @@
       }
     },
     "playerName": "L. Reyes",
-    "playerId": 35854
+    "playerId": 35854,
+    "season": "2016"
   },
   {
     "date": "2015-07-01",
@@ -5037,7 +5316,8 @@
       }
     },
     "playerName": "Portillo",
-    "playerId": 47262
+    "playerId": 47262,
+    "season": "2016"
   },
   {
     "date": "2015-02-24",
@@ -5055,7 +5335,8 @@
       }
     },
     "playerName": "Juan José Mateos Silva",
-    "playerId": 125582
+    "playerId": 125582,
+    "season": "2015"
   },
   {
     "date": "2015-02-02",
@@ -5073,7 +5354,8 @@
       }
     },
     "playerName": "Sergio Rodríguez Hurtado",
-    "playerId": 116985
+    "playerId": 116985,
+    "season": "2015"
   },
   {
     "date": "2015-02-02",
@@ -5091,7 +5373,8 @@
       }
     },
     "playerName": "José Antonio Delgado Villar",
-    "playerId": 61151
+    "playerId": 61151,
+    "season": "2015"
   },
   {
     "date": "2015-01-29",
@@ -5109,7 +5392,8 @@
       }
     },
     "playerName": "Héctor Rodas Ramírez",
-    "playerId": 46944
+    "playerId": 46944,
+    "season": "2015"
   },
   {
     "date": "2015-01-29",
@@ -5127,7 +5411,8 @@
       }
     },
     "playerName": "Lorenzo Jesús Morón García",
-    "playerId": 1584
+    "playerId": 1584,
+    "season": "2015"
   },
   {
     "date": "2015-01-26",
@@ -5145,7 +5430,8 @@
       }
     },
     "playerName": "Damien Perquis",
-    "playerId": 20975
+    "playerId": 20975,
+    "season": "2015"
   },
   {
     "date": "2015-01-20",
@@ -5163,7 +5449,8 @@
       }
     },
     "playerName": "Paulão",
-    "playerId": 96609
+    "playerId": 96609,
+    "season": "2015"
   },
   {
     "date": "2015-01-20",
@@ -5181,7 +5468,8 @@
       }
     },
     "playerName": "Jaime Isuardi Fernández",
-    "playerId": 117046
+    "playerId": 117046,
+    "season": "2015"
   },
   {
     "date": "2015-01-15",
@@ -5199,7 +5487,8 @@
       }
     },
     "playerName": "Portillo",
-    "playerId": 47262
+    "playerId": 47262,
+    "season": "2015"
   },
   {
     "date": "2015-01-07",
@@ -5217,7 +5506,8 @@
       }
     },
     "playerName": "Manuel Jesús Vázquez Florido",
-    "playerId": 47043
+    "playerId": 47043,
+    "season": "2015"
   },
   {
     "date": "2014-09-01",
@@ -5235,7 +5525,8 @@
       }
     },
     "playerName": "Foued Kadir",
-    "playerId": 104131
+    "playerId": 104131,
+    "season": "2015"
   },
   {
     "date": "2014-09-01",
@@ -5253,7 +5544,8 @@
       }
     },
     "playerName": "Iván Martín Gómez",
-    "playerId": 40916
+    "playerId": 40916,
+    "season": "2015"
   },
   {
     "date": "2014-08-28",
@@ -5271,7 +5563,8 @@
       }
     },
     "playerName": "Cedric Mabwati Gerard",
-    "playerId": 104081
+    "playerId": 104081,
+    "season": "2015"
   },
   {
     "date": "2014-08-27",
@@ -5289,7 +5582,8 @@
       }
     },
     "playerName": "Diego Zamora Serrano",
-    "playerId": 189637
+    "playerId": 189637,
+    "season": "2015"
   },
   {
     "date": "2014-08-27",
@@ -5307,7 +5601,8 @@
       }
     },
     "playerName": "Cristiano Piccini",
-    "playerId": 921
+    "playerId": 921,
+    "season": "2015"
   },
   {
     "date": "2014-08-20",
@@ -5325,7 +5620,8 @@
       }
     },
     "playerName": "Kevin Lacruz Coscolín",
-    "playerId": 117075
+    "playerId": 117075,
+    "season": "2015"
   },
   {
     "date": "2014-08-15",
@@ -5343,7 +5639,8 @@
       }
     },
     "playerName": "Braian Damián Rodríguez Carballo",
-    "playerId": 53964
+    "playerId": 53964,
+    "season": "2015"
   },
   {
     "date": "2014-08-15",
@@ -5361,7 +5658,8 @@
       }
     },
     "playerName": "Fausto Antonio Tienza Nuñez",
-    "playerId": 47036
+    "playerId": 47036,
+    "season": "2015"
   },
   {
     "date": "2014-08-11",
@@ -5379,7 +5677,8 @@
       }
     },
     "playerName": "Álvaro Cejudo Carmona",
-    "playerId": 77168
+    "playerId": 77168,
+    "season": "2015"
   },
   {
     "date": "2014-08-11",
@@ -5397,7 +5696,8 @@
       }
     },
     "playerName": "Alejandro Barrera Gómez",
-    "playerId": 185358
+    "playerId": 185358,
+    "season": "2015"
   },
   {
     "date": "2014-08-10",
@@ -5415,7 +5715,8 @@
       }
     },
     "playerName": "Joan Verdú Fernández",
-    "playerId": 78739
+    "playerId": 78739,
+    "season": "2015"
   },
   {
     "date": "2014-07-29",
@@ -5433,7 +5734,8 @@
       }
     },
     "playerName": "Brahim Amar Romero",
-    "playerId": 122699
+    "playerId": 122699,
+    "season": "2015"
   },
   {
     "date": "2014-07-27",
@@ -5451,7 +5753,8 @@
       }
     },
     "playerName": "Eneko Eizmendi Blanco",
-    "playerId": 116977
+    "playerId": 116977,
+    "season": "2015"
   },
   {
     "date": "2014-07-23",
@@ -5469,7 +5772,8 @@
       }
     },
     "playerName": "Emmanuel Nosakhare Igiebor",
-    "playerId": 15407
+    "playerId": 15407,
+    "season": "2015"
   },
   {
     "date": "2014-07-17",
@@ -5487,7 +5791,8 @@
       }
     },
     "playerName": "Adrián Rodríguez López",
-    "playerId": 185421
+    "playerId": 185421,
+    "season": "2015"
   },
   {
     "date": "2014-07-17",
@@ -5505,7 +5810,8 @@
       }
     },
     "playerName": "Álvaro Garrido Rodríguez",
-    "playerId": 136830
+    "playerId": 136830,
+    "season": "2015"
   },
   {
     "date": "2014-07-16",
@@ -5523,7 +5829,8 @@
       }
     },
     "playerName": "Jesús Mosquera Bernal",
-    "playerId": 190256
+    "playerId": 190256,
+    "season": "2015"
   },
   {
     "date": "2014-07-11",
@@ -5541,7 +5848,8 @@
       }
     },
     "playerName": "Dani Pacheco",
-    "playerId": 46837
+    "playerId": 46837,
+    "season": "2015"
   },
   {
     "date": "2014-07-10",
@@ -5559,7 +5867,8 @@
       }
     },
     "playerName": "César de la Hoz",
-    "playerId": 46919
+    "playerId": 46919,
+    "season": "2015"
   },
   {
     "date": "2014-07-09",
@@ -5577,7 +5886,8 @@
       }
     },
     "playerName": "Francisco Javier Chica Torres",
-    "playerId": 116876
+    "playerId": 116876,
+    "season": "2015"
   },
   {
     "date": "2014-07-06",
@@ -5595,7 +5905,8 @@
       }
     },
     "playerName": "Bruno",
-    "playerId": 47252
+    "playerId": 47252,
+    "season": "2015"
   },
   {
     "date": "2014-07-04",
@@ -5613,7 +5924,8 @@
       }
     },
     "playerName": "Dani Giménez",
-    "playerId": 46784
+    "playerId": 46784,
+    "season": "2015"
   },
   {
     "date": "2014-07-04",
@@ -5631,7 +5943,8 @@
       }
     },
     "playerName": "Rafael Jesús Navarro Mazuelos",
-    "playerId": 20997
+    "playerId": 20997,
+    "season": "2015"
   },
   {
     "date": "2014-07-04",
@@ -5649,7 +5962,8 @@
       }
     },
     "playerName": "Jorge Casado Rodríguez",
-    "playerId": 26854
+    "playerId": 26854,
+    "season": "2015"
   },
   {
     "date": "2014-07-01",
@@ -5667,7 +5981,8 @@
       }
     },
     "playerName": "Antonio Amaya Carazo",
-    "playerId": 104904
+    "playerId": 104904,
+    "season": "2015"
   },
   {
     "date": "2014-07-01",
@@ -5685,7 +6000,8 @@
       }
     },
     "playerName": "Sergio Rodríguez Hurtado",
-    "playerId": 116985
+    "playerId": 116985,
+    "season": "2015"
   },
   {
     "date": "2014-07-01",
@@ -5703,7 +6019,8 @@
       }
     },
     "playerName": "Vincenzo Renato Rennella",
-    "playerId": 46781
+    "playerId": 46781,
+    "season": "2015"
   },
   {
     "date": "2014-07-01",
@@ -5721,7 +6038,8 @@
       }
     },
     "playerName": "Stephan Maigaard Andersen",
-    "playerId": 1280
+    "playerId": 1280,
+    "season": "2015"
   },
   {
     "date": "2014-07-01",
@@ -5739,7 +6057,8 @@
       }
     },
     "playerName": "Alejandro Martínez Sánchez",
-    "playerId": 46681
+    "playerId": 46681,
+    "season": "2015"
   },
   {
     "date": "2014-07-01",
@@ -5757,7 +6076,8 @@
       }
     },
     "playerName": "Francisco José Molinero Calderón",
-    "playerId": 46880
+    "playerId": 46880,
+    "season": "2015"
   },
   {
     "date": "2014-07-01",
@@ -5775,7 +6095,8 @@
       }
     },
     "playerName": "Juan Francisco Moreno Fuertes",
-    "playerId": 47405
+    "playerId": 47405,
+    "season": "2015"
   },
   {
     "date": "2014-07-01",
@@ -5793,7 +6114,8 @@
       }
     },
     "playerName": "Salvador Sevilla López",
-    "playerId": 46743
+    "playerId": 46743,
+    "season": "2015"
   },
   {
     "date": "2014-07-01",
@@ -5811,7 +6133,8 @@
       }
     },
     "playerName": "Álvaro Garrido Rodríguez",
-    "playerId": 136830
+    "playerId": 136830,
+    "season": "2015"
   },
   {
     "date": "2014-01-30",
@@ -5829,7 +6152,8 @@
       }
     },
     "playerName": "Stephan Maigaard Andersen",
-    "playerId": 1280
+    "playerId": 1280,
+    "season": "2014"
   },
   {
     "date": "2014-01-30",
@@ -5847,7 +6171,8 @@
       }
     },
     "playerName": "Alfred John Momar N'Diaye",
-    "playerId": 2992
+    "playerId": 2992,
+    "season": "2014"
   },
   {
     "date": "2014-01-28",
@@ -5865,7 +6190,8 @@
       }
     },
     "playerName": "Borja Navarro",
-    "playerId": 116980
+    "playerId": 116980,
+    "season": "2014"
   },
   {
     "date": "2014-01-27",
@@ -5883,7 +6209,8 @@
       }
     },
     "playerName": "Adán",
-    "playerId": 27
+    "playerId": 27,
+    "season": "2014"
   },
   {
     "date": "2014-01-23",
@@ -5901,7 +6228,8 @@
       }
     },
     "playerName": "Sergio Rodríguez Hurtado",
-    "playerId": 116985
+    "playerId": 116985,
+    "season": "2014"
   },
   {
     "date": "2014-01-18",
@@ -5919,7 +6247,8 @@
       }
     },
     "playerName": "M. Steinhöfer",
-    "playerId": 90659
+    "playerId": 90659,
+    "season": "2014"
   },
   {
     "date": "2014-01-11",
@@ -5937,7 +6266,8 @@
       }
     },
     "playerName": "Léo Baptistão",
-    "playerId": 13062
+    "playerId": 13062,
+    "season": "2014"
   },
   {
     "date": "2013-08-24",
@@ -5955,7 +6285,8 @@
       }
     },
     "playerName": "Aridai Cabrera Suárez",
-    "playerId": 46748
+    "playerId": 46748,
+    "season": "2014"
   },
   {
     "date": "2013-08-18",
@@ -5973,7 +6304,8 @@
       }
     },
     "playerName": "Álvaro Garrido Rodríguez",
-    "playerId": 136830
+    "playerId": 136830,
+    "season": "2014"
   },
   {
     "date": "2013-08-17",
@@ -5991,7 +6323,8 @@
       }
     },
     "playerName": "Fabri",
-    "playerId": 19011
+    "playerId": 19011,
+    "season": "2014"
   },
   {
     "date": "2013-08-16",
@@ -6009,7 +6342,8 @@
       }
     },
     "playerName": "Alejandro Martínez Sánchez",
-    "playerId": 46681
+    "playerId": 46681,
+    "season": "2014"
   },
   {
     "date": "2013-08-14",
@@ -6027,7 +6361,8 @@
       }
     },
     "playerName": "Ignacio González Ruiz",
-    "playerId": 182716
+    "playerId": 182716,
+    "season": "2014"
   },
   {
     "date": "2013-08-11",
@@ -6045,7 +6380,8 @@
       }
     },
     "playerName": "Manu Palancar",
-    "playerId": 116970
+    "playerId": 116970,
+    "season": "2014"
   },
   {
     "date": "2013-08-07",
@@ -6063,7 +6399,8 @@
       }
     },
     "playerName": "Xavi Torres",
-    "playerId": 46981
+    "playerId": 46981,
+    "season": "2014"
   },
   {
     "date": "2013-08-03",
@@ -6081,7 +6418,8 @@
       }
     },
     "playerName": "Bernabé Barragán Maestre",
-    "playerId": 47211
+    "playerId": 47211,
+    "season": "2014"
   },
   {
     "date": "2013-08-02",
@@ -6099,7 +6437,8 @@
       }
     },
     "playerName": "Álvaro González Méndez",
-    "playerId": 125569
+    "playerId": 125569,
+    "season": "2014"
   },
   {
     "date": "2013-08-01",
@@ -6117,7 +6456,8 @@
       }
     },
     "playerName": "Diego Zamora Serrano",
-    "playerId": 189637
+    "playerId": 189637,
+    "season": "2014"
   },
   {
     "date": "2013-08-01",
@@ -6135,7 +6475,8 @@
       }
     },
     "playerName": "Rafael Jesús Navarro Mazuelos",
-    "playerId": 20997
+    "playerId": 20997,
+    "season": "2014"
   },
   {
     "date": "2013-08-01",
@@ -6153,7 +6494,8 @@
       }
     },
     "playerName": "Francisco José Ávila Martínez",
-    "playerId": 185569
+    "playerId": 185569,
+    "season": "2014"
   },
   {
     "date": "2013-07-29",
@@ -6171,7 +6513,8 @@
       }
     },
     "playerName": "Álvaro Rodríguez Vélez",
-    "playerId": 188467
+    "playerId": 188467,
+    "season": "2014"
   },
   {
     "date": "2013-07-29",
@@ -6189,7 +6532,8 @@
       }
     },
     "playerName": "Antonio Ayala Fernández",
-    "playerId": 185577
+    "playerId": 185577,
+    "season": "2014"
   },
   {
     "date": "2013-07-27",
@@ -6207,7 +6551,8 @@
       }
     },
     "playerName": "Vincenzo Renato Rennella",
-    "playerId": 46781
+    "playerId": 46781,
+    "season": "2014"
   },
   {
     "date": "2013-07-26",
@@ -6225,7 +6570,8 @@
       }
     },
     "playerName": "Vincenzo Renato Rennella",
-    "playerId": 46781
+    "playerId": 46781,
+    "season": "2014"
   },
   {
     "date": "2013-07-24",
@@ -6243,7 +6589,8 @@
       }
     },
     "playerName": "Casto Espinosa Barriga",
-    "playerId": 47015
+    "playerId": 47015,
+    "season": "2014"
   },
   {
     "date": "2013-07-15",
@@ -6261,7 +6608,8 @@
       }
     },
     "playerName": "Guillermo Sara",
-    "playerId": 6197
+    "playerId": 6197,
+    "season": "2014"
   },
   {
     "date": "2013-07-15",
@@ -6279,7 +6627,8 @@
       }
     },
     "playerName": "M. Steinhöfer",
-    "playerId": 90659
+    "playerId": 90659,
+    "season": "2014"
   },
   {
     "date": "2013-07-15",
@@ -6297,7 +6646,8 @@
       }
     },
     "playerName": "Kevin Lacruz Coscolín",
-    "playerId": 117075
+    "playerId": 117075,
+    "season": "2014"
   },
   {
     "date": "2013-07-11",
@@ -6315,7 +6665,8 @@
       }
     },
     "playerName": "Manuel Herrera López",
-    "playerId": 117052
+    "playerId": 117052,
+    "season": "2014"
   },
   {
     "date": "2013-07-07",
@@ -6333,7 +6684,8 @@
       }
     },
     "playerName": "David Querol",
-    "playerId": 46780
+    "playerId": 46780,
+    "season": "2014"
   },
   {
     "date": "2013-07-06",
@@ -6351,7 +6703,8 @@
       }
     },
     "playerName": "Alejandro Adrián Hernández Santiago",
-    "playerId": 179251
+    "playerId": 179251,
+    "season": "2014"
   },
   {
     "date": "2013-07-05",
@@ -6369,7 +6722,8 @@
       }
     },
     "playerName": "Adrián Wojcik Kosela",
-    "playerId": 187670
+    "playerId": 187670,
+    "season": "2014"
   },
   {
     "date": "2013-07-03",
@@ -6387,7 +6741,8 @@
       }
     },
     "playerName": "Ezequiel Calvente Criado",
-    "playerId": 89027
+    "playerId": 89027,
+    "season": "2014"
   },
   {
     "date": "2013-07-02",
@@ -6405,7 +6760,8 @@
       }
     },
     "playerName": "Pozuelo",
-    "playerId": 50818
+    "playerId": 50818,
+    "season": "2014"
   },
   {
     "date": "2013-07-01",
@@ -6423,7 +6779,8 @@
       }
     },
     "playerName": "Beñat",
-    "playerId": 47280
+    "playerId": 47280,
+    "season": "2014"
   },
   {
     "date": "2013-07-01",
@@ -6441,7 +6798,8 @@
       }
     },
     "playerName": "Mario Abrante",
-    "playerId": 36033
+    "playerId": 36033,
+    "season": "2014"
   },
   {
     "date": "2013-07-01",
@@ -6459,7 +6817,8 @@
       }
     },
     "playerName": "Brahim Amar Romero",
-    "playerId": 122699
+    "playerId": 122699,
+    "season": "2014"
   },
   {
     "date": "2013-07-01",
@@ -6477,7 +6836,8 @@
       }
     },
     "playerName": "Stephan Maigaard Andersen",
-    "playerId": 1280
+    "playerId": 1280,
+    "season": "2014"
   },
   {
     "date": "2013-07-01",
@@ -6495,7 +6855,8 @@
       }
     },
     "playerName": "Braian Damián Rodríguez Carballo",
-    "playerId": 53964
+    "playerId": 53964,
+    "season": "2014"
   },
   {
     "date": "2013-07-01",
@@ -6513,7 +6874,8 @@
       }
     },
     "playerName": "Jaime Isuardi Fernández",
-    "playerId": 117046
+    "playerId": 117046,
+    "season": "2014"
   },
   {
     "date": "2013-07-01",
@@ -6531,7 +6893,8 @@
       }
     },
     "playerName": "Ezequiel Calvente Criado",
-    "playerId": 89027
+    "playerId": 89027,
+    "season": "2014"
   },
   {
     "date": "2013-07-01",
@@ -6549,7 +6912,8 @@
       }
     },
     "playerName": "Joan Verdú Fernández",
-    "playerId": 78739
+    "playerId": 78739,
+    "season": "2014"
   },
   {
     "date": "2013-07-01",
@@ -6567,7 +6931,8 @@
       }
     },
     "playerName": "Cedric Mabwati Gerard",
-    "playerId": 104081
+    "playerId": 104081,
+    "season": "2014"
   },
   {
     "date": "2013-07-01",
@@ -6585,7 +6950,8 @@
       }
     },
     "playerName": "Javier Montoya Monente",
-    "playerId": 116905
+    "playerId": 116905,
+    "season": "2014"
   },
   {
     "date": "2013-07-01",
@@ -6603,7 +6969,8 @@
       }
     },
     "playerName": "Manuel Jesús Vázquez Florido",
-    "playerId": 47043
+    "playerId": 47043,
+    "season": "2014"
   },
   {
     "date": "2013-07-01",
@@ -6621,7 +6988,8 @@
       }
     },
     "playerName": "Miguel Ángel Sainz Maza López",
-    "playerId": 56947
+    "playerId": 56947,
+    "season": "2014"
   },
   {
     "date": "2013-07-01",
@@ -6639,7 +7007,8 @@
       }
     },
     "playerName": "Jesús Francisco Muñoz Ruiz",
-    "playerId": 181252
+    "playerId": 181252,
+    "season": "2014"
   },
   {
     "date": "2013-07-01",
@@ -6657,7 +7026,8 @@
       }
     },
     "playerName": "Adrián San Miguel del Castillo",
-    "playerId": 18812
+    "playerId": 18812,
+    "season": "2014"
   },
   {
     "date": "2013-07-01",
@@ -6675,7 +7045,8 @@
       }
     },
     "playerName": "Rubén Salvador Pérez Del Mármol",
-    "playerId": 47415
+    "playerId": 47415,
+    "season": "2014"
   },
   {
     "date": "2013-07-01",
@@ -6693,7 +7064,8 @@
       }
     },
     "playerName": "Javier Magro Matilla",
-    "playerId": 68197
+    "playerId": 68197,
+    "season": "2014"
   },
   {
     "date": "2013-07-01",
@@ -6711,7 +7083,8 @@
       }
     },
     "playerName": "José Alberto Cañas Ruiz Herrera",
-    "playerId": 2369
+    "playerId": 2369,
+    "season": "2014"
   },
   {
     "date": "2013-07-01",
@@ -6729,7 +7102,8 @@
       }
     },
     "playerName": "Juan Francisco Moreno Fuertes",
-    "playerId": 47405
+    "playerId": 47405,
+    "season": "2014"
   },
   {
     "date": "2013-07-01",
@@ -6747,7 +7121,8 @@
       }
     },
     "playerName": "Emmanuel González Rodríguez",
-    "playerId": 47031
+    "playerId": 47031,
+    "season": "2014"
   },
   {
     "date": "2013-07-01",
@@ -6765,7 +7140,8 @@
       }
     },
     "playerName": "L. Reyes",
-    "playerId": 35854
+    "playerId": 35854,
+    "season": "2014"
   },
   {
     "date": "2013-07-01",
@@ -6783,7 +7159,8 @@
       }
     },
     "playerName": "G. Molins",
-    "playerId": 1963
+    "playerId": 1963,
+    "season": "2014"
   },
   {
     "date": "2013-07-01",
@@ -6801,7 +7178,8 @@
       }
     },
     "playerName": "D. Pabón",
-    "playerId": 35555
+    "playerId": 35555,
+    "season": "2014"
   },
   {
     "date": "2013-01-31",
@@ -6819,7 +7197,8 @@
       }
     },
     "playerName": "Fausto Antonio Tienza Nuñez",
-    "playerId": 47036
+    "playerId": 47036,
+    "season": "2013"
   },
   {
     "date": "2013-01-31",
@@ -6837,7 +7216,8 @@
       }
     },
     "playerName": "D. Pabón",
-    "playerId": 35555
+    "playerId": 35555,
+    "season": "2013"
   },
   {
     "date": "2013-01-29",
@@ -6855,7 +7235,8 @@
       }
     },
     "playerName": "Nélson Augusto Tomar Marcos",
-    "playerId": 105003
+    "playerId": 105003,
+    "season": "2013"
   },
   {
     "date": "2013-01-25",
@@ -6873,7 +7254,8 @@
       }
     },
     "playerName": "Aridai Cabrera Suárez",
-    "playerId": 46748
+    "playerId": 46748,
+    "season": "2013"
   },
   {
     "date": "2013-01-24",
@@ -6891,7 +7273,8 @@
       }
     },
     "playerName": "José Antonio Dorado Ramírez",
-    "playerId": 47049
+    "playerId": 47049,
+    "season": "2013"
   },
   {
     "date": "2013-01-21",
@@ -6909,7 +7292,8 @@
       }
     },
     "playerName": "Salvador Agra",
-    "playerId": 40407
+    "playerId": 40407,
+    "season": "2013"
   },
   {
     "date": "2013-01-18",
@@ -6927,7 +7311,8 @@
       }
     },
     "playerName": "G. Molins",
-    "playerId": 1963
+    "playerId": 1963,
+    "season": "2013"
   },
   {
     "date": "2013-01-10",
@@ -6945,7 +7330,8 @@
       }
     },
     "playerName": "Miguel Ángel Sainz Maza López",
-    "playerId": 56947
+    "playerId": 56947,
+    "season": "2013"
   },
   {
     "date": "2013-01-01",
@@ -6963,7 +7349,8 @@
       }
     },
     "playerName": "Jonathan Pereira",
-    "playerId": 46958
+    "playerId": 46958,
+    "season": "2013"
   },
   {
     "date": "2012-08-31",
@@ -6981,7 +7368,8 @@
       }
     },
     "playerName": "Santiago Jiménez Luque",
-    "playerId": 187554
+    "playerId": 187554,
+    "season": "2013"
   },
   {
     "date": "2012-08-29",
@@ -6999,7 +7387,8 @@
       }
     },
     "playerName": "Damien Perquis",
-    "playerId": 20975
+    "playerId": 20975,
+    "season": "2013"
   },
   {
     "date": "2012-08-27",
@@ -7017,7 +7406,8 @@
       }
     },
     "playerName": "Isidoro",
-    "playerId": 39059
+    "playerId": 39059,
+    "season": "2013"
   },
   {
     "date": "2012-08-27",
@@ -7035,7 +7425,8 @@
       }
     },
     "playerName": "Emmanuel Nosakhare Igiebor",
-    "playerId": 15407
+    "playerId": 15407,
+    "season": "2013"
   },
   {
     "date": "2012-08-23",
@@ -7053,7 +7444,8 @@
       }
     },
     "playerName": "Enrique Márquez Climent",
-    "playerId": 47039
+    "playerId": 47039,
+    "season": "2013"
   },
   {
     "date": "2012-08-01",
@@ -7071,7 +7463,8 @@
       }
     },
     "playerName": "Carlos Alfonso Fernández Herrera",
-    "playerId": 117178
+    "playerId": 117178,
+    "season": "2013"
   },
   {
     "date": "2012-07-31",
@@ -7089,7 +7482,8 @@
       }
     },
     "playerName": "Jaime Contreras",
-    "playerId": 208909
+    "playerId": 208909,
+    "season": "2013"
   },
   {
     "date": "2012-07-31",
@@ -7107,7 +7501,8 @@
       }
     },
     "playerName": "Javier Magro Matilla",
-    "playerId": 68197
+    "playerId": 68197,
+    "season": "2013"
   },
   {
     "date": "2012-07-26",
@@ -7125,7 +7520,8 @@
       }
     },
     "playerName": "Ezequiel Calvente Criado",
-    "playerId": 89027
+    "playerId": 89027,
+    "season": "2013"
   },
   {
     "date": "2012-07-18",
@@ -7143,7 +7539,8 @@
       }
     },
     "playerName": "Álex Alegría",
-    "playerId": 46898
+    "playerId": 46898,
+    "season": "2013"
   },
   {
     "date": "2012-07-11",
@@ -7161,7 +7558,8 @@
       }
     },
     "playerName": "Juan Carlos Pérez López",
-    "playerId": 46819
+    "playerId": 46819,
+    "season": "2013"
   },
   {
     "date": "2012-07-10",
@@ -7179,7 +7577,8 @@
       }
     },
     "playerName": "Paulão",
-    "playerId": 96609
+    "playerId": 96609,
+    "season": "2013"
   },
   {
     "date": "2012-07-10",
@@ -7197,7 +7596,8 @@
       }
     },
     "playerName": "Damián Ezequiel Petcoff Kailer",
-    "playerId": 125400
+    "playerId": 125400,
+    "season": "2013"
   },
   {
     "date": "2012-07-01",
@@ -7215,7 +7615,8 @@
       }
     },
     "playerName": "Guillem Savall Parera",
-    "playerId": 187965
+    "playerId": 187965,
+    "season": "2013"
   },
   {
     "date": "2012-07-01",
@@ -7233,7 +7634,8 @@
       }
     },
     "playerName": "Eder Vilarchao",
-    "playerId": 116976
+    "playerId": 116976,
+    "season": "2013"
   },
   {
     "date": "2012-07-01",
@@ -7251,7 +7653,8 @@
       }
     },
     "playerName": "David Agudo Pérez",
-    "playerId": 77606
+    "playerId": 77606,
+    "season": "2013"
   },
   {
     "date": "2012-07-01",
@@ -7269,7 +7672,8 @@
       }
     },
     "playerName": "Salvador Agra",
-    "playerId": 40407
+    "playerId": 40407,
+    "season": "2013"
   },
   {
     "date": "2012-07-01",
@@ -7287,7 +7691,8 @@
       }
     },
     "playerName": "Rubén Salvador Pérez Del Mármol",
-    "playerId": 47415
+    "playerId": 47415,
+    "season": "2013"
   },
   {
     "date": "2012-07-01",
@@ -7305,7 +7710,8 @@
       }
     },
     "playerName": "Eneko Eizmendi Blanco",
-    "playerId": 116977
+    "playerId": 116977,
+    "season": "2013"
   },
   {
     "date": "2012-01-31",
@@ -7323,7 +7729,8 @@
       }
     },
     "playerName": "Momo",
-    "playerId": 47003
+    "playerId": 47003,
+    "season": "2012"
   },
   {
     "date": "2012-01-30",
@@ -7341,7 +7748,8 @@
       }
     },
     "playerName": "Ezequiel Calvente Criado",
-    "playerId": 89027
+    "playerId": 89027,
+    "season": "2012"
   },
   {
     "date": "2012-01-24",
@@ -7359,7 +7767,8 @@
       }
     },
     "playerName": "Paulão",
-    "playerId": 96609
+    "playerId": 96609,
+    "season": "2012"
   },
   {
     "date": "2011-09-01",
@@ -7377,7 +7786,8 @@
       }
     },
     "playerName": "D. Tošić",
-    "playerId": 12928
+    "playerId": 12928,
+    "season": "2012"
   },
   {
     "date": "2011-09-01",
@@ -7395,7 +7805,8 @@
       }
     },
     "playerName": "José Jurado",
-    "playerId": 94732
+    "playerId": 94732,
+    "season": "2012"
   },
   {
     "date": "2011-08-29",
@@ -7413,7 +7824,8 @@
       }
     },
     "playerName": "Roque Luis Santa Cruz Cantero",
-    "playerId": 70775
+    "playerId": 70775,
+    "season": "2012"
   },
   {
     "date": "2011-08-11",
@@ -7431,7 +7843,8 @@
       }
     },
     "playerName": "Achille Emaná Edzimbi",
-    "playerId": 105062
+    "playerId": 105062,
+    "season": "2012"
   },
   {
     "date": "2011-08-01",
@@ -7449,7 +7862,8 @@
       }
     },
     "playerName": "Brimah Razak",
-    "playerId": 98982
+    "playerId": 98982,
+    "season": "2012"
   },
   {
     "date": "2011-08-01",
@@ -7467,7 +7881,8 @@
       }
     },
     "playerName": "Edgar Antonio Méndez Ortega",
-    "playerId": 35575
+    "playerId": 35575,
+    "season": "2012"
   },
   {
     "date": "2011-08-01",
@@ -7485,7 +7900,8 @@
       }
     },
     "playerName": "Sergio León",
-    "playerId": 1583
+    "playerId": 1583,
+    "season": "2012"
   },
   {
     "date": "2011-07-18",
@@ -7503,7 +7919,8 @@
       }
     },
     "playerName": "Antonio Amaya Carazo",
-    "playerId": 104904
+    "playerId": 104904,
+    "season": "2012"
   },
   {
     "date": "2011-07-07",
@@ -7521,7 +7938,8 @@
       }
     },
     "playerName": "Eric Barroso",
-    "playerId": 255435
+    "playerId": 255435,
+    "season": "2012"
   },
   {
     "date": "2011-07-01",
@@ -7539,7 +7957,8 @@
       }
     },
     "playerName": "Nélson Augusto Tomar Marcos",
-    "playerId": 105003
+    "playerId": 105003,
+    "season": "2012"
   },
   {
     "date": "2011-07-01",
@@ -7557,7 +7976,8 @@
       }
     },
     "playerName": "Mario Abrante",
-    "playerId": 36033
+    "playerId": 36033,
+    "season": "2012"
   },
   {
     "date": "2011-07-01",
@@ -7575,7 +7995,8 @@
       }
     },
     "playerName": "Francisco Javier Chica Torres",
-    "playerId": 116876
+    "playerId": 116876,
+    "season": "2012"
   },
   {
     "date": "2011-07-01",
@@ -7593,7 +8014,8 @@
       }
     },
     "playerName": "Fabri",
-    "playerId": 19011
+    "playerId": 19011,
+    "season": "2012"
   },
   {
     "date": "2011-07-01",
@@ -7611,7 +8033,8 @@
       }
     },
     "playerName": "Javier Magro Matilla",
-    "playerId": 68197
+    "playerId": 68197,
+    "season": "2012"
   },
   {
     "date": "2011-07-01",
@@ -7629,7 +8052,8 @@
       }
     },
     "playerName": "Jefferson Antonio Montero Vite",
-    "playerId": 19161
+    "playerId": 19161,
+    "season": "2012"
   },
   {
     "date": "2011-02-01",
@@ -7647,7 +8071,8 @@
       }
     },
     "playerName": "Juan Pablo Caffa",
-    "playerId": 81329
+    "playerId": 81329,
+    "season": "2011"
   },
   {
     "date": "2011-02-01",
@@ -7665,7 +8090,8 @@
       }
     },
     "playerName": "Juande",
-    "playerId": 6812
+    "playerId": 6812,
+    "season": "2011"
   },
   {
     "date": "2010-09-01",
@@ -7683,7 +8109,8 @@
       }
     },
     "playerName": "Hugo Miguel Almeida Costa Lopes",
-    "playerId": 2128
+    "playerId": 2128,
+    "season": "2011"
   },
   {
     "date": "2010-08-27",
@@ -7701,7 +8128,8 @@
       }
     },
     "playerName": "Sergio García de la Fuente",
-    "playerId": 47347
+    "playerId": 47347,
+    "season": "2011"
   },
   {
     "date": "2010-08-20",
@@ -7719,7 +8147,8 @@
       }
     },
     "playerName": "Beñat",
-    "playerId": 47280
+    "playerId": 47280,
+    "season": "2011"
   },
   {
     "date": "2010-08-02",
@@ -7737,7 +8166,8 @@
       }
     },
     "playerName": "Rubén Castro",
-    "playerId": 47012
+    "playerId": 47012,
+    "season": "2011"
   },
   {
     "date": "2010-08-01",
@@ -7755,7 +8185,8 @@
       }
     },
     "playerName": "Nélson Augusto Tomar Marcos",
-    "playerId": 105003
+    "playerId": 105003,
+    "season": "2011"
   },
   {
     "date": "2010-07-03",
@@ -7773,7 +8204,8 @@
       }
     },
     "playerName": "Salvador Sevilla López",
-    "playerId": 46743
+    "playerId": 46743,
+    "season": "2011"
   },
   {
     "date": "2010-07-01",
@@ -7791,7 +8223,8 @@
       }
     },
     "playerName": "Carlos García",
-    "playerId": 105302
+    "playerId": 105302,
+    "season": "2011"
   },
   {
     "date": "2010-07-01",
@@ -7809,7 +8242,8 @@
       }
     },
     "playerName": "Alejandro Ortiz Ramos",
-    "playerId": 104996
+    "playerId": 104996,
+    "season": "2011"
   },
   {
     "date": "2010-07-01",
@@ -7827,7 +8261,8 @@
       }
     },
     "playerName": "Jorge Molina Vidal",
-    "playerId": 47265
+    "playerId": 47265,
+    "season": "2011"
   },
   {
     "date": "2010-07-01",
@@ -7845,7 +8280,8 @@
       }
     },
     "playerName": "Hugo Mariano Pavone",
-    "playerId": 6419
+    "playerId": 6419,
+    "season": "2011"
   },
   {
     "date": "2009-08-14",
@@ -7863,7 +8299,8 @@
       }
     },
     "playerName": "Mark Dennis González Hoffmann",
-    "playerId": 12313
+    "playerId": 12313,
+    "season": "2010"
   },
   {
     "date": "2009-07-01",
@@ -7881,7 +8318,8 @@
       }
     },
     "playerName": "Carlos García",
-    "playerId": 105302
+    "playerId": 105302,
+    "season": "2010"
   },
   {
     "date": "2008-08-01",
@@ -7899,7 +8337,8 @@
       }
     },
     "playerName": "Nélson Augusto Tomar Marcos",
-    "playerId": 105003
+    "playerId": 105003,
+    "season": "2009"
   },
   {
     "date": "2008-08-01",
@@ -7917,7 +8356,8 @@
       }
     },
     "playerName": "Sergio García de la Fuente",
-    "playerId": 47347
+    "playerId": 47347,
+    "season": "2009"
   },
   {
     "date": "2008-07-01",
@@ -7935,7 +8375,8 @@
       }
     },
     "playerName": "Antonio Baltasar Doblas Santana",
-    "playerId": 115251
+    "playerId": 115251,
+    "season": "2009"
   },
   {
     "date": "2007-08-01",
@@ -7953,7 +8394,8 @@
       }
     },
     "playerName": "Leandro Daniel Somoza",
-    "playerId": 74831
+    "playerId": 74831,
+    "season": "2008"
   },
   {
     "date": "2007-07-01",
@@ -7971,7 +8413,8 @@
       }
     },
     "playerName": "Mark Dennis González Hoffmann",
-    "playerId": 12313
+    "playerId": 12313,
+    "season": "2008"
   },
   {
     "date": "2007-07-01",
@@ -7989,7 +8432,8 @@
       }
     },
     "playerName": "Hugo Mariano Pavone",
-    "playerId": 6419
+    "playerId": 6419,
+    "season": "2008"
   },
   {
     "date": "2006-07-01",
@@ -8007,6 +8451,7 @@
       }
     },
     "playerName": "Joaquín",
-    "playerId": 1579
+    "playerId": 1579,
+    "season": "2007"
   }
 ]
