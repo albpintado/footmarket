@@ -16,7 +16,7 @@ describe("TransfersList", () => {
       </Router>
     );
     const articles = screen.getAllByRole("article");
-    expect(articles).toHaveLength(445);
+    expect(articles).toHaveLength(444);
   });
 
   it("shows 5 articles when a season is passed", () => {

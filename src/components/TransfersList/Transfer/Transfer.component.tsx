@@ -1,11 +1,15 @@
 import React from "react";
 import { ClientTransfer } from "interfaces/ClientTransfer";
+import { parseTransferType } from "utils/utils";
 
 type TransferProps = {
   transfer: ClientTransfer;
 };
 
 const Transfer = ({ transfer }: TransferProps): JSX.Element => {
+  if (transfer.playerName === "Data not available") {
+    return <></>;
+  }
   return (
     <article aria-label="transfer-card">
       <section className="player-name">
@@ -13,8 +17,8 @@ const Transfer = ({ transfer }: TransferProps): JSX.Element => {
       </section>
       <section className="transfer-info">
         <ul>
-          <li>{transfer.date.toLocaleString()}</li>
-          <li>{transfer.type}</li>
+          <li>{new Date(transfer.date).toLocaleDateString()}</li>
+          <li>{parseTransferType(transfer.type)}</li>
         </ul>
         <div className="team-info">
           <header>

@@ -10,7 +10,7 @@ describe("Transfer", () => {
     const history = createMemoryHistory({ initialEntries: ["/"] });
     const transfer = {
       date: "2021-08-20",
-      type: "€ 4M",
+      type: "N/A",
       teams: {
         in: {
           id: 543,
@@ -56,9 +56,9 @@ describe("Transfer", () => {
     expect(card).toBeVisible();
     expect(heading).toBeVisible();
     expect(date).toBeVisible();
-    expect(date).toHaveTextContent("2021-08-20");
+    expect(date).toHaveTextContent("20/08/2021");
     expect(transferType).toBeVisible();
-    expect(transferType).toHaveTextContent("€ 4M");
+    expect(transferType).toHaveTextContent("Fin de contrato");
     expect(transferInTeamName).toBeVisible();
     expect(transferOutTeamName).toBeVisible();
     expect(transferOutTeamLogo).toHaveAttribute(
@@ -69,5 +69,43 @@ describe("Transfer", () => {
       "src",
       "https://media.api-sports.io/football/teams/543.png"
     );
+  });
+
+  it("does not shows a card when player name is 'Data not available'", () => {
+    const history = createMemoryHistory({ initialEntries: ["/"] });
+    const transfer = {
+      date: "2020-01-27",
+      type: "Free",
+      teams: {
+        in: {
+          id: 543,
+          name: "Real Betis",
+          logo: "https://media.api-sports.io/football/teams/543.png",
+        },
+        out: {
+          id: 1876,
+          name: "Tavagnacco W",
+          logo: "https://media.api-sports.io/football/teams/1876.png",
+        },
+      },
+      playerName: "Data not available",
+      playerId: 90315,
+      season: "2020",
+    };
+    render(
+      <Router location={history.location} navigator={history}>
+        <Transfer transfer={transfer} />
+      </Router>
+    );
+
+    const card = screen.queryByRole("article", { name: "transfer-card" });
+    const heading = screen.queryByRole("heading", {
+      name: "Data not available",
+    });
+
+    expect(card).not.toBeInTheDocument();
+    expect(card).toBeNull();
+    expect(heading).not.toBeInTheDocument();
+    expect(heading).toBeNull();
   });
 });
