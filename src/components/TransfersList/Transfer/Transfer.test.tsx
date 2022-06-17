@@ -56,7 +56,7 @@ describe("Transfer", () => {
     expect(card).toBeVisible();
     expect(heading).toBeVisible();
     expect(date).toBeVisible();
-    expect(date).toHaveTextContent("2021-08-20");
+    expect(date).toHaveTextContent("20/08/2021");
     expect(transferType).toBeVisible();
     expect(transferType).toHaveTextContent("Fin de contrato");
     expect(transferInTeamName).toBeVisible();

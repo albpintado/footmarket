@@ -17,7 +17,7 @@ const Transfer = ({ transfer }: TransferProps): JSX.Element => {
       </section>
       <section className="transfer-info">
         <ul>
-          <li>{transfer.date.toLocaleString()}</li>
+          <li>{new Date(transfer.date).toLocaleDateString()}</li>
           <li>{parseTransferType(transfer.type)}</li>
         </ul>
         <div className="team-info">
