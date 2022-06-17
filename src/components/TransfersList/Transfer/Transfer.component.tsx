@@ -7,6 +7,9 @@ type TransferProps = {
 };
 
 const Transfer = ({ transfer }: TransferProps): JSX.Element => {
+  if (transfer.playerName === "Data not available") {
+    return <></>;
+  }
   return (
     <article aria-label="transfer-card">
       <section className="player-name">
