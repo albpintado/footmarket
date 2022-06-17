@@ -3,7 +3,7 @@ import { ApiTransfer } from "interfaces/ApiTransfer";
 import { ClientTransfer } from "interfaces/ClientTransfer";
 import data from "data/data.json";
 import seasons from "data/seasons.json";
-import { getTransfersFromApi } from "components/TransfersList/Transfers.service";
+import { getTransfersFromApi } from "components/TransfersList/Transfer/Transfer.service";
 
 const makeTransfersDataFromApi = async (): Promise<ClientTransfer[]> => {
   const transfersFromApi: ApiElement[] = await getTransfersFromApi();
