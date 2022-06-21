@@ -8,6 +8,7 @@ import { ClientTransfer } from "interfaces/ClientTransfer";
 import { Link } from "react-router-dom";
 import AppRoutes from "./AppRoutes.component";
 import NavbarLinkList from "components/NavbarLinkList/NavbarLinkList.component";
+import Loader from "components/Loader/Loader";
 
 function App() {
   const initialTransfersObject = {
@@ -33,6 +34,7 @@ function App() {
   const [transfers, setTransfers] = useState<ClientTransfer[]>([
     initialTransfersObject,
   ]);
+  const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -45,16 +47,28 @@ function App() {
       setTransfers(transfers);
     };
     fetchData();
+    setIsLoading(!isLoading);
   }, []);
 
-  return (
+  return isLoading ? (
+    <main className="App">
+      <header>
+        <nav>
+          <h1>Footmarket</h1>
+        </nav>
+      </header>
+      <Loader />
+      <footer id="web-footer">
+        <p>Footmarket - Alberto Pintado &copy;</p>
+      </footer>
+    </main>
+  ) : (
     <main className="App">
       <header>
         <nav>
           <Link to="/">
             <h1>Footmarket</h1>
           </Link>
-          <a href="/"></a>
           <NavbarLinkList />
         </nav>
       </header>
