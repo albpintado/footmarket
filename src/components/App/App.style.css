@@ -11,6 +11,7 @@ html {
 
 body {
   background-color: #dad7cd;
+  /* height: 100vh; */
 }
 
 header nav {
@@ -158,6 +159,37 @@ footer {
 
 #go-up-button:hover {
   background-color: #cdcbc4;
+}
+
+#loader-container {
+  display: flex;
+  justify-content: center;
+  height: 75vh;
+}
+
+#loader {
+  border: 10px solid #f3f3f3;
+  border-top: 10px solid #344e41;
+  border-radius: 50%;
+  width: 5rem;
+  height: 5rem;
+  animation: spin 1s linear infinite;
+  margin: auto;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+#web-footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 
 @media only screen and (min-width: 768px) {
