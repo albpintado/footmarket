@@ -11,30 +11,7 @@ import NavbarLinkList from "components/NavbarLinkList/NavbarLinkList.component";
 import Loader from "components/Loader/Loader";
 
 function App() {
-  const initialTransfersObject = {
-    playerName: "",
-    playerId: 1,
-    date: "",
-    type: "",
-    teams: {
-      in: {
-        id: 1,
-        name: "",
-        logo: "",
-      },
-      out: {
-        id: 1,
-        name: "",
-        logo: "",
-      },
-    },
-    season: "",
-  };
-
-  const [transfers, setTransfers] = useState<ClientTransfer[]>([
-    initialTransfersObject,
-  ]);
-  const [isLoading, setIsLoading] = useState(true);
+  const [transfers, setTransfers] = useState<ClientTransfer[]>([]);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -47,10 +24,9 @@ function App() {
       setTransfers(transfers);
     };
     fetchData();
-    setIsLoading(!isLoading);
   }, []);
 
-  return isLoading ? (
+  return transfers.length === 0 ? (
     <main className="App">
       <header>
         <nav>
