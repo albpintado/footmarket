@@ -22,7 +22,7 @@ export const Search = ({ setFilterQuery }: SearchProps): JSX.Element => {
   };
 
   return (
-    <form id={htmlId} onSubmit={handleSubmit}>
+    <form data-testid="search-form" id={htmlId} onSubmit={handleSubmit}>
       {isOpen && <SearchInput handleChange={handleChange} />}
       <SearchButton
         isOpen={isOpen}
