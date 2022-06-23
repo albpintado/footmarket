@@ -9,9 +9,11 @@ import { Link } from "react-router-dom";
 import AppRoutes from "./AppRoutes.component";
 import NavbarLinkList from "components/NavbarLinkList/NavbarLinkList.component";
 import Loader from "components/Loader/Loader";
+import { Search } from "components/Search/Search.component";
 
 function App() {
   const [transfers, setTransfers] = useState<ClientTransfer[]>([]);
+  const [filterQuery, setFilterQuery] = useState("");
 
   useEffect(() => {
     const fetchData = async () => {
@@ -29,27 +31,28 @@ function App() {
   return transfers.length === 0 ? (
     <main className="App">
       <header>
-        <nav>
+        <nav id="web-header-loading">
           <h1>Footmarket</h1>
         </nav>
       </header>
       <Loader />
-      <footer id="web-footer">
+      <footer id="web-footer-loading">
         <p>Footmarket - Alberto Pintado &copy;</p>
       </footer>
     </main>
   ) : (
     <main className="App">
       <header>
-        <nav>
+        <nav id="web-header-navbar">
           <Link to="/">
             <h1>Footmarket</h1>
           </Link>
+          <Search setFilterQuery={setFilterQuery} />
           <NavbarLinkList />
         </nav>
       </header>
       <div className="container">
-        <AppRoutes transfers={transfers} />
+        <AppRoutes transfers={transfers} filterQuery={filterQuery} />
       </div>
       <button
         aria-label="go-to-top"
@@ -58,7 +61,7 @@ function App() {
       >
         <i className="fa-solid fa-caret-up"></i>{" "}
       </button>
-      <footer>
+      <footer id="web-footer">
         <p>Footmarket - Alberto Pintado &copy;</p>
       </footer>
     </main>

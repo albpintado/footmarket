@@ -11,20 +11,94 @@ html {
 
 body {
   background-color: #dad7cd;
-  /* height: 100vh; */
 }
 
 header nav {
+  text-align: center;
   box-shadow: 0px -15px 50px 0px rgba(0, 0, 0, 0.75);
   background-color: #344e41;
+}
+
+header nav#web-header-navbar {
+  display: grid;
+  grid-template-columns: 25% 50% 25%;
+}
+
+header nav h1 {
+  padding: 0.75rem 1rem;
+  color: #dad7cd;
+  font-size: 1.375rem;
+  font-weight: 600;
+}
+
+header nav#web-header-navbar a {
+  grid-column-start: 2;
+}
+
+header nav #search-form,
+header nav #search-form-open {
+  display: flex;
+  justify-self: end;
+  align-self: center;
+  box-sizing: border-box;
+  margin-right: 0.25rem;
+  border: 0.125rem white solid;
+  border-radius: 0.5rem;
+}
+
+header nav #search-form-open {
+  width: 100%;
+}
+
+header nav #search-form {
+  border-color: #344e41;
+}
+
+header nav #search-form input,
+header nav #search-form-open input {
+  justify-self: flex-start;
+  width: 100%;
+  padding: 0.25rem;
+  border: none;
+  border-bottom-right-radius: 0%;
+  border-top-right-radius: 0%;
+  caret-color: #344e41;
+  font-size: 1rem;
+}
+
+header nav #search-form button,
+header nav #search-form-open button {
+  background-color: transparent;
+  border-color: transparent;
+  font-size: 1.25rem;
+}
+
+header nav #search-form .open-form,
+header nav #search-form-open .open-form {
+  padding: 0 0.25rem;
+  color: white;
+}
+
+header nav #search-form .open-form {
+  padding-bottom: 0.125rem;
+  padding-top: 0.125rem;
+}
+
+header nav #search-form .close-form,
+header nav #search-form-open .close-form {
   text-align: center;
+  vertical-align: middle;
+  padding: 0 0.5rem;
+  color: white;
 }
 
 header nav ul {
   display: flex;
+  grid-column-start: 1;
+  grid-column-end: 4;
   overflow: scroll;
-  border-top: 2px rgba(218, 215, 205, 0.5) solid;
   width: 100%;
+  border-top: 2px rgba(218, 215, 205, 0.5) solid;
 }
 
 header nav ul::-webkit-scrollbar {
@@ -41,9 +115,13 @@ header nav ul li {
 }
 
 header nav ul li a {
-  color: #dad7cd;
-  cursor: pointer;
   padding: 0.5rem;
+  cursor: pointer;
+  color: #dad7cd;
+}
+
+nav a {
+  text-decoration: none;
 }
 
 header nav ul li a:visited {
@@ -59,40 +137,29 @@ header nav ul li a:hover {
   background-color: rgba(218, 215, 205, 0.5);
 }
 
-.transfer-team-name {
-  margin-bottom: 0.5rem;
-}
-
 article {
   margin: 0.5rem;
-  background-color: #a3b18a;
   border-radius: 0.75rem;
+  background-color: #a3b18a;
 }
 
 article:last-child {
   margin-bottom: 0;
 }
 
-nav a {
-  text-decoration: none;
-}
-
-h1 {
-  padding: 0.75rem 1rem;
-  font-weight: 600;
-  font-size: 1.375rem;
-  color: #dad7cd;
+.transfer-team-name {
+  margin-bottom: 0.5rem;
 }
 
 h2 {
-  text-align: center;
   padding: 0.25rem;
-  font-weight: 400;
-  color: white;
+  text-align: center;
   background-color: #588157;
+  color: white;
   border: 0.0625rem #588157 solid;
   border-top-left-radius: 0.7rem;
   border-top-right-radius: 0.7rem;
+  font-weight: 400;
 }
 
 ul {
@@ -121,23 +188,23 @@ footer {
 }
 
 header p {
-  font-weight: 400;
   padding: 0.25rem 0;
+  font-weight: 400;
 }
 
 .team-logo {
   width: 4rem;
   padding: 0.25rem 0;
-  background-color: #ecebe4;
   border: 1px #0a0908 solid;
   border-radius: 0.75rem;
+  background-color: #ecebe4;
 }
 
 footer {
   padding: 0.25rem 0;
   margin-top: 0.5rem;
-  background-color: #344e41;
   text-align: center;
+  background-color: #344e41;
   color: white;
 }
 
@@ -146,15 +213,15 @@ footer {
   bottom: 2rem;
   right: 2rem;
   z-index: 100;
-  font-size: 1.5rem;
-  border-radius: 100%;
   padding: 1rem 1.5rem;
-  color: #344e41;
-  text-decoration: none;
-  background-color: rgba(236, 235, 228, 1);
-  cursor: pointer;
   border: 0px;
+  border-radius: 100%;
+  background-color: rgba(236, 235, 228, 1);
+  color: #344e41;
+  cursor: pointer;
   box-shadow: 0px 5px 50px -10px rgba(0, 0, 0, 0.75);
+  text-decoration: none;
+  font-size: 1.5rem;
 }
 
 #go-up-button:hover {
@@ -168,13 +235,13 @@ footer {
 }
 
 #loader {
+  width: 5rem;
+  height: 5rem;
+  margin: auto;
   border: 10px solid #f3f3f3;
   border-top: 10px solid #344e41;
   border-radius: 50%;
-  width: 5rem;
-  height: 5rem;
   animation: spin 1s linear infinite;
-  margin: auto;
 }
 
 @keyframes spin {
@@ -186,7 +253,7 @@ footer {
   }
 }
 
-#web-footer {
+#web-footer-loading {
   position: absolute;
   bottom: 0;
   width: 100%;
