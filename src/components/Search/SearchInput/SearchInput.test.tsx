@@ -7,7 +7,7 @@ import { SearchInput } from "./SearchInput.component";
 import userEvent from "@testing-library/user-event";
 
 describe("SearchButton", () => {
-  it("shows a glass button", () => {
+  it("shows an input that calls handleChange when text is written", () => {
     const history = createMemoryHistory({ initialEntries: ["/"] });
     const handleChangeMock = jest.fn();
     render(
