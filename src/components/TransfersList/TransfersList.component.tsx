@@ -16,9 +16,14 @@ const TransfersList = ({
   const filteredTransfers = transfers.filter((transfer: ClientTransfer) =>
     transfer.playerName
       ?.toLowerCase()
-      .normalize("NFKD")
+      .normalize("NFD")
       .replace(/[\u0300-\u036f]/g, "")
-      .includes(filterQuery.normalize("NFC").replace(/[\u0300-\u036f]/g, ""))
+      .includes(
+        filterQuery
+          .toLowerCase()
+          .normalize("NFD")
+          .replace(/[\u0300-\u036f]/g, "")
+      )
   );
 
   return filterQuery === "" ? (
