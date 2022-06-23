@@ -17,8 +17,12 @@ export const Search = ({ setFilterQuery }: SearchProps): JSX.Element => {
     timer = setTimeout(() => setFilterQuery(filterQuery), 1000);
   };
 
+  const handleSubmit = () => {
+    setFilterQuery("");
+  };
+
   return (
-    <form id={htmlId}>
+    <form id={htmlId} onSubmit={handleSubmit}>
       {isOpen && <SearchInput handleChange={handleChange} />}
       <SearchButton
         isOpen={isOpen}
