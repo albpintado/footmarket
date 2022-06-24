@@ -30,7 +30,7 @@ describe("TransfersList", () => {
     expect(articles).toHaveLength(5);
   });
 
-  it.only("shows 2 articles when Todos text is passed and bellerin is the query", () => {
+  it("shows 2 articles when Todos text is passed and bellerin is the query", () => {
     const history = createMemoryHistory({ initialEntries: ["/"] });
     render(
       <Router location={history.location} navigator={history}>
