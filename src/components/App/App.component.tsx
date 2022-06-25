@@ -5,13 +5,12 @@ import {
   makeTransfersDataFromApi,
 } from "utils/makeTransfersData";
 import { ClientTransfer } from "interfaces/ClientTransfer";
-import { Link } from "react-router-dom";
-import AppRoutes from "./AppRoutes.component";
-import NavbarLinkList from "components/NavbarLinkList/NavbarLinkList.component";
-import Loader from "components/Loader/Loader";
+import { TransfersPage } from "pages/TransfersPage";
+import { LoadingPage } from "pages/LoadingPage";
 
 function App() {
   const [transfers, setTransfers] = useState<ClientTransfer[]>([]);
+  const [filterQuery, setFilterQuery] = useState("");
 
   useEffect(() => {
     const fetchData = async () => {
@@ -26,42 +25,16 @@ function App() {
     fetchData();
   }, []);
 
-  return transfers.length === 0 ? (
-    <main className="App">
-      <header>
-        <nav>
-          <h1>Footmarket</h1>
-        </nav>
-      </header>
-      <Loader />
-      <footer id="web-footer">
-        <p>Footmarket - Alberto Pintado &copy;</p>
-      </footer>
-    </main>
+  const isLoading = transfers.length === 0;
+
+  return isLoading ? (
+    <LoadingPage />
   ) : (
-    <main className="App">
-      <header>
-        <nav>
-          <Link to="/">
-            <h1>Footmarket</h1>
-          </Link>
-          <NavbarLinkList />
-        </nav>
-      </header>
-      <div className="container">
-        <AppRoutes transfers={transfers} />
-      </div>
-      <button
-        aria-label="go-to-top"
-        id="go-up-button"
-        onClick={() => window.scrollTo(0, 0)}
-      >
-        <i className="fa-solid fa-caret-up"></i>{" "}
-      </button>
-      <footer>
-        <p>Footmarket - Alberto Pintado &copy;</p>
-      </footer>
-    </main>
+    <TransfersPage
+      transfers={transfers}
+      filterQuery={filterQuery}
+      setFilterQuery={setFilterQuery}
+    />
   );
 }
 
