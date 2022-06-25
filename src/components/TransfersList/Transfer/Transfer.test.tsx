@@ -104,8 +104,8 @@ describe("Transfer", () => {
     });
 
     expect(card).not.toBeInTheDocument();
-    expect(card).toBeNull();
+    expect(card).not.toBeInTheDocument();
     expect(heading).not.toBeInTheDocument();
-    expect(heading).toBeNull();
+    expect(heading).not.toBeInTheDocument();
   });
 });

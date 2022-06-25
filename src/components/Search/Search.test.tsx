@@ -20,7 +20,7 @@ describe("Search", () => {
     const input = screen.queryByPlaceholderText(/buscar/i);
     const button = within(form).getByRole("button");
 
-    expect(input).toBeNull();
+    expect(input).not.toBeInTheDocument();
     expect(button).toBeVisible();
   });
 
