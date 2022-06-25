@@ -1,32 +1,35 @@
 import React from "react";
 import "@testing-library/jest-dom";
-import { render, screen, within } from "@testing-library/react";
+import { act, render, screen, waitFor, within } from "@testing-library/react";
 import App from "./App.component";
 import { Router } from "react-router-dom";
 import { createMemoryHistory } from "history";
 import userEvent from "@testing-library/user-event";
 
-describe("App", () => {
-  it("shows Footmarket h1", () => {
+const wait = (time: number) => {
+  act(() => {
+    jest.advanceTimersByTime(time);
+  });
+};
+
+describe("App in '/'", () => {
+  beforeEach(() => {
     const history = createMemoryHistory({ initialEntries: ["/"] });
     render(
       <Router location={history.location} navigator={history}>
         <App />
       </Router>
     );
+    jest.useFakeTimers();
+  });
+
+  it("shows Footmarket h1", () => {
     const h1 = screen.getByRole("heading", { name: /footmarket/i });
 
     expect(h1).toBeInTheDocument();
   });
 
   it("shows a card with name, date, type and teams", () => {
-    const history = createMemoryHistory({ initialEntries: ["/"] });
-    render(
-      <Router location={history.location} navigator={history}>
-        <App />
-      </Router>
-    );
-
     const card: HTMLElement = screen.getAllByRole("heading", {
       name: /alexandre moreno lopera/i,
     })[0].parentElement?.parentElement as HTMLElement;
@@ -73,13 +76,7 @@ describe("App", () => {
     );
   });
 
-  it("shows a button which scroll to the top when clicked", () => {
-    const history = createMemoryHistory({ initialEntries: ["/"] });
-    render(
-      <Router location={history.location} navigator={history}>
-        <App />
-      </Router>
-    );
+  it("shows a button which scrolls to the top when clicked", () => {
     const goUpButton = screen.getByRole("button", { name: /go-to-top/i });
     window.scrollTo = jest.fn();
 
@@ -88,5 +85,55 @@ describe("App", () => {
     expect(goUpButton).toBeVisible();
     expect(window.scrollTo).toHaveBeenCalledTimes(1);
     expect(window.scrollTo).toHaveBeenCalledWith(0, 0);
+  });
+
+  it("shows two articles when bellerin is written in input search and all articles when input is cleared", async () => {
+    const form = screen.getByTestId("search-form");
+
+    const button = within(form).getByRole("button", { name: /search-button/i });
+    userEvent.click(button);
+
+    const input = within(form).getByPlaceholderText(/buscar/i);
+    userEvent.type(input, "bellerin");
+    wait(1100);
+
+    const articlesWithFilledInput = screen.getAllByRole("article");
+    expect(articlesWithFilledInput).toHaveLength(2);
+
+    userEvent.clear(input);
+    wait(1100);
+    const articlesWithEmptyInput = await screen.findAllByRole("article");
+
+    expect(articlesWithEmptyInput).toHaveLength(444);
+  });
+
+  afterEach(() => {
+    jest.useRealTimers();
+  });
+});
+
+describe("App in '/' to '2021/22'", () => {
+  it("shows articles for 2021/22 season when link is clicked", async () => {
+    const history = createMemoryHistory({ initialEntries: ["/"] });
+    const { rerender } = render(
+      <Router location={history.location} navigator={history}>
+        <App />
+      </Router>
+    );
+    const articles = screen.getAllByRole("article");
+
+    expect(articles).toHaveLength(444);
+    const season = screen.getByRole("link", { name: /2021\/22/i });
+    expect(season).toBeInTheDocument();
+    userEvent.click(season);
+
+    const newHistory = createMemoryHistory({ initialEntries: ["/2022"] });
+    rerender(
+      <Router location={newHistory.location} navigator={newHistory}>
+        <App />
+      </Router>
+    );
+
+    expect(screen.getAllByRole("article")).toHaveLength(16);
   });
 });
