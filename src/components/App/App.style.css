@@ -65,6 +65,10 @@ header nav #search-form-open input {
   font-size: 1rem;
 }
 
+button {
+  cursor: pointer;
+}
+
 header nav #search-form button,
 header nav #search-form-open button {
   background-color: transparent;
